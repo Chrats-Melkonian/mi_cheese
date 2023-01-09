@@ -1,0 +1,21 @@
+"Id","Description","baseMean","log2FoldChange.minusSTvsAll","padj.minusSTvsAll"
+"OG1286","Ammonium transporter",187.38,4.796,0
+"OG1285","Nitrogen regulatory protein P-II",47.56,4.245,0
+"OG1318","HTH-type transcriptional regulator GlnR",3285.41,3.815,0
+"OG1313","Glutamine synthetase",7415.96,3.801,0
+"OG1724","Membrane-bound lytic murein transglycosylase F",2500.75,2.708,0
+"OG6194","Pyrrolidone-carboxylate peptidase",7.03,2.484,0.005
+"OG1723","Arginine transport ATP-binding protein ArtM",696.98,2.273,0
+"OG1123","Hypoxanthine-guanine phosphoribosyltransferase",867.65,2.101,0
+"OG832","Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit",517.85,2.055,0
+"OG2576","3-phenylpropionate-dihydrodiol/cinnamic acid-dihydrodiol dehydrogenase",235.86,2.018,0
+"OG606","Phosphoribosylformylglycinamidine synthase subunit PurS",286.38,1.955,0
+"OG1440","Guanine/hypoxanthine permease PbuO",3437.67,1.929,0
+"OG1617","Orotidine 5'-phosphate decarboxylase",474.35,1.918,0
+"OG4526","hypothetical protein",106.63,1.899,0
+"OG599","Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit",393.65,1.892,0
+"OG591","N5-carboxyaminoimidazole ribonucleotide mutase",1107.93,1.884,0
+"OG3852","hypothetical protein",473.8,1.862,0
+"OG1300","50S ribosomal protein L31 type B",2037.59,1.86,0.008
+"OG3885","hypothetical protein",213.35,1.772,0
+"OG3496","hypothetical protein",25.5,1.74,0

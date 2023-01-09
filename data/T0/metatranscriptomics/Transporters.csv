@@ -1,0 +1,59 @@
+"ST_minus10675_down","NLANBGKA_01249","Niacin transporter NiaX",11.89,-1.77,0.004
+"ST_minus10675_down","NLANBGKA_00561","Branched-chain amino acid transport system 2 carrier protein",380.4,-1.039,0
+"ST_minus10675_down","NLANBGKA_00628","putative ABC transporter ATP-binding protein",192.2,-0.938,0
+"ST_minus10675_down","NLANBGKA_01171","putative glutamine ABC transporter permease protein GlnP",245.74,-0.892,0
+"ST_minus10675_down","NLANBGKA_01576","Di-/tripeptide transporter",87.66,-0.735,0.001
+"ST_minus10675_down","NLANBGKA_01645","Energy-coupling factor transporter ATP-binding protein EcfA1",55.22,-0.707,0.009
+"ST_minus10675_down","NLANBGKA_01340","Glutamine transport system permease protein GlnP",145.08,-0.478,0.009
+"ST_minus10675_down","NLANBGKA_00352","putative cation-transporting ATPase E",1027.53,-0.426,0.006
+"ST_minusSICO_down","NLANBGKA_00561","Branched-chain amino acid transport system 2 carrier protein",380.4,-1.24,0
+"ST_minusSICO_down","NLANBGKA_01197","H(+)/Cl(-) exchange transporter ClcA",130.85,-0.942,0.002
+"ST_minusSICO_down","NLANBGKA_01171","putative glutamine ABC transporter permease protein GlnP",245.74,-0.772,0.002
+"ST_minus10675_up","NLANBGKA_00054","Oligopeptide transport system permease protein OppB",36.45,1.94,0
+"ST_minus10675_up","NLANBGKA_00052","Oligopeptide transport ATP-binding protein OppD",42.38,1.453,0
+"ST_minus10675_up","NLANBGKA_00051","Oligopeptide transport ATP-binding protein OppF",27.95,1.371,0.001
+"ST_minus10675_up","NLANBGKA_00053","Oligopeptide transport system permease protein OppC",26.58,1.145,0.005
+"ST_minus10675_up","NLANBGKA_01781","High-affinity branched-chain amino acid transport system permease protein LivH",94.47,0.692,0.004
+"ST_minus10675_up","NLANBGKA_00082","putative ABC transporter ATP-binding protein YheS",94.94,0.559,0.01
+"ST_minusSICO_up","NLANBGKA_00054","Oligopeptide transport system permease protein OppB",36.45,2.204,0
+"ST_minusSICO_up","NLANBGKA_00584","putative ABC transporter ATP-binding protein YbhF",9.45,2.126,0.008
+"ST_minusSICO_up","NLANBGKA_00051","Oligopeptide transport ATP-binding protein OppF",27.95,2.028,0
+"ST_minusSICO_up","NLANBGKA_00052","Oligopeptide transport ATP-binding protein OppD",42.38,1.907,0
+"ST_minusSICO_up","NLANBGKA_01784","High-affinity branched-chain amino acid transport ATP-binding protein LivF",47.54,1.221,0.003
+"ST_minus5614_up","NLANBGKA_00054","Oligopeptide transport system permease protein OppB",36.45,1.59,0.001
+"LL_minusST_down","OG4035","putative cadmium-transporting ATPase",15.39,-6.433,0.001
+"LL_minusST_down","OG2979","putative cadmium-transporting ATPase",8.22,-2.328,0.003
+"LL_minusST_down","OG894","L-arabinose transport system permease protein AraQ",8.56,-2.128,0.008
+"LL_minusST_down","OG2894","Cadmium-transporting ATPase",45.07,-1.593,0
+"LL_minusST_down","OG199","Manganese ABC transporter substrate-binding lipoprotein",2028.05,-1.004,0.007
+"LL_minusST_down","OG4397","Energy-coupling factor transporter transmembrane protein EcfT",179.67,-0.994,0
+"LL_minusST_down","OG4570","Divalent metal cation transporter MntH",20514.46,-0.724,0
+"LL_minusST_down","OG4453","Energy-coupling factor transporter transmembrane protein EcfT",466.74,-0.698,0.001
+"LL_minusST_down","OG2521","Lactococcin-G-processing and transport ATP-binding protein LagD",187.36,-0.655,0.002
+"LL_minusST_down","OG791","Zinc-transporting ATPase",9183.18,-0.58,0
+"LL_minusST_down","OG409","putative ABC transporter permease",873.92,-0.544,0.002
+"LL_minusST_down","OG2030","Riboflavin transporter RibZ",9814.19,-0.48,0
+"LL_minusST_down","OG625","putative multidrug resistance ABC transporter ATP-binding/permease protein YheH",582.27,-0.387,0.006
+"LL_minusST_down","OG1061","putative multidrug resistance ABC transporter ATP-binding/permease protein YheI",705.72,-0.366,0.01
+"LL_minusST_up","OG1286","Ammonium transporter",187.38,4.796,0
+"LL_minusST_up","OG1723","Arginine transport ATP-binding protein ArtM",696.98,2.273,0
+"LL_minusST_up","OG1439","Glutamine transport ATP-binding protein GlnQ",448.86,1.508,0
+"LL_minusST_up","OG4556","Branched-chain amino acid transport system 2 carrier protein",309.58,1.412,0
+"LL_minusST_up","OG1139","Glycine betaine transport ATP-binding protein OpuAA",1703.5,1.304,0
+"LL_minusST_up","OG4301","putative formate transporter 1",191.44,1.27,0
+"LL_minusST_up","OG1064","ABC transporter ATP-binding protein YtrE AND putative ABC transporter ATP-binding protein",35.68,1.225,0
+"LL_minusST_up","OG570","Queuosine precursor transporter QueT",284.83,1.132,0
+"LL_minusST_up","OG1098","putative MFS-type transporter YhjX",4365.52,0.938,0
+"LL_minusST_up","OG1302","Biotin transporter BioY2",47.08,0.887,0.01
+"LL_minusST_up","OG2474","Pantothenic acid transporter PanT",388.81,0.794,0
+"LL_minusST_up","OG902","Riboflavin transporter RibZ",605.1,0.697,0
+"LL_minusST_up","OG2976","Energy-coupling factor transporter ATP-binding protein EcfA1",1111.37,0.64,0
+"LL_minusST_up","OG4413","putative cation-transporting ATPase E",467.65,0.578,0
+"LL_minusST_up","OG948","Energy-coupling factor transporter ATP-binding protein EcfA2",662.64,0.567,0
+"LL_minusST_up","OG100","putative ABC transporter ATP-binding protein AND Putative multidrug export ATP-binding/permease protein",718.52,0.447,0.001
+"LL_minusST_up","OG236","putative inner membrane transporter YicL",307.72,0.447,0.003
+"LL_minusST_up","OG1074","Inner membrane transporter YjeM",755.86,0.407,0
+"LL_minusST_up","OG1487","Low affinity potassium transport system protein kup",4343.5,0.37,0
+"LL_minusST_up","OG867","Multidrug resistance ABC transporter ATP-binding and permease protein",598.8,0.33,0.001
+"LL_minusST_up","OG1463","Di-/tripeptide transporter",3815.77,0.317,0.001
+"LL_minusST_up","OG1444","putative ABC transporter ATP-binding protein",2277.41,0.293,0.002

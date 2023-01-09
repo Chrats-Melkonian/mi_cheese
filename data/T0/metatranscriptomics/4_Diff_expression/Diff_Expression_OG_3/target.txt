@@ -1,0 +1,19 @@
+label	files	condition
+sample_1A	OG_pan_count_sample_1A_3.csv	All
+sample_1B	OG_pan_count_sample_1B_3.csv	All
+sample_1C	OG_pan_count_sample_1C_3.csv	All
+sample_2A	OG_pan_count_sample_2A_3.csv	minus ST
+sample_2B	OG_pan_count_sample_2B_3.csv	minus ST
+sample_2C	OG_pan_count_sample_2C_3.csv	minus ST
+sample_3A	OG_pan_count_sample_3A_3.csv	minus 5614
+sample_3B	OG_pan_count_sample_3B_3.csv	minus 5614
+sample_3C	OG_pan_count_sample_3C_3.csv	minus 5614
+sample_4A	OG_pan_count_sample_4A_3.csv	minus 6086
+sample_4B	OG_pan_count_sample_4B_3.csv	minus 6086
+sample_4C	OG_pan_count_sample_4C_3.csv	minus 6086
+sample_5A	OG_pan_count_sample_5A_3.csv	minus 10675
+sample_5B	OG_pan_count_sample_5B_3.csv	minus 10675
+sample_5C	OG_pan_count_sample_5C_3.csv	minus 10675
+sample_6A	OG_pan_count_sample_6A_3.csv	minus SICO
+sample_6B	OG_pan_count_sample_6B_3.csv	minus SICO
+sample_6C	OG_pan_count_sample_6C_3.csv	minus SICO

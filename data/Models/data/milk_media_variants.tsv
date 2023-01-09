@@ -1,0 +1,219 @@
+medium	description	compound	name
+milk_aer	Full milk aerobic	h2o	H2O
+milk_aer	Full milk aerobic	o2	O2
+milk_aer	Full milk aerobic	co2	CO2
+milk_aer	Full milk aerobic	ca2	Ca2+
+milk_aer	Full milk aerobic	cl	Cl-
+milk_aer	Full milk aerobic	cobalt2	Co2+
+milk_aer	Full milk aerobic	cu2	Cu2+
+milk_aer	Full milk aerobic	fe2	Fe2+
+milk_aer	Full milk aerobic	fe3	Fe3+
+milk_aer	Full milk aerobic	h	H+
+milk_aer	Full milk aerobic	k	K+
+milk_aer	Full milk aerobic	mg2	Mg
+milk_aer	Full milk aerobic	mn2	Mn2+
+milk_aer	Full milk aerobic	mobd	Molybdate
+milk_aer	Full milk aerobic	na1	Na+
+milk_aer	Full milk aerobic	nh4	Ammonium
+milk_aer	Full milk aerobic	ni2	Ni2+
+milk_aer	Full milk aerobic	pi	Phosphate
+milk_aer	Full milk aerobic	so4	Sulfate
+milk_aer	Full milk aerobic	zn2	Zn2+
+milk_aer	Full milk aerobic	ala__L	L-Alanine
+milk_aer	Full milk aerobic	asn__L	L-Asparagine
+milk_aer	Full milk aerobic	asp__L	L-Aspartate
+milk_aer	Full milk aerobic	glu__L	L-Glutamate
+milk_aer	Full milk aerobic	gln__L	L-Glutamine
+milk_aer	Full milk aerobic	gly	Glycine
+milk_aer	Full milk aerobic	his__L	L-Histidine
+milk_aer	Full milk aerobic	ile__L	L-Isoleucine
+milk_aer	Full milk aerobic	leu__L	L-Leucine
+milk_aer	Full milk aerobic	lys__L	L-Lysine
+milk_aer	Full milk aerobic	orn	Ornithine
+milk_aer	Full milk aerobic	phe__L	L-Phenylalanine
+milk_aer	Full milk aerobic	peamn	Phylethylamine
+milk_aer	Full milk aerobic	pro__L	L-Proline
+milk_aer	Full milk aerobic	ser__L	L-Serine
+milk_aer	Full milk aerobic	thr__L	L-Threonine
+milk_aer	Full milk aerobic	trp__L	tryptophan
+milk_aer	Full milk aerobic	tyr__L	L-Tyrosine
+milk_aer	Full milk aerobic	val__L	L-Valine
+milk_aer	Full milk aerobic	lcts	Lactose
+milk_aer	Full milk aerobic	glc__D	D-Glucose
+milk_aer	Full milk aerobic	gal	D-Galactose
+milk_aer	Full milk aerobic	gal_bD	Beta D-Galactose
+milk_aer	Full milk aerobic	cit	Citrate
+milk_aer	Full milk aerobic	lac__D	D-Lactate
+milk_aer	Full milk aerobic	lac__L	L-Lactate
+milk_aer	Full milk aerobic	for	Formate
+milk_aer	Full milk aerobic	ac	Acetate
+milk_aer	Full milk aerobic	oxa	Oxalate
+milk_aer	Full milk aerobic	pydx	Pyridoxal
+milk_aer	Full milk aerobic	cbl1	Vitamin B12
+milk_aer	Full milk aerobic	thm	Thiamin
+milk_aer	Full milk aerobic	pnto__R	(R)-Pantothenate
+milk_aer	Full milk aerobic	fol	Folate
+milk_aer	Full milk aerobic	ribflv	Riboflavin
+milk_aer	Full milk aerobic	nac	Isonicotinic acid
+milk_aer	Full milk aerobic	btn	Biotin
+milk_aer	Full milk aerobic	but	Butyrate
+milk_aer	Full milk aerobic	caproic	Caproic acid
+milk_aer	Full milk aerobic	octa	octanoate
+milk_aer	Full milk aerobic	dca	decanoate
+milk_aer	Full milk aerobic	ddca	dodecanoate
+milk_aer	Full milk aerobic	ttdca	tetradecanoate
+milk_aer	Full milk aerobic	ptdca	Pentadecanoate
+milk_aer	Full milk aerobic	hdca	hexadecanoate
+milk_aer	Full milk aerobic	ocdca	octadecanoate
+milk_aer	Full milk aerobic	arach	arachidic acid
+milk_aer	Full milk aerobic	ttdcea	Tetradecenoate (n-C14:1)
+milk_aer	Full milk aerobic	hdcea	hexadecanoate (n-C16:1)
+milk_aer	Full milk aerobic	ocdcea	octadecanoate (n-C18:1)
+milk_aer	Full milk aerobic	lnlc	linoleic acid
+milk_aer	Full milk aerobic	arachd	arachidonic acid
+milk_aer	Full milk aerobic	ade	Adenine
+milk_aer	Full milk aerobic	gua	Guanine
+milk_aer	Full milk aerobic	ins	Inosine
+milk_aer	Full milk aerobic	thymd	Thymidine
+milk_aer	Full milk aerobic	ura	Uracil
+milk_aer	Full milk aerobic	xan	Xanthine
+milk_ana	Full milk anaerobic	h2o	H2O
+milk_ana	Full milk anaerobic	co2	CO2
+milk_ana	Full milk anaerobic	ca2	Ca2+
+milk_ana	Full milk anaerobic	cl	Cl-
+milk_ana	Full milk anaerobic	cobalt2	Co2+
+milk_ana	Full milk anaerobic	cu2	Cu2+
+milk_ana	Full milk anaerobic	fe2	Fe2+
+milk_ana	Full milk anaerobic	fe3	Fe3+
+milk_ana	Full milk anaerobic	h	H+
+milk_ana	Full milk anaerobic	k	K+
+milk_ana	Full milk anaerobic	mg2	Mg
+milk_ana	Full milk anaerobic	mn2	Mn2+
+milk_ana	Full milk anaerobic	mobd	Molybdate
+milk_ana	Full milk anaerobic	na1	Na+
+milk_ana	Full milk anaerobic	nh4	Ammonium
+milk_ana	Full milk anaerobic	ni2	Ni2+
+milk_ana	Full milk anaerobic	pi	Phosphate
+milk_ana	Full milk anaerobic	so4	Sulfate
+milk_ana	Full milk anaerobic	zn2	Zn2+
+milk_ana	Full milk anaerobic	ala__L	L-Alanine
+milk_ana	Full milk anaerobic	asn__L	L-Asparagine
+milk_ana	Full milk anaerobic	asp__L	L-Aspartate
+milk_ana	Full milk anaerobic	glu__L	L-Glutamate
+milk_ana	Full milk anaerobic	gln__L	L-Glutamine
+milk_ana	Full milk anaerobic	gly	Glycine
+milk_ana	Full milk anaerobic	his__L	L-Histidine
+milk_ana	Full milk anaerobic	ile__L	L-Isoleucine
+milk_ana	Full milk anaerobic	leu__L	L-Leucine
+milk_ana	Full milk anaerobic	lys__L	L-Lysine
+milk_ana	Full milk anaerobic	orn	Ornithine
+milk_ana	Full milk anaerobic	phe__L	L-Phenylalanine
+milk_ana	Full milk anaerobic	peamn	Phylethylamine
+milk_ana	Full milk anaerobic	pro__L	L-Proline
+milk_ana	Full milk anaerobic	ser__L	L-Serine
+milk_ana	Full milk anaerobic	thr__L	L-Threonine
+milk_ana	Full milk anaerobic	trp__L	tryptophan
+milk_ana	Full milk anaerobic	tyr__L	L-Tyrosine
+milk_ana	Full milk anaerobic	val__L	L-Valine
+milk_ana	Full milk anaerobic	lcts	Lactose
+milk_ana	Full milk anaerobic	glc__D	D-Glucose
+milk_ana	Full milk anaerobic	gal	D-Galactose
+milk_ana	Full milk anaerobic	gal_bD	Beta D-Galactose
+milk_ana	Full milk anaerobic	cit	Citrate
+milk_ana	Full milk anaerobic	lac__D	D-Lactate
+milk_ana	Full milk anaerobic	lac__L	L-Lactate
+milk_ana	Full milk anaerobic	for	Formate
+milk_ana	Full milk anaerobic	ac	Acetate
+milk_ana	Full milk anaerobic	oxa	Oxalate
+milk_ana	Full milk anaerobic	pydx	Pyridoxal
+milk_ana	Full milk anaerobic	cbl1	Vitamin B12
+milk_ana	Full milk anaerobic	thm	Thiamin
+milk_ana	Full milk anaerobic	pnto__R	(R)-Pantothenate
+milk_ana	Full milk anaerobic	fol	Folate
+milk_ana	Full milk anaerobic	ribflv	Riboflavin
+milk_ana	Full milk anaerobic	nac	Isonicotinic acid
+milk_ana	Full milk anaerobic	btn	Biotin
+milk_ana	Full milk anaerobic	but	Butyrate
+milk_ana	Full milk anaerobic	caproic	Caproic acid
+milk_ana	Full milk anaerobic	octa	octanoate
+milk_ana	Full milk anaerobic	dca	decanoate
+milk_ana	Full milk anaerobic	ddca	dodecanoate
+milk_ana	Full milk anaerobic	ttdca	tetradecanoate
+milk_ana	Full milk anaerobic	ptdca	Pentadecanoate
+milk_ana	Full milk anaerobic	hdca	hexadecanoate
+milk_ana	Full milk anaerobic	ocdca	octadecanoate
+milk_ana	Full milk anaerobic	arach	arachidic acid
+milk_ana	Full milk anaerobic	ttdcea	Tetradecenoate (n-C14:1)
+milk_ana	Full milk anaerobic	hdcea	hexadecanoate (n-C16:1)
+milk_ana	Full milk anaerobic	ocdcea	octadecanoate (n-C18:1)
+milk_ana	Full milk anaerobic	lnlc	linoleic acid
+milk_ana	Full milk anaerobic	arachd	arachidonic acid
+milk_ana	Full milk anaerobic	ade	Adenine
+milk_ana	Full milk anaerobic	gua	Guanine
+milk_ana	Full milk anaerobic	ins	Inosine
+milk_ana	Full milk anaerobic	thymd	Thymidine
+milk_ana	Full milk anaerobic	ura	Uracil
+milk_ana	Full milk anaerobic	xan	Xanthine
+mm_aer	Minimal milk medium aerobic	btn	biotin (B7)
+mm_aer	Minimal milk medium aerobic	ca2	calcium
+mm_aer	Minimal milk medium aerobic	cbl1	cobalamin (B12)
+mm_aer	Minimal milk medium aerobic	cl	chloride
+mm_aer	Minimal milk medium aerobic	cobalt2	cobalt
+mm_aer	Minimal milk medium aerobic	cu	copper
+mm_aer	Minimal milk medium aerobic	cu2	copper
+mm_aer	Minimal milk medium aerobic	fe2	iron
+mm_aer	Minimal milk medium aerobic	fe3	iron
+mm_aer	Minimal milk medium aerobic	fol	folate (B9)
+mm_aer	Minimal milk medium aerobic	k	potassium
+mm_aer	Minimal milk medium aerobic	mg2	magnesium
+mm_aer	Minimal milk medium aerobic	mn2	manganese
+mm_aer	Minimal milk medium aerobic	nac	nicotinate (B3)
+mm_aer	Minimal milk medium aerobic	pi	inorganic phosphate
+mm_aer	Minimal milk medium aerobic	pnto__R	(R)-pantothenate (B5)
+mm_aer	Minimal milk medium aerobic	pydx	pyridoxal (B6)
+mm_aer	Minimal milk medium aerobic	ribflv	riboflavin (B2)
+mm_aer	Minimal milk medium aerobic	so4	sulfate
+mm_aer	Minimal milk medium aerobic	thm	thiamin (B1)
+mm_aer	Minimal milk medium aerobic	zn2	zinc
+mm_aer	Minimal milk medium aerobic	lcts	lactose
+mm_aer	Minimal milk medium aerobic	ade	adenine
+mm_aer	Minimal milk medium aerobic	gua	guanine
+mm_aer	Minimal milk medium aerobic	thymd	thymidine
+mm_aer	Minimal milk medium aerobic	ura	uracil
+mm_aer	Minimal milk medium aerobic	h2o	water
+mm_aer	Minimal milk medium aerobic	co2	carbon dioxide
+mm_aer	Minimal milk medium aerobic	h	hydrogen
+mm_aer	Minimal milk medium aerobic	na1	sodium
+mm_aer	Minimal milk medium aerobic	cit	citrate
+mm_aer	Minimal milk medium aerobic	o2	oxygen
+mm_ana	Minimal milk medium anaerobic	btn	biotin (B7)
+mm_ana	Minimal milk medium anaerobic	ca2	calcium
+mm_ana	Minimal milk medium anaerobic	cbl1	cobalamin (B12)
+mm_ana	Minimal milk medium anaerobic	cl	chloride
+mm_ana	Minimal milk medium anaerobic	cobalt2	cobalt
+mm_ana	Minimal milk medium anaerobic	cu	copper
+mm_ana	Minimal milk medium anaerobic	cu2	copper
+mm_ana	Minimal milk medium anaerobic	fe2	iron
+mm_ana	Minimal milk medium anaerobic	fe3	iron
+mm_ana	Minimal milk medium anaerobic	fol	folate (B9)
+mm_ana	Minimal milk medium anaerobic	k	potassium
+mm_ana	Minimal milk medium anaerobic	mg2	magnesium
+mm_ana	Minimal milk medium anaerobic	mn2	manganese
+mm_ana	Minimal milk medium anaerobic	nac	nicotinate (B3)
+mm_ana	Minimal milk medium anaerobic	pi	inorganic phosphate
+mm_ana	Minimal milk medium anaerobic	pnto__R	(R)-pantothenate (B5)
+mm_ana	Minimal milk medium anaerobic	pydx	pyridoxal (B6)
+mm_ana	Minimal milk medium anaerobic	ribflv	riboflavin (B2)
+mm_ana	Minimal milk medium anaerobic	so4	sulfate
+mm_ana	Minimal milk medium anaerobic	thm	thiamin (B1)
+mm_ana	Minimal milk medium anaerobic	zn2	zinc
+mm_ana	Minimal milk medium anaerobic	lcts	lactose
+mm_ana	Minimal milk medium anaerobic	ade	adenine
+mm_ana	Minimal milk medium anaerobic	gua	guanine
+mm_ana	Minimal milk medium anaerobic	thymd	thymidine
+mm_ana	Minimal milk medium anaerobic	ura	uracil
+mm_ana	Minimal milk medium anaerobic	h2o	water
+mm_ana	Minimal milk medium anaerobic	co2	carbon dioxide
+mm_ana	Minimal milk medium anaerobic	h	hydrogen
+mm_ana	Minimal milk medium anaerobic	na1	sodium
+mm_ana	Minimal milk medium anaerobic	cit	citrate

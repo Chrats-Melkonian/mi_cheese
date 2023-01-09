@@ -1,0 +1,1877 @@
+,Description,Length
+NLANBGKA_00001,hypothetical protein,303
+NLANBGKA_00002,hypothetical protein,29
+NLANBGKA_00003,Coenzyme PQQ synthesis protein E,200
+NLANBGKA_00004,hypothetical protein,363
+NLANBGKA_00005,Coenzyme PQQ synthesis protein E,439
+NLANBGKA_00006,hypothetical protein,30
+NLANBGKA_00007,hypothetical protein,286
+NLANBGKA_00008,hypothetical protein,270
+NLANBGKA_00009,hypothetical protein,169
+NLANBGKA_00010,hypothetical protein,52
+NLANBGKA_00011,hypothetical protein,170
+NLANBGKA_00012,Nuclease SbcCD subunit C,1059
+NLANBGKA_00013,Nuclease SbcCD subunit D,402
+NLANBGKA_00014,Beta-galactosidase,1026
+NLANBGKA_00015,Lactose permease,634
+NLANBGKA_00016,Maltose epimerase,348
+NLANBGKA_00017,UDP-glucose 4-epimerase,333
+NLANBGKA_00018,Galactose-1-phosphate uridylyltransferase,493
+NLANBGKA_00019,Galactokinase,388
+NLANBGKA_00020,HTH-type transcriptional regulator LacR,331
+NLANBGKA_00021,hypothetical protein,32
+NLANBGKA_00022,hypothetical protein,62
+NLANBGKA_00023,Immunoglobulin A1 protease,440
+NLANBGKA_00024,hypothetical protein,52
+NLANBGKA_00025,putative ABC transporter ATP-binding protein,195
+NLANBGKA_00026,hypothetical protein,90
+NLANBGKA_00027,Glutathione biosynthesis bifunctional protein GshAB,754
+NLANBGKA_00028,hypothetical protein,168
+NLANBGKA_00029,DNA translocase FtsK,804
+NLANBGKA_00030,Ferredoxin--NADP reductase 2,332
+NLANBGKA_00031,tRNA (guanine-N(1)-)-methyltransferase,239
+NLANBGKA_00032,Ribosome maturation factor RimM,172
+NLANBGKA_00035,Transcriptional regulatory protein LiaR,214
+NLANBGKA_00036,Sensor histidine kinase LiaS,336
+NLANBGKA_00037,hypothetical protein,232
+NLANBGKA_00038,Serine/threonine-protein kinase StkP,623
+NLANBGKA_00039,Putative protein phosphatase 2C-type,245
+NLANBGKA_00040,Ribosomal RNA small subunit methyltransferase B,442
+NLANBGKA_00041,Methionyl-tRNA formyltransferase,311
+NLANBGKA_00042,Primosomal protein N',798
+NLANBGKA_00043,DNA-directed RNA polymerase subunit omega,104
+NLANBGKA_00044,Guanylate kinase,209
+NLANBGKA_00045,Signal recognition particle receptor FtsY,463
+NLANBGKA_00046,Putative phosphatase,271
+NLANBGKA_00047,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI,264
+NLANBGKA_00048,HTH-type transcriptional repressor YtrA,125
+NLANBGKA_00049,ABC-type transporter ATP-binding protein EcsA,232
+NLANBGKA_00050,hypothetical protein,261
+NLANBGKA_00051,Oligopeptide transport ATP-binding protein OppF,309
+NLANBGKA_00052,Oligopeptide transport ATP-binding protein OppD,361
+NLANBGKA_00053,Oligopeptide transport system permease protein OppC,308
+NLANBGKA_00054,Oligopeptide transport system permease protein OppB,497
+NLANBGKA_00055,Oligopeptide-binding protein AmiA,268
+NLANBGKA_00056,hypothetical protein,94
+NLANBGKA_00057,hypothetical protein,66
+NLANBGKA_00058,hypothetical protein,179
+NLANBGKA_00059,hypothetical protein,68
+NLANBGKA_00060,Histidinol-phosphatase,246
+NLANBGKA_00061,hypothetical protein,214
+NLANBGKA_00062,Acid sugar phosphatase,257
+NLANBGKA_00063,hypothetical protein,247
+NLANBGKA_00064,Oxygen-independent coproporphyrinogen-III oxidase-like protein,378
+NLANBGKA_00065,hypothetical protein,107
+NLANBGKA_00066,hypothetical protein,86
+NLANBGKA_00067,"dTDP-glucose 4,6-dehydratase",348
+NLANBGKA_00068,"putative dTDP-4-dehydrorhamnose 3,5-epimerase",197
+NLANBGKA_00069,Glucose-1-phosphate thymidylyltransferase,289
+NLANBGKA_00070,4-methylaminobutanoate oxidase (formaldehyde-forming),363
+NLANBGKA_00071,Zinc transporter ZupT,146
+NLANBGKA_00072,GTP cyclohydrolase 1 type 2,262
+NLANBGKA_00073,tRNA (adenine(22)-N(1))-methyltransferase,228
+NLANBGKA_00074,hypothetical protein,146
+NLANBGKA_00075,Phosphoglucosamine mutase,450
+NLANBGKA_00076,CdaA regulatory protein CdaR,321
+NLANBGKA_00077,Cyclic di-AMP synthase CdaA,235
+NLANBGKA_00078,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,441
+NLANBGKA_00079,Cobyric acid synthase,262
+NLANBGKA_00080,Phosphatidylglycerol lysyltransferase,851
+NLANBGKA_00081,Proline iminopeptidase,239
+NLANBGKA_00082,putative ABC transporter ATP-binding protein YheS,639
+NLANBGKA_00083,Uridine kinase,211
+NLANBGKA_00084,putative ATP-dependent RNA helicase YfmL,360
+NLANBGKA_00085,hypothetical protein,66
+NLANBGKA_00086,NADP-dependent glyceraldehyde-3-phosphate dehydrogenase,477
+NLANBGKA_00087,Phosphoenolpyruvate-protein phosphotransferase,577
+NLANBGKA_00088,Phosphocarrier protein HPr,87
+NLANBGKA_00089,Isocitrate dehydrogenase [NADP],391
+NLANBGKA_00090,Citrate synthase 2,374
+NLANBGKA_00091,Aconitate hydratase A,887
+NLANBGKA_00092,Glutaredoxin-like protein NrdH,74
+NLANBGKA_00093,Ribonucleoside-diphosphate reductase subunit alpha 1,719
+NLANBGKA_00094,Ribonucleoside-diphosphate reductase subunit beta nrdF2,320
+NLANBGKA_00095,hypothetical protein,42
+NLANBGKA_00096,hypothetical protein,137
+NLANBGKA_00097,hypothetical protein,64
+NLANBGKA_00098,hypothetical protein,322
+NLANBGKA_00099,hypothetical protein,103
+NLANBGKA_00100,hypothetical protein,253
+NLANBGKA_00101,DNA gyrase subunit A,817
+NLANBGKA_00102,L-lactate dehydrogenase,328
+NLANBGKA_00103,putative NADH oxidase,457
+NLANBGKA_00104,putative ABC transporter ATP-binding protein YbiT,512
+NLANBGKA_00105,hypothetical protein,176
+NLANBGKA_00106,Pyridoxamine kinase,179
+NLANBGKA_00107,hypothetical protein,108
+NLANBGKA_00108,hypothetical protein,169
+NLANBGKA_00109,hypothetical protein,176
+NLANBGKA_00110,HTH-type transcriptional regulatory protein GabR,421
+NLANBGKA_00111,Anaerobic ribonucleoside-triphosphate reductase,112
+NLANBGKA_00112,hypothetical protein,78
+NLANBGKA_00113,Phenylalanine--tRNA ligase beta subunit,816
+NLANBGKA_00114,Spermidine/spermine N(1)-acetyltransferase,172
+NLANBGKA_00115,Phenylalanine--tRNA ligase alpha subunit,347
+NLANBGKA_00116,Chromosome partition protein Smc,1177
+NLANBGKA_00117,Ribonuclease 3,229
+NLANBGKA_00118,4-hydroxy-tetrahydrodipicolinate synthase,311
+NLANBGKA_00119,Aspartate-semialdehyde dehydrogenase,358
+NLANBGKA_00120,Phosphinothricin N-acetyltransferase,170
+NLANBGKA_00123,putative manganese-dependent inorganic pyrophosphatase,310
+NLANBGKA_00124,hypothetical protein,203
+NLANBGKA_00125,hypothetical protein,177
+NLANBGKA_00126,Regulatory protein RecX,258
+NLANBGKA_00127,23S rRNA (uracil-C(5))-methyltransferase RlmCD,454
+NLANBGKA_00128,Aspartate--ammonia ligase,330
+NLANBGKA_00129,Aspartokinase 3,452
+NLANBGKA_00130,Phosphorylated carbohydrates phosphatase,212
+NLANBGKA_00131,Trans-2-decenoyl-[acyl-carrier-protein] isomerase,263
+NLANBGKA_00132,Transcriptional regulator ZitR,144
+NLANBGKA_00133,3-oxoacyl-[acyl-carrier-protein] synthase 3,320
+NLANBGKA_00134,Acyl carrier protein,74
+NLANBGKA_00135,Nitronate monooxygenase,321
+NLANBGKA_00136,Malonyl CoA-acyl carrier protein transacylase,306
+NLANBGKA_00137,3-oxoacyl-[acyl-carrier-protein] reductase FabG,244
+NLANBGKA_00138,3-oxoacyl-[acyl-carrier-protein] synthase 2,410
+NLANBGKA_00139,Biotin carboxyl carrier protein of acetyl-CoA carboxylase,162
+NLANBGKA_00140,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ,141
+NLANBGKA_00141,Biotin carboxylase,456
+NLANBGKA_00142,Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta,288
+NLANBGKA_00143,Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha,256
+NLANBGKA_00144,S-ribosylhomocysteine lyase,160
+NLANBGKA_00145,hypothetical protein,226
+NLANBGKA_00146,Ribonuclease Y,535
+NLANBGKA_00147,hypothetical protein,166
+NLANBGKA_00148,HTH-type transcriptional repressor GlcR,248
+NLANBGKA_00149,Tagatose-6-phosphate kinase,303
+NLANBGKA_00150,PTS system fructose-specific EIIABC component,180
+NLANBGKA_00151,PTS system fructose-specific EIIABC component,366
+NLANBGKA_00152,PTS system fructose-specific EIIB'BC component,88
+NLANBGKA_00153,Glutathione reductase,450
+NLANBGKA_00154,Folylpolyglutamate synthase,280
+NLANBGKA_00155,hypothetical protein,180
+NLANBGKA_00156,Cysteine desulfurase IscS,381
+NLANBGKA_00157,putative tRNA sulfurtransferase,407
+NLANBGKA_00158,Glycosyltransferase Gtf1,503
+NLANBGKA_00159,Glycosyltransferase-stabilizing protein Gtf2,439
+NLANBGKA_00160,hypothetical protein,75
+NLANBGKA_00161,50S ribosomal protein L21,104
+NLANBGKA_00162,50S ribosomal protein L27,96
+NLANBGKA_00163,hypothetical protein,231
+NLANBGKA_00164,hypothetical protein,124
+NLANBGKA_00165,DegV domain-containing protein,280
+NLANBGKA_00166,4-hydroxy-tetrahydrodipicolinate reductase,255
+NLANBGKA_00167,CCA-adding enzyme,402
+NLANBGKA_00168,Energy-dependent translational throttle protein EttA,626
+NLANBGKA_00169,hypothetical protein,167
+NLANBGKA_00170,Bifunctional NMN adenylyltransferase/Nudix hydrolase,250
+NLANBGKA_00171,Trifunctional NAD biosynthesis/regulator protein NadR,368
+NLANBGKA_00172,NADP-specific glutamate dehydrogenase,450
+NLANBGKA_00173,Peptide deformylase,136
+NLANBGKA_00174,hypothetical protein,147
+NLANBGKA_00175,putative ABC transporter ATP-binding protein,604
+NLANBGKA_00176,putative ABC transporter ATP-binding protein,592
+NLANBGKA_00177,hypothetical protein,110
+NLANBGKA_00178,putative sensor histidine kinase TcrY,161
+NLANBGKA_00179,Uridylate kinase,245
+NLANBGKA_00180,Ribosome-recycling factor,185
+NLANBGKA_00181,Conserved virulence factor B,285
+NLANBGKA_00182,hypothetical protein,71
+NLANBGKA_00183,hypothetical protein,96
+NLANBGKA_00184,hypothetical protein,36
+NLANBGKA_00185,hypothetical protein,83
+NLANBGKA_00186,hypothetical protein,71
+NLANBGKA_00187,PhoH-like protein,353
+NLANBGKA_00188,hypothetical protein,137
+NLANBGKA_00189,hypothetical protein,79
+NLANBGKA_00190,hypothetical protein,135
+NLANBGKA_00191,Methionine--tRNA ligase,667
+NLANBGKA_00192,HTH-type transcriptional regulator CynR,298
+NLANBGKA_00193,Competence protein CoiA,319
+NLANBGKA_00194,"Oligoendopeptidase F, plasmid",601
+NLANBGKA_00195,Putative O-methyltransferase/MSMEI_4947,235
+NLANBGKA_00196,Foldase protein PrsA,371
+NLANBGKA_00197,Alanine--tRNA ligase,872
+NLANBGKA_00198,Clumping factor B,73
+NLANBGKA_00199,hypothetical protein,333
+NLANBGKA_00200,hypothetical protein,289
+NLANBGKA_00201,2-oxoglutaramate amidase,262
+NLANBGKA_00202,LL-diaminopimelate aminotransferase,393
+NLANBGKA_00203,N-acetyl-gamma-glutamyl-phosphate reductase,340
+NLANBGKA_00204,Arginine biosynthesis bifunctional protein ArgJ,397
+NLANBGKA_00205,Acetylglutamate kinase,245
+NLANBGKA_00206,Acetylornithine aminotransferase,376
+NLANBGKA_00207,"Poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase",292
+NLANBGKA_00208,Homoserine dehydrogenase,428
+NLANBGKA_00209,Homoserine kinase,286
+NLANBGKA_00210,hypothetical protein,294
+NLANBGKA_00211,hypothetical protein,205
+NLANBGKA_00212,hypothetical protein,67
+NLANBGKA_00213,Flavoredoxin,196
+NLANBGKA_00214,hypothetical protein,126
+NLANBGKA_00215,Valine--tRNA ligase,883
+NLANBGKA_00216,ATP synthase subunit c,65
+NLANBGKA_00217,ATP synthase subunit a,235
+NLANBGKA_00218,ATP synthase subunit b,165
+NLANBGKA_00219,ATP synthase subunit delta,178
+NLANBGKA_00220,ATP synthase subunit alpha,501
+NLANBGKA_00221,ATP synthase gamma chain,292
+NLANBGKA_00222,ATP synthase subunit beta,468
+NLANBGKA_00223,ATP synthase epsilon chain,148
+NLANBGKA_00224,putative peptidoglycan glycosyltransferase FtsW,426
+NLANBGKA_00225,Elongation factor Tu,398
+NLANBGKA_00226,Triosephosphate isomerase,252
+NLANBGKA_00227,Thymidylate kinase,209
+NLANBGKA_00228,DNA polymerase III subunit delta',291
+NLANBGKA_00229,hypothetical protein,268
+NLANBGKA_00230,Initiation-control protein YabA,106
+NLANBGKA_00231,Ribosomal RNA small subunit methyltransferase I,288
+NLANBGKA_00232,Ammonium transporter NrgA,411
+NLANBGKA_00233,Nitrogen regulatory protein P-II,113
+NLANBGKA_00234,Autolysin,218
+NLANBGKA_00235,Putative phosphatase,273
+NLANBGKA_00236,hypothetical protein,196
+NLANBGKA_00237,N-acetylglucosamine-6-phosphate deacetylase,382
+NLANBGKA_00238,hypothetical protein,107
+NLANBGKA_00239,hypothetical protein,65
+NLANBGKA_00240,hypothetical protein,122
+NLANBGKA_00241,hypothetical protein,152
+NLANBGKA_00242,Glycine--tRNA ligase alpha subunit,305
+NLANBGKA_00243,Glycine--tRNA ligase beta subunit,678
+NLANBGKA_00244,hypothetical protein,85
+NLANBGKA_00245,D-serine/D-alanine/glycine transporter,463
+NLANBGKA_00246,hypothetical protein,211
+NLANBGKA_00247,PTS system beta-glucoside-specific EIIBCA component,99
+NLANBGKA_00248,PTS system beta-glucoside-specific EIIBCA component,350
+NLANBGKA_00249,Putative peptidyl-prolyl cis-trans isomerase,252
+NLANBGKA_00250,hypothetical protein,111
+NLANBGKA_00251,hypothetical protein,135
+NLANBGKA_00252,hypothetical protein,158
+NLANBGKA_00253,hypothetical protein,123
+NLANBGKA_00254,Hydrogen peroxide-inducible genes activator,301
+NLANBGKA_00255,Lipoprotein signal peptidase,153
+NLANBGKA_00256,Ribosomal large subunit pseudouridine synthase D,296
+NLANBGKA_00257,Bifunctional protein PyrR,173
+NLANBGKA_00258,Uracil permease,425
+NLANBGKA_00259,Aspartate carbamoyltransferase,308
+NLANBGKA_00260,Carbamoyl-phosphate synthase small chain,362
+NLANBGKA_00261,Carbamoyl-phosphate synthase large chain,1059
+NLANBGKA_00262,Ribosomal RNA small subunit methyltransferase J,252
+NLANBGKA_00263,hypothetical protein,117
+NLANBGKA_00264,hypothetical protein,81
+NLANBGKA_00265,putative ABC transporter permease YknZ,168
+NLANBGKA_00266,hypothetical protein,67
+NLANBGKA_00267,50S ribosomal protein L10,167
+NLANBGKA_00268,50S ribosomal protein L7/L12,121
+NLANBGKA_00269,hypothetical protein,131
+NLANBGKA_00274,Phosphoserine phosphatase,215
+NLANBGKA_00275,Septation ring formation regulator EzrA,574
+NLANBGKA_00276,DNA gyrase subunit B,650
+NLANBGKA_00277,Phosphoglycolate phosphatase,201
+NLANBGKA_00278,Inner membrane protein YohK,231
+NLANBGKA_00279,Antiholin-like protein LrgA,124
+NLANBGKA_00281,Regulatory protein MgsR,117
+NLANBGKA_00282,"Methylated-DNA--protein-cysteine methyltransferase, constitutive",112
+NLANBGKA_00283,Hydroxypyruvate reductase,392
+NLANBGKA_00284,hypothetical protein,185
+NLANBGKA_00285,Phosphoserine aminotransferase,364
+NLANBGKA_00286,Beta-glucoside kinase,187
+NLANBGKA_00287,Lactoylglutathione lyase,131
+NLANBGKA_00288,hypothetical protein,125
+NLANBGKA_00289,hypothetical protein,84
+NLANBGKA_00290,Spermidine/putrescine-binding periplasmic protein,355
+NLANBGKA_00291,Inner membrane ABC transporter permease protein YdcV,259
+NLANBGKA_00292,Spermidine/putrescine transport system permease protein PotB,264
+NLANBGKA_00293,Spermidine/putrescine import ATP-binding protein PotA,384
+NLANBGKA_00294,UDP-N-acetylenolpyruvoylglucosamine reductase,300
+NLANBGKA_00295,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase,163
+NLANBGKA_00296,Dihydroneopterin aldolase,119
+NLANBGKA_00297,"Glucan 1,4-alpha-maltohexaosidase",483
+NLANBGKA_00298,Dihydropteroate synthase,266
+NLANBGKA_00299,GTP cyclohydrolase 1,187
+NLANBGKA_00300,hypothetical protein,614
+NLANBGKA_00301,Folylpolyglutamate synthase,420
+NLANBGKA_00302,hypothetical protein,82
+NLANBGKA_00303,30S ribosomal protein S16,90
+NLANBGKA_00304,putative S-adenosyl-L-methionine-dependent methyltransferase TehB,292
+NLANBGKA_00305,Exodeoxyribonuclease,275
+NLANBGKA_00306,hypothetical protein,159
+NLANBGKA_00307,hypothetical protein,161
+NLANBGKA_00308,Diacylglycerol kinase,337
+NLANBGKA_00309,DNA ligase,648
+NLANBGKA_00310,Queuosine precursor transporter QueT,169
+NLANBGKA_00311,hypothetical protein,313
+NLANBGKA_00312,Methionine aminopeptidase 1,286
+NLANBGKA_00313,Cobalt-dependent inorganic pyrophosphatase,426
+NLANBGKA_00314,Ribosomal-protein-serine acetyltransferase,181
+NLANBGKA_00315,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,420
+NLANBGKA_00316,ComE operon protein 3,746
+NLANBGKA_00317,ComE operon protein 1,231
+NLANBGKA_00318,1-acyl-sn-glycerol-3-phosphate acyltransferase,251
+NLANBGKA_00319,Peptidoglycan-N-acetylglucosamine deacetylase,212
+NLANBGKA_00320,Bifunctional xylanase/deacetylase,71
+NLANBGKA_00321,tRNA1(Val) (adenine(37)-N6)-methyltransferase,254
+NLANBGKA_00322,hypothetical protein,89
+NLANBGKA_00323,ATP-dependent RNA helicase CshA,528
+NLANBGKA_00324,hypothetical protein,302
+NLANBGKA_00325,hypothetical protein,126
+NLANBGKA_00326,Thiamine transporter ThiT,191
+NLANBGKA_00327,hypothetical protein,287
+NLANBGKA_00328,hypothetical protein,345
+NLANBGKA_00329,Peptide chain release factor 3,514
+NLANBGKA_00330,hypothetical protein,221
+NLANBGKA_00331,UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase,460
+NLANBGKA_00332,hypothetical protein,197
+NLANBGKA_00333,hypothetical protein,130
+NLANBGKA_00334,hypothetical protein,65
+NLANBGKA_00335,ABC transporter glutamine-binding protein GlnH,284
+NLANBGKA_00336,Glutamine transport ATP-binding protein GlnQ,252
+NLANBGKA_00337,L-cystine transport system permease protein YecS,225
+NLANBGKA_00338,putative glutamine ABC transporter permease protein GlnM,226
+NLANBGKA_00339,D-alanine--D-alanine ligase,348
+NLANBGKA_00340,hypothetical protein,67
+NLANBGKA_00341,Copper-exporting P-type ATPase A,743
+NLANBGKA_00342,Transcriptional repressor CopY,143
+NLANBGKA_00343,Tryptophan synthase alpha chain,260
+NLANBGKA_00344,Tryptophan synthase beta chain,402
+NLANBGKA_00345,N-(5'-phosphoribosyl)anthranilate isomerase,193
+NLANBGKA_00346,Indole-3-glycerol phosphate synthase,255
+NLANBGKA_00347,Anthranilate phosphoribosyltransferase,334
+NLANBGKA_00348,Aminodeoxychorismate/anthranilate synthase component 2,188
+NLANBGKA_00349,Anthranilate synthase component 1,451
+NLANBGKA_00350,T-protein,93
+NLANBGKA_00351,hypothetical protein,116
+NLANBGKA_00352,putative cation-transporting ATPase E,786
+NLANBGKA_00353,hypothetical protein,131
+NLANBGKA_00354,Nucleoid-associated protein,99
+NLANBGKA_00355,hypothetical protein,60
+NLANBGKA_00356,HTH-type transcriptional regulator ZntR,242
+NLANBGKA_00357,DNA polymerase III PolC-type,196
+NLANBGKA_00358,hypothetical protein,178
+NLANBGKA_00359,hypothetical protein,119
+NLANBGKA_00360,Dihydroxy-acid dehydratase,567
+NLANBGKA_00361,Ferredoxin--NADP reductase,393
+NLANBGKA_00363,tRNA (guanine-N(7)-)-methyltransferase,213
+NLANBGKA_00364,hypothetical protein,263
+NLANBGKA_00365,hypothetical protein,345
+NLANBGKA_00366,ABC-type transporter ATP-binding protein EcsA,243
+NLANBGKA_00367,putative HIT-like protein,139
+NLANBGKA_00368,hypothetical protein,102
+NLANBGKA_00369,hypothetical protein,243
+NLANBGKA_00370,hypothetical protein,211
+NLANBGKA_00371,putative ATP-dependent Clp protease ATP-binding subunit,699
+NLANBGKA_00372,hypothetical protein,363
+NLANBGKA_00373,Glycine/sarcosine N-methyltransferase,248
+NLANBGKA_00374,Ribosomal silencing factor RsfS,117
+NLANBGKA_00375,hypothetical protein,196
+NLANBGKA_00376,Nicotinate-nucleotide adenylyltransferase,210
+NLANBGKA_00377,RNA-binding protein YhbY,105
+NLANBGKA_00378,GTPase Der,372
+NLANBGKA_00379,Pyrophosphatase PpaX,175
+NLANBGKA_00380,putative inner membrane transporter YicL,304
+NLANBGKA_00381,hypothetical protein,102
+NLANBGKA_00382,Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,480
+NLANBGKA_00383,Glutamyl-tRNA(Gln) amidotransferase subunit A,488
+NLANBGKA_00384,Glutamyl-tRNA(Gln) amidotransferase subunit C,100
+NLANBGKA_00385,hypothetical protein,69
+NLANBGKA_00386,Aryl-phospho-beta-D-glucosidase BglH,442
+NLANBGKA_00387,Peptide methionine sulfoxide reductase MsrA,169
+NLANBGKA_00388,Membrane lipoprotein TpN32,282
+NLANBGKA_00389,Isochorismatase family protein YecD,185
+NLANBGKA_00390,GTP-sensing transcriptional pleiotropic repressor CodY,261
+NLANBGKA_00391,Glutamate-pyruvate aminotransferase AlaA,404
+NLANBGKA_00392,Putative universal stress protein,150
+NLANBGKA_00393,hypothetical protein,57
+NLANBGKA_00394,hypothetical protein,124
+NLANBGKA_00395,Pyruvate formate-lyase 1-activating enzyme,266
+NLANBGKA_00396,Magnesium and cobalt efflux protein CorC,443
+NLANBGKA_00397,putative ABC transporter ATP-binding protein YlmA,260
+NLANBGKA_00398,"Sodium, potassium, lithium and rubidium/H(+) antiporter",688
+NLANBGKA_00399,hypothetical protein,80
+NLANBGKA_00400,Ribosomal RNA small subunit methyltransferase H,182
+NLANBGKA_00401,tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase,314
+NLANBGKA_00402,hypothetical protein,371
+NLANBGKA_00403,Phosphopantetheine adenylyltransferase,165
+NLANBGKA_00404,Ribosomal RNA small subunit methyltransferase D,179
+NLANBGKA_00405,Thioredoxin reductase,306
+NLANBGKA_00406,hypothetical protein,74
+NLANBGKA_00407,L-cystine import ATP-binding protein TcyN,247
+NLANBGKA_00408,putative amino-acid permease protein YxeN,307
+NLANBGKA_00409,L-cystine-binding protein TcyA,276
+NLANBGKA_00410,hypothetical protein,77
+NLANBGKA_00411,DNA polymerase IV,367
+NLANBGKA_00412,Formate acetyltransferase,769
+NLANBGKA_00413,Carbonic anhydrase,260
+NLANBGKA_00414,Acetyltransferase,161
+NLANBGKA_00415,hypothetical protein,94
+NLANBGKA_00416,hypothetical protein,161
+NLANBGKA_00417,putative iron export permease protein FetB,251
+NLANBGKA_00418,putative iron export ATP-binding protein FetA,216
+NLANBGKA_00419,D-alanyl-D-alanine carboxypeptidase,318
+NLANBGKA_00420,hypothetical protein,251
+NLANBGKA_00421,hypothetical protein,120
+NLANBGKA_00422,Glycerol facilitator-aquaporin gla,287
+NLANBGKA_00423,Xaa-Pro dipeptidyl-peptidase,755
+NLANBGKA_00424,hypothetical protein,126
+NLANBGKA_00425,hypothetical protein,36
+NLANBGKA_00426,hypothetical protein,98
+NLANBGKA_00427,hypothetical protein,68
+NLANBGKA_00428,hypothetical protein,229
+NLANBGKA_00429,hypothetical protein,59
+NLANBGKA_00430,hypothetical protein,130
+NLANBGKA_00431,hypothetical protein,79
+NLANBGKA_00432,hypothetical protein,133
+NLANBGKA_00433,hypothetical protein,55
+NLANBGKA_00434,hypothetical protein,47
+NLANBGKA_00435,hypothetical protein,76
+NLANBGKA_00436,hypothetical protein,66
+NLANBGKA_00437,hypothetical protein,58
+NLANBGKA_00438,Accessory gene regulator A,245
+NLANBGKA_00439,Sensor protein CitS,446
+NLANBGKA_00440,hypothetical protein,53
+NLANBGKA_00441,Lactococcin A secretion protein LcnD,455
+NLANBGKA_00442,Lactococcin-G-processing and transport ATP-binding protein LagD,303
+NLANBGKA_00443,Lactococcin-G-processing and transport ATP-binding protein LagD,427
+NLANBGKA_00444,putative multidrug resistance ABC transporter ATP-binding/permease protein YheH,581
+NLANBGKA_00445,putative multidrug resistance ABC transporter ATP-binding/permease protein YheI,585
+NLANBGKA_00446,hypothetical protein,68
+NLANBGKA_00447,hypothetical protein,175
+NLANBGKA_00448,putative dual-specificity RNA methyltransferase RlmN,389
+NLANBGKA_00449,hypothetical protein,240
+NLANBGKA_00450,Mannosylglucosyl-3-phosphoglycerate phosphatase,466
+NLANBGKA_00451,hypothetical protein,38
+NLANBGKA_00452,DEAD-box ATP-dependent RNA helicase CshB,447
+NLANBGKA_00453,Phospho-N-acetylmuramoyl-pentapeptide-transferase,340
+NLANBGKA_00454,Penicillin-binding protein 2x,755
+NLANBGKA_00455,Cell division protein FtsL,106
+NLANBGKA_00456,Ribosomal RNA small subunit methyltransferase H,316
+NLANBGKA_00457,hypothetical protein,142
+NLANBGKA_00458,hypothetical protein,71
+NLANBGKA_00459,hypothetical protein,128
+NLANBGKA_00460,hypothetical protein,87
+NLANBGKA_00461,Inner membrane protein YhaI,118
+NLANBGKA_00462,hypothetical protein,87
+NLANBGKA_00463,Gamma-glutamyl phosphate reductase,416
+NLANBGKA_00464,Glutamate 5-kinase 1,267
+NLANBGKA_00465,hypothetical protein,529
+NLANBGKA_00466,ABC-type transporter ATP-binding protein EcsA,243
+NLANBGKA_00467,putative membrane protein YdfK,243
+NLANBGKA_00468,ATP-dependent helicase/nuclease subunit A,1217
+NLANBGKA_00469,ATP-dependent helicase/deoxyribonuclease subunit B,1117
+NLANBGKA_00470,hypothetical protein,134
+NLANBGKA_00471,hypothetical protein,206
+NLANBGKA_00472,hypothetical protein,46
+NLANBGKA_00473,hypothetical protein,272
+NLANBGKA_00474,hypothetical protein,68
+NLANBGKA_00475,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE,461
+NLANBGKA_00476,L-asparaginase,322
+NLANBGKA_00477,ATP-dependent DNA helicase RecG,672
+NLANBGKA_00478,Alanine racemase,367
+NLANBGKA_00479,Holo-[acyl-carrier-protein] synthase,119
+NLANBGKA_00480,"Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive",343
+NLANBGKA_00481,"Phospho-2-dehydro-3-deoxyheptonate aldolase, Trp-sensitive",343
+NLANBGKA_00482,Protein translocase subunit SecA,849
+NLANBGKA_00483,hypothetical protein,86
+NLANBGKA_00484,Mannose-6-phosphate isomerase ManA,315
+NLANBGKA_00485,Putative fructokinase,297
+NLANBGKA_00486,PTS system beta-glucoside-specific EIIBCA component,633
+NLANBGKA_00487,Sucrose-6-phosphate hydrolase,480
+NLANBGKA_00488,HTH-type transcriptional regulator DegA,321
+NLANBGKA_00489,N utilization substance protein B,144
+NLANBGKA_00490,hypothetical protein,129
+NLANBGKA_00491,Elongation factor P,186
+NLANBGKA_00492,tRNA-specific adenosine deaminase,151
+NLANBGKA_00493,Aminopeptidase YpdF,353
+NLANBGKA_00494,hypothetical protein,142
+NLANBGKA_00495,hypothetical protein,191
+NLANBGKA_00496,ABC transporter ATP-binding protein NatA,129
+NLANBGKA_00497,hypothetical protein,63
+NLANBGKA_00498,UvrABC system protein A,941
+NLANBGKA_00499,Cobalt/magnesium transport protein CorA,314
+NLANBGKA_00500,hypothetical protein,223
+NLANBGKA_00501,hypothetical protein,277
+NLANBGKA_00502,30S ribosomal protein S18,79
+NLANBGKA_00503,Single-stranded DNA-binding protein,172
+NLANBGKA_00504,30S ribosomal protein S6,96
+NLANBGKA_00505,hypothetical protein,317
+NLANBGKA_00506,Adenine DNA glycosylase,383
+NLANBGKA_00507,hypothetical protein,41
+NLANBGKA_00508,hypothetical protein,75
+NLANBGKA_00509,hypothetical protein,114
+NLANBGKA_00510,hypothetical protein,38
+NLANBGKA_00511,DNA polymerase I,879
+NLANBGKA_00512,Endonuclease MutS2,783
+NLANBGKA_00513,hypothetical protein,180
+NLANBGKA_00514,hypothetical protein,79
+NLANBGKA_00515,Ribonuclease HIII,296
+NLANBGKA_00516,Signal peptidase IB,207
+NLANBGKA_00517,ATP-dependent RecD-like DNA helicase,834
+NLANBGKA_00518,hypothetical protein,108
+NLANBGKA_00519,Inner membrane protein YgaZ,230
+NLANBGKA_00520,tRNA N6-adenosine threonylcarbamoyltransferase,337
+NLANBGKA_00521,N-alpha-acetyltransferase RimI,146
+NLANBGKA_00522,tRNA threonylcarbamoyladenosine biosynthesis protein TsaB,228
+NLANBGKA_00523,hypothetical protein,76
+NLANBGKA_00524,Ribonuclease J 1,560
+NLANBGKA_00525,hypothetical protein,126
+NLANBGKA_00526,Glutamine synthetase,447
+NLANBGKA_00527,HTH-type transcriptional regulator GlnR,124
+NLANBGKA_00528,hypothetical protein,167
+NLANBGKA_00529,hypothetical protein,45
+NLANBGKA_00530,Phosphoglycerate kinase,399
+NLANBGKA_00531,hypothetical protein,94
+NLANBGKA_00532,hypothetical protein,68
+NLANBGKA_00533,putative glycosyltransferase EpsJ,697
+NLANBGKA_00534,hypothetical protein,106
+NLANBGKA_00535,hypothetical protein,30
+NLANBGKA_00536,Leucine efflux protein,205
+NLANBGKA_00537,hypothetical protein,152
+NLANBGKA_00538,hypothetical protein,95
+NLANBGKA_00539,hypothetical protein,345
+NLANBGKA_00540,DNA polymerase IV,471
+NLANBGKA_00541,hypothetical protein,119
+NLANBGKA_00542,hypothetical protein,69
+NLANBGKA_00543,hypothetical protein,82
+NLANBGKA_00544,hypothetical protein,81
+NLANBGKA_00545,Response regulator SaeR,120
+NLANBGKA_00546,hypothetical protein,114
+NLANBGKA_00547,hypothetical protein,494
+NLANBGKA_00548,UDP-glucose 4-epimerase,318
+NLANBGKA_00549,putative oxidoreductase/MSMEI_2347,280
+NLANBGKA_00550,hypothetical protein,198
+NLANBGKA_00551,Putative NAD(P)H nitroreductase YodC,210
+NLANBGKA_00552,"PTS system N,N'-diacetylchitobiose-specific EIIC component",430
+NLANBGKA_00553,hypothetical protein,287
+NLANBGKA_00554,Putative HTH-type transcriptional regulator YwnA,149
+NLANBGKA_00555,"Catechol-2,3-dioxygenase",273
+NLANBGKA_00556,hypothetical protein,200
+NLANBGKA_00557,putative amino acid permease YhdG,461
+NLANBGKA_00558,hypothetical protein,64
+NLANBGKA_00559,Mannose-6-phosphate isomerase ManA,112
+NLANBGKA_00560,putative mannose-6-phosphate isomerase GmuF,128
+NLANBGKA_00561,Branched-chain amino acid transport system 2 carrier protein,442
+NLANBGKA_00562,Peptide methionine sulfoxide reductase MsrA/MsrB 1,316
+NLANBGKA_00563,Multidrug resistance protein MdtK,449
+NLANBGKA_00564,Uric acid permease PucK,234
+NLANBGKA_00565,Uric acid permease PucK,150
+NLANBGKA_00566,Xanthine phosphoribosyltransferase,156
+NLANBGKA_00567,Response regulator protein GraR,226
+NLANBGKA_00568,Sensor histidine kinase GraS,324
+NLANBGKA_00569,Bacitracin export ATP-binding protein BceA,252
+NLANBGKA_00570,Bacitracin export permease protein BceB,666
+NLANBGKA_00571,hypothetical protein,164
+NLANBGKA_00572,hypothetical protein,221
+NLANBGKA_00573,hypothetical protein,225
+NLANBGKA_00574,SkfA peptide export ATP-binding protein SkfE,90
+NLANBGKA_00575,hypothetical protein,219
+NLANBGKA_00576,hypothetical protein,94
+NLANBGKA_00577,Nucleoside triphosphatase NudI,118
+NLANBGKA_00578,hypothetical protein,291
+NLANBGKA_00579,Sulfur carrier protein ThiS adenylyltransferase,777
+NLANBGKA_00580,hypothetical protein,409
+NLANBGKA_00581,hypothetical protein,83
+NLANBGKA_00582,hypothetical protein,69
+NLANBGKA_00583,hypothetical protein,59
+NLANBGKA_00584,putative ABC transporter ATP-binding protein YbhF,293
+NLANBGKA_00585,hypothetical protein,245
+NLANBGKA_00586,Sensor histidine kinase DesK,364
+NLANBGKA_00587,Transcriptional regulatory protein DesR,200
+NLANBGKA_00588,hypothetical protein,190
+NLANBGKA_00589,hypothetical protein,263
+NLANBGKA_00590,hypothetical protein,189
+NLANBGKA_00591,"L-serine dehydratase, alpha chain",289
+NLANBGKA_00592,"L-serine dehydratase, beta chain",223
+NLANBGKA_00593,Putative HAD-hydrolase YfnB,231
+NLANBGKA_00594,UvrABC system protein C,595
+NLANBGKA_00595,Major cardiolipin synthase ClsA,481
+NLANBGKA_00596,hypothetical protein,113
+NLANBGKA_00597,Cyclopropane-fatty-acyl-phospholipid synthase,396
+NLANBGKA_00598,hypothetical protein,164
+NLANBGKA_00599,hypothetical protein,165
+NLANBGKA_00600,putative MscS family protein YkuT,280
+NLANBGKA_00601,Trigger factor,427
+NLANBGKA_00602,putative DNA-directed RNA polymerase subunit delta,191
+NLANBGKA_00603,CTP synthase,534
+NLANBGKA_00604,hypothetical protein,156
+NLANBGKA_00605,hypothetical protein,148
+NLANBGKA_00606,Ribosomal protein L11 methyltransferase,317
+NLANBGKA_00607,Ribosomal RNA small subunit methyltransferase E,247
+NLANBGKA_00608,Trifunctional nucleotide phosphoesterase protein YfkN,846
+NLANBGKA_00609,Putative NrdI-like protein,152
+NLANBGKA_00610,Bifunctional (p)ppGpp synthase/hydrolase RelA,739
+NLANBGKA_00611,D-aminoacyl-tRNA deacylase,147
+NLANBGKA_00612,hypothetical protein,53
+NLANBGKA_00613,Dextranase,94
+NLANBGKA_00614,Dextranase,159
+NLANBGKA_00615,hypothetical protein,256
+NLANBGKA_00616,L-threonine dehydratase biosynthetic IlvA,416
+NLANBGKA_00617,Peptide deformylase,204
+NLANBGKA_00618,Regulatory protein YeiL,212
+NLANBGKA_00619,hypothetical protein,387
+NLANBGKA_00620,30S ribosomal protein S15,89
+NLANBGKA_00621,hypothetical protein,193
+NLANBGKA_00622,hypothetical protein,56
+NLANBGKA_00623,L-cystine import ATP-binding protein TcyN,246
+NLANBGKA_00624,Glutamine transport system permease protein GlnP,516
+NLANBGKA_00625,Undecaprenyl-diphosphatase,284
+NLANBGKA_00626,Adapter protein MecA,249
+NLANBGKA_00627,putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase,385
+NLANBGKA_00628,putative ABC transporter ATP-binding protein,267
+NLANBGKA_00629,FeS cluster assembly protein SufB,420
+NLANBGKA_00630,Cysteine desulfurase SufS,410
+NLANBGKA_00631,Iron-sulfur cluster assembly scaffold protein IscU,144
+NLANBGKA_00632,FeS cluster assembly protein SufB,472
+NLANBGKA_00633,hypothetical protein,46
+NLANBGKA_00634,Periplasmic oligopeptide-binding protein,247
+NLANBGKA_00635,Dipeptide transport system permease protein DppB,69
+NLANBGKA_00636,hypothetical protein,48
+NLANBGKA_00637,Oligopeptide transport system permease protein OppC,190
+NLANBGKA_00638,Oligopeptide transport system permease protein OppC,128
+NLANBGKA_00639,Oligopeptide transport ATP-binding protein OppD,65
+NLANBGKA_00640,Oligopeptide transport ATP-binding protein OppD,67
+NLANBGKA_00641,Oligopeptide transport ATP-binding protein OppD,137
+NLANBGKA_00642,Oligopeptide transport ATP-binding protein OppD,88
+NLANBGKA_00643,Oligopeptide transport ATP-binding protein OppF,312
+NLANBGKA_00644,hypothetical protein,33
+NLANBGKA_00645,hypothetical protein,62
+NLANBGKA_00646,33 kDa chaperonin,288
+NLANBGKA_00647,putative tRNA-dihydrouridine synthase,325
+NLANBGKA_00648,hypothetical protein,422
+NLANBGKA_00649,Transcriptional regulator AdcR,147
+NLANBGKA_00650,High-affinity zinc uptake system ATP-binding protein ZnuC,235
+NLANBGKA_00651,High-affinity zinc uptake system membrane protein ZnuB,270
+NLANBGKA_00652,hypothetical protein,312
+NLANBGKA_00653,PTS system N-acetylglucosamine-specific EIICBA component,131
+NLANBGKA_00654,PTS system maltose-specific EIICB component,308
+NLANBGKA_00655,PTS system glucose-specific EIIA component,208
+NLANBGKA_00656,Maltose 6'-phosphate phosphatase,270
+NLANBGKA_00657,Glucose-6-phosphate isomerase,449
+NLANBGKA_00658,putative transcriptional regulatory protein,238
+NLANBGKA_00659,hypothetical protein,112
+NLANBGKA_00660,Isoprenyl transferase,249
+NLANBGKA_00661,Phosphatidate cytidylyltransferase,264
+NLANBGKA_00662,Putative zinc metalloprotease,420
+NLANBGKA_00663,Proline--tRNA ligase,615
+NLANBGKA_00664,Autoinducer 2 import system permease protein LsrC,646
+NLANBGKA_00665,Bicarbonate transport ATP-binding protein CmpC,267
+NLANBGKA_00666,10 kDa chaperonin,95
+NLANBGKA_00667,60 kDa chaperonin,539
+NLANBGKA_00668,hypothetical protein,88
+NLANBGKA_00669,hypothetical protein,56
+NLANBGKA_00670,Pyruvate kinase,500
+NLANBGKA_00671,ATP-dependent 6-phosphofructokinase,339
+NLANBGKA_00672,DNA polymerase III subunit alpha,1036
+NLANBGKA_00673,hypothetical protein,261
+NLANBGKA_00674,3-isopropylmalate dehydratase small subunit,196
+NLANBGKA_00675,3-isopropylmalate dehydratase large subunit,460
+NLANBGKA_00676,hypothetical protein,93
+NLANBGKA_00677,3-isopropylmalate dehydrogenase,345
+NLANBGKA_00678,2-isopropylmalate synthase,520
+NLANBGKA_00679,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",230
+NLANBGKA_00680,putative dihydroorotate dehydrogenase A (fumarate),312
+NLANBGKA_00681,hypothetical protein,66
+NLANBGKA_00682,DNA-binding protein HU,91
+NLANBGKA_00683,hypothetical protein,189
+NLANBGKA_00684,Spore germination lipase LipC,291
+NLANBGKA_00685,DegV domain-containing protein,278
+NLANBGKA_00686,DNA repair protein RecN,556
+NLANBGKA_00687,Arginine repressor,148
+NLANBGKA_00688,Hemolysin A,288
+NLANBGKA_00689,Farnesyl diphosphate synthase,290
+NLANBGKA_00690,Exodeoxyribonuclease 7 small subunit,71
+NLANBGKA_00691,Exodeoxyribonuclease 7 large subunit,446
+NLANBGKA_00692,hypothetical protein,81
+NLANBGKA_00693,Ultraviolet N-glycosylase/AP lyase,214
+NLANBGKA_00694,hypothetical protein,232
+NLANBGKA_00695,Homoserine O-succinyltransferase,314
+NLANBGKA_00696,Adenine phosphoribosyltransferase,172
+NLANBGKA_00697,Single-stranded-DNA-specific exonuclease RecJ,736
+NLANBGKA_00698,putative oxidoreductase,255
+NLANBGKA_00699,Ribonuclease Z,309
+NLANBGKA_00700,hypothetical protein,215
+NLANBGKA_00701,GTPase HflX,412
+NLANBGKA_00702,Peptidoglycan glycosyltransferase RodA,475
+NLANBGKA_00703,Phosphoribosyl-ATP pyrophosphatase,104
+NLANBGKA_00704,Phosphoribosyl-AMP cyclohydrolase,112
+NLANBGKA_00705,Imidazole glycerol phosphate synthase subunit HisF,252
+NLANBGKA_00706,1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase,239
+NLANBGKA_00707,Imidazole glycerol phosphate synthase subunit HisH,202
+NLANBGKA_00708,Imidazoleglycerol-phosphate dehydratase,194
+NLANBGKA_00709,Histidinol dehydrogenase,427
+NLANBGKA_00710,ATP phosphoribosyltransferase,216
+NLANBGKA_00711,ATP phosphoribosyltransferase regulatory subunit,326
+NLANBGKA_00712,Histidinol-phosphate aminotransferase,350
+NLANBGKA_00713,hypothetical protein,45
+NLANBGKA_00714,hypothetical protein,72
+NLANBGKA_00715,Divalent metal cation transporter MntH,444
+NLANBGKA_00716,hypothetical protein,102
+NLANBGKA_00717,CTP pyrophosphohydrolase,129
+NLANBGKA_00718,Putative DNA repair helicase RadD,961
+NLANBGKA_00719,Lysine--tRNA ligase,496
+NLANBGKA_00720,hypothetical protein,425
+NLANBGKA_00721,hypothetical protein,159
+NLANBGKA_00722,Pyrimidine 5'-nucleotidase YjjG,300
+NLANBGKA_00723,Putative phosphoserine phosphatase 2,212
+NLANBGKA_00724,Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK,157
+NLANBGKA_00725,hypothetical protein,315
+NLANBGKA_00726,hypothetical protein,129
+NLANBGKA_00727,hypothetical protein,208
+NLANBGKA_00728,hypothetical protein,60
+NLANBGKA_00729,hypothetical protein,71
+NLANBGKA_00730,Type I restriction enzyme EcoR124II R protein,967
+NLANBGKA_00731,Type I restriction enzyme EcoKI M protein,534
+NLANBGKA_00732,hypothetical protein,423
+NLANBGKA_00733,DNA replication and repair protein RecF,582
+NLANBGKA_00734,ATP-dependent DNA helicase PcrA,537
+NLANBGKA_00735,hypothetical protein,232
+NLANBGKA_00736,hypothetical protein,77
+NLANBGKA_00737,putative HTH-type transcriptional regulator YddM,361
+NLANBGKA_00738,hypothetical protein,333
+NLANBGKA_00739,hypothetical protein,186
+NLANBGKA_00740,Protease HtpX,299
+NLANBGKA_00741,hypothetical protein,157
+NLANBGKA_00742,hypothetical protein,131
+NLANBGKA_00743,Phosphoenolpyruvate carboxylase,943
+NLANBGKA_00744,hypothetical protein,344
+NLANBGKA_00745,Superoxide dismutase [Mn/Fe],201
+NLANBGKA_00746,hypothetical protein,462
+NLANBGKA_00747,Leader peptidase PppA,215
+NLANBGKA_00748,DNA protection during starvation protein,173
+NLANBGKA_00749,Peroxide-responsive repressor PerR,145
+NLANBGKA_00750,hypothetical protein,68
+NLANBGKA_00751,Glucokinase,322
+NLANBGKA_00752,GTP-binding protein TypA/BipA,616
+NLANBGKA_00753,hypothetical protein,90
+NLANBGKA_00754,UDP-N-acetylmuramoylalanine--D-glutamate ligase,450
+NLANBGKA_00755,UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,356
+NLANBGKA_00756,Cell division protein DivIB,374
+NLANBGKA_00757,Cell division protein FtsA,458
+NLANBGKA_00758,Cell division protein FtsZ,440
+NLANBGKA_00759,hypothetical protein,227
+NLANBGKA_00760,Cell division protein SepF,189
+NLANBGKA_00761,hypothetical protein,85
+NLANBGKA_00762,hypothetical protein,266
+NLANBGKA_00763,Cell division protein DivIVA,291
+NLANBGKA_00764,Isoleucine--tRNA ligase,929
+NLANBGKA_00765,hypothetical protein,30
+NLANBGKA_00766,hypothetical protein,420
+NLANBGKA_00767,50S ribosomal protein L31 type B,88
+NLANBGKA_00768,FAD:protein FMN transferase,310
+NLANBGKA_00769,putative bifunctional oligoribonuclease and PAP phosphatase NrnA,325
+NLANBGKA_00770,Disulfide-bond oxidoreductase YghU,262
+NLANBGKA_00771,Adenosine deaminase,336
+NLANBGKA_00772,Thymidine kinase,198
+NLANBGKA_00773,Peptide chain release factor 1,359
+NLANBGKA_00774,Release factor glutamine methyltransferase,277
+NLANBGKA_00775,Threonylcarbamoyl-AMP synthase,200
+NLANBGKA_00776,Serine hydroxymethyltransferase,416
+NLANBGKA_00777,hypothetical protein,325
+NLANBGKA_00778,hypothetical protein,195
+NLANBGKA_00779,putative ABC transporter ATP-binding protein,579
+NLANBGKA_00780,putative ABC transporter ATP-binding protein,582
+NLANBGKA_00781,hypothetical protein,88
+NLANBGKA_00782,D-alanine--poly(phosphoribitol) ligase subunit 1,516
+NLANBGKA_00783,Peptidoglycan O-acetyltransferase,415
+NLANBGKA_00784,D-alanine--poly(phosphoribitol) ligase subunit 2,79
+NLANBGKA_00785,hypothetical protein,422
+NLANBGKA_00786,hypothetical protein,70
+NLANBGKA_00787,hypothetical protein,94
+NLANBGKA_00788,Biotin transporter BioY2,179
+NLANBGKA_00789,putative protease YdcP,428
+NLANBGKA_00790,putative protease YdcP,309
+NLANBGKA_00791,hypothetical protein,98
+NLANBGKA_00792,hypothetical protein,146
+NLANBGKA_00793,hypothetical protein,132
+NLANBGKA_00794,Prolipoprotein diacylglyceryl transferase,263
+NLANBGKA_00795,HPr kinase/phosphorylase,309
+NLANBGKA_00796,hypothetical protein,87
+NLANBGKA_00797,30S ribosomal protein S1,710
+NLANBGKA_00798,hypothetical protein,43
+NLANBGKA_00799,Putative two-component membrane permease complex subunit SMU_747c,300
+NLANBGKA_00800,Putative two-component membrane permease complex subunit SMU_746c,271
+NLANBGKA_00801,hypothetical protein,350
+NLANBGKA_00802,CRISPR-associated endoribonuclease Cas2,107
+NLANBGKA_00803,CRISPR-associated endonuclease Cas1,303
+NLANBGKA_00804,CRISPR-associated endonuclease Cas9 1,1120
+NLANBGKA_00805,hypothetical protein,203
+NLANBGKA_00806,hypothetical protein,101
+NLANBGKA_00807,Modification methylase FokI,153
+NLANBGKA_00808,hypothetical protein,73
+NLANBGKA_00809,hypothetical protein,276
+NLANBGKA_00810,23S rRNA (uracil-C(5))-methyltransferase RlmCD,453
+NLANBGKA_00811,hypothetical protein,182
+NLANBGKA_00812,Acryloyl-CoA reductase (NADH),354
+NLANBGKA_00813,hypothetical protein,304
+NLANBGKA_00814,Regulatory protein MsrR,476
+NLANBGKA_00815,Prephenate dehydratase,274
+NLANBGKA_00816,Shikimate kinase,163
+NLANBGKA_00817,3-phosphoshikimate 1-carboxyvinyltransferase,427
+NLANBGKA_00818,L-2-hydroxyisocaproate dehydrogenase,315
+NLANBGKA_00819,hypothetical protein,112
+NLANBGKA_00820,Prephenate dehydrogenase,368
+NLANBGKA_00821,Chorismate synthase,388
+NLANBGKA_00822,3-dehydroquinate synthase,355
+NLANBGKA_00823,Shikimate dehydrogenase (NADP(+)),285
+NLANBGKA_00824,3-dehydroquinate dehydratase,225
+NLANBGKA_00825,Ribosomal RNA large subunit methyltransferase I,387
+NLANBGKA_00826,Lipoteichoic acid synthase 2,728
+NLANBGKA_00827,hypothetical protein,61
+NLANBGKA_00828,Enolase,434
+NLANBGKA_00829,hypothetical protein,151
+NLANBGKA_00830,Glycerate kinase,371
+NLANBGKA_00831,hypothetical protein,254
+NLANBGKA_00832,hypothetical protein,55
+NLANBGKA_00833,Catabolite control protein A,333
+NLANBGKA_00834,Xaa-Pro dipeptidase,361
+NLANBGKA_00835,General stress protein 13,121
+NLANBGKA_00836,Putative bifunctional phosphatase/peptidyl-prolyl cis-trans isomerase,468
+NLANBGKA_00837,SsrA-binding protein,154
+NLANBGKA_00838,Ribonuclease R,817
+NLANBGKA_00839,putative protein-export membrane protein SecG,78
+NLANBGKA_00840,Putative metabolite transport protein YjhB,407
+NLANBGKA_00841,Dephospho-CoA kinase,197
+NLANBGKA_00842,Formamidopyrimidine-DNA glycosylase,273
+NLANBGKA_00843,GTPase Era,299
+NLANBGKA_00844,Undecaprenol kinase,134
+NLANBGKA_00845,Endoribonuclease YbeY,165
+NLANBGKA_00846,Transcription antiterminator LicT,105
+NLANBGKA_00847,Transcription antiterminator LicT,123
+NLANBGKA_00848,Recombination protein RecR,198
+NLANBGKA_00849,Penicillin-binding protein 2B,704
+NLANBGKA_00850,ADP-dependent (S)-NAD(P)H-hydrate dehydratase,278
+NLANBGKA_00851,Bifunctional protein FolD protein,284
+NLANBGKA_00852,hypothetical protein,63
+NLANBGKA_00853,hypothetical protein,74
+NLANBGKA_00854,hypothetical protein,46
+NLANBGKA_00855,Fe(2+) transporter FeoB,712
+NLANBGKA_00856,hypothetical protein,158
+NLANBGKA_00857,Glutamine transport ATP-binding protein GlnQ,244
+NLANBGKA_00858,L-cystine transport system permease protein YecS,226
+NLANBGKA_00859,hypothetical protein,76
+NLANBGKA_00860,"Ornithine carbamoyltransferase, catabolic",326
+NLANBGKA_00861,ATP-dependent Clp protease ATP-binding subunit ClpE,752
+NLANBGKA_00862,RNA pyrophosphohydrolase,152
+NLANBGKA_00863,hypothetical protein,100
+NLANBGKA_00864,hypothetical protein,122
+NLANBGKA_00865,"1,5-anhydro-D-fructose reductase",111
+NLANBGKA_00866,Aminoacyltransferase FemB,411
+NLANBGKA_00867,hypothetical protein,180
+NLANBGKA_00868,hypothetical protein,206
+NLANBGKA_00871,30S Ribosomal protein S1,400
+NLANBGKA_00874,hypothetical protein,76
+NLANBGKA_00875,Branched-chain-amino-acid aminotransferase,340
+NLANBGKA_00876,DNA topoisomerase 4 subunit A,806
+NLANBGKA_00877,DNA topoisomerase 4 subunit B,649
+NLANBGKA_00878,Glycerol-3-phosphate acyltransferase,213
+NLANBGKA_00879,hypothetical protein,119
+NLANBGKA_00880,hypothetical protein,84
+NLANBGKA_00881,Homocysteine S-methyltransferase,316
+NLANBGKA_00882,Amino-acid permease RocE,458
+NLANBGKA_00883,putative GTP-binding protein EngB,199
+NLANBGKA_00884,ATP-dependent Clp protease ATP-binding subunit ClpX,408
+NLANBGKA_00885,hypothetical protein,56
+NLANBGKA_00886,Dihydrofolate reductase,167
+NLANBGKA_00887,Thymidylate synthase,286
+NLANBGKA_00888,Hydroxymethylglutaryl-CoA synthase,391
+NLANBGKA_00889,3-hydroxy-3-methylglutaryl-coenzyme A reductase,423
+NLANBGKA_00890,hypothetical protein,225
+NLANBGKA_00891,hypothetical protein,60
+NLANBGKA_00892,hypothetical protein,288
+NLANBGKA_00893,hypothetical protein,137
+NLANBGKA_00894,hypothetical protein,121
+NLANBGKA_00895,Threonine--tRNA ligase,648
+NLANBGKA_00896,hypothetical protein,30
+NLANBGKA_00897,Alpha-monoglucosyldiacylglycerol synthase,440
+NLANBGKA_00898,Processive diacylglycerol alpha-glucosyltransferase,334
+NLANBGKA_00899,hypothetical protein,153
+NLANBGKA_00900,hypothetical protein,156
+NLANBGKA_00901,hypothetical protein,50
+NLANBGKA_00902,hypothetical protein,31
+NLANBGKA_00903,5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase,230
+NLANBGKA_00904,hypothetical protein,86
+NLANBGKA_00905,Methanol dehydrogenase activator,182
+NLANBGKA_00906,Bifunctional protein GlmU,460
+NLANBGKA_00907,Isopentenyl-diphosphate delta-isomerase,335
+NLANBGKA_00908,Phosphomevalonate kinase,331
+NLANBGKA_00909,4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,314
+NLANBGKA_00910,Galactokinase,292
+NLANBGKA_00911,hypothetical protein,187
+NLANBGKA_00912,putative pyridine nucleotide-disulfide oxidoreductase RclA,438
+NLANBGKA_00913,Alanine dehydrogenase,112
+NLANBGKA_00914,Alanine dehydrogenase,45
+NLANBGKA_00915,putative hydrolase YxeP,381
+NLANBGKA_00916,Ribosomal large subunit pseudouridine synthase B,239
+NLANBGKA_00917,hypothetical protein,227
+NLANBGKA_00918,Purine nucleoside phosphorylase DeoD-type,256
+NLANBGKA_00919,hypothetical protein,149
+NLANBGKA_00920,hypothetical protein,72
+NLANBGKA_00921,Thiosulfate sulfurtransferase GlpE,327
+NLANBGKA_00922,hypothetical protein,240
+NLANBGKA_00923,Daunorubicin/doxorubicin resistance ATP-binding protein DrrA,303
+NLANBGKA_00924,hypothetical protein,70
+NLANBGKA_00925,putative adenylyltransferase/sulfurtransferase MoeZ,307
+NLANBGKA_00926,Transcriptional regulatory protein YpdB,236
+NLANBGKA_00927,hypothetical protein,431
+NLANBGKA_00928,Glucosamine-6-phosphate deaminase,233
+NLANBGKA_00929,S-adenosylmethionine:tRNA ribosyltransferase-isomerase,347
+NLANBGKA_00930,putative ABC transporter ATP-binding protein,595
+NLANBGKA_00931,putative ABC transporter ATP-binding protein,578
+NLANBGKA_00932,hypothetical protein,34
+NLANBGKA_00933,hypothetical protein,982
+NLANBGKA_00934,hypothetical protein,128
+NLANBGKA_00935,hypothetical protein,281
+NLANBGKA_00936,hypothetical protein,95
+NLANBGKA_00937,hypothetical protein,101
+NLANBGKA_00938,hypothetical protein,108
+NLANBGKA_00939,hypothetical protein,186
+NLANBGKA_00940,HTH-type transcriptional regulator TreR,165
+NLANBGKA_00941,putative transcriptional regulator PhnF,52
+NLANBGKA_00942,PTS system trehalose-specific EIIBC component,121
+NLANBGKA_00943,Trehalose-6-phosphate hydrolase,117
+NLANBGKA_00944,Trehalose-6-phosphate hydrolase,157
+NLANBGKA_00945,Trehalose-6-phosphate hydrolase,82
+NLANBGKA_00946,Neutral endopeptidase,631
+NLANBGKA_00947,Aldehyde-alcohol dehydrogenase,131
+NLANBGKA_00948,Aldehyde-alcohol dehydrogenase,313
+NLANBGKA_00949,Aldehyde-alcohol dehydrogenase,144
+NLANBGKA_00950,Aldehyde-alcohol dehydrogenase,77
+NLANBGKA_00951,Aldehyde-alcohol dehydrogenase,128
+NLANBGKA_00952,Threonine synthase,494
+NLANBGKA_00953,putative FMN/FAD exporter YeeO,429
+NLANBGKA_00954,hypothetical protein,121
+NLANBGKA_00955,hypothetical protein,555
+NLANBGKA_00956,hypothetical protein,50
+NLANBGKA_00957,Dihydroxy-acid dehydratase,490
+NLANBGKA_00958,Acetolactate synthase large subunit,566
+NLANBGKA_00959,Acetolactate synthase small subunit,158
+NLANBGKA_00960,Ketol-acid reductoisomerase (NADP(+)),340
+NLANBGKA_00961,Tyrosine--tRNA ligase,418
+NLANBGKA_00962,Penicillin-binding protein 1F,807
+NLANBGKA_00963,DNA-directed RNA polymerase subunit beta,1193
+NLANBGKA_00964,DNA-directed RNA polymerase subunit beta',1212
+NLANBGKA_00965,hypothetical protein,120
+NLANBGKA_00966,ComG operon protein 1,313
+NLANBGKA_00967,Putative type II secretion system protein F,296
+NLANBGKA_00968,hypothetical protein,108
+NLANBGKA_00969,hypothetical protein,120
+NLANBGKA_00970,hypothetical protein,77
+NLANBGKA_00971,hypothetical protein,145
+NLANBGKA_00972,hypothetical protein,105
+NLANBGKA_00973,hypothetical protein,318
+NLANBGKA_00974,Acetate kinase,397
+NLANBGKA_00975,hypothetical protein,65
+NLANBGKA_00976,hypothetical protein,91
+NLANBGKA_00977,hypothetical protein,141
+NLANBGKA_00978,hypothetical protein,147
+NLANBGKA_00979,hypothetical protein,220
+NLANBGKA_00980,Pyrroline-5-carboxylate reductase,256
+NLANBGKA_00981,Glutamyl aminopeptidase,355
+NLANBGKA_00982,hypothetical protein,94
+NLANBGKA_00983,Thioredoxin-like protein YtpP,104
+NLANBGKA_00984,Phenylalanine--tRNA ligase beta subunit,207
+NLANBGKA_00985,hypothetical protein,343
+NLANBGKA_00986,hypothetical protein,75
+NLANBGKA_00987,Single-stranded DNA-binding protein,130
+NLANBGKA_00988,tRNA-specific adenosine deaminase,172
+NLANBGKA_00989,hypothetical protein,87
+NLANBGKA_00990,23S rRNA (guanine(745)-N(1))-methyltransferase,277
+NLANBGKA_00991,hypothetical protein,123
+NLANBGKA_00992,Alpha-D-glucose 1-phosphate phosphatase YihX,96
+NLANBGKA_00993,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",232
+NLANBGKA_00994,N-acetyldiaminopimelate deacetylase,377
+NLANBGKA_00995,5-formyltetrahydrofolate cyclo-ligase,175
+NLANBGKA_00996,Rhomboid protease GluP,224
+NLANBGKA_00997,UTP--glucose-1-phosphate uridylyltransferase,304
+NLANBGKA_00998,Glycerol-3-phosphate dehydrogenase [NAD(P)+],340
+NLANBGKA_00999,hypothetical protein,151
+NLANBGKA_01000,hypothetical protein,110
+NLANBGKA_01001,hypothetical protein,241
+NLANBGKA_01002,NADH-dependent flavin reductase subunit 1,118
+NLANBGKA_01003,NADH-dependent flavin reductase subunit 2,149
+NLANBGKA_01004,NADH-dependent flavin reductase subunit 1,50
+NLANBGKA_01005,Deoxyuridine 5'-triphosphate nucleotidohydrolase,148
+NLANBGKA_01006,DNA repair protein RadA,405
+NLANBGKA_01007,hypothetical protein,38
+NLANBGKA_01008,hypothetical protein,122
+NLANBGKA_01009,Beta-carbonic anhydrase 1,165
+NLANBGKA_01010,hypothetical protein,117
+NLANBGKA_01011,50S ribosomal protein L11,141
+NLANBGKA_01012,50S ribosomal protein L1,229
+NLANBGKA_01013,Oligopeptide-binding protein AmiA,69
+NLANBGKA_01014,Oligopeptide-binding protein AmiA,184
+NLANBGKA_01015,Oligopeptide-binding protein AmiA,102
+NLANBGKA_01016,Oligopeptide-binding protein AmiA,157
+NLANBGKA_01017,Glutamate--tRNA ligase,484
+NLANBGKA_01018,Argininosuccinate synthase,399
+NLANBGKA_01019,Argininosuccinate lyase,461
+NLANBGKA_01020,Ribonuclease P protein component,111
+NLANBGKA_01021,Membrane protein insertase YidC 2,268
+NLANBGKA_01022,hypothetical protein,349
+NLANBGKA_01023,50S ribosomal protein L34,44
+NLANBGKA_01024,hypothetical protein,157
+NLANBGKA_01025,Queuine tRNA-ribosyltransferase,380
+NLANBGKA_01026,Thiamine precursor transporter HmpT,72
+NLANBGKA_01027,Pyridoxine kinase,253
+NLANBGKA_01028,tRNA pseudouridine synthase A,248
+NLANBGKA_01029,Chaperone protein DnaJ,377
+NLANBGKA_01030,Chaperone protein DnaK,607
+NLANBGKA_01031,Protein GrpE,204
+NLANBGKA_01032,Heat-inducible transcription repressor HrcA,360
+NLANBGKA_01033,Exo-glucosaminidase LytG,194
+NLANBGKA_01034,D-alanyl-D-alanine carboxypeptidase,265
+NLANBGKA_01035,hypothetical protein,135
+NLANBGKA_01036,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",116
+NLANBGKA_01037,hypothetical protein,445
+NLANBGKA_01038,hypothetical protein,88
+NLANBGKA_01039,Capsule biosynthesis protein CapA,405
+NLANBGKA_01040,hypothetical protein,164
+NLANBGKA_01041,N-acetylmuramoyl-L-alanine amidase domain-containing protein,164
+NLANBGKA_01042,hypothetical protein,38
+NLANBGKA_01043,hypothetical protein,396
+NLANBGKA_01044,hypothetical protein,90
+NLANBGKA_01045,Tyrosine recombinase XerC,405
+NLANBGKA_01046,hypothetical protein,170
+NLANBGKA_01047,hypothetical protein,55
+NLANBGKA_01048,hypothetical protein,421
+NLANBGKA_01049,Nisin biosynthesis protein NisC,407
+NLANBGKA_01050,Nisin biosynthesis protein NisB,787
+NLANBGKA_01051,hypothetical protein,34
+NLANBGKA_01052,hypothetical protein,74
+NLANBGKA_01053,hypothetical protein,69
+NLANBGKA_01054,Modification methylase FokI,964
+NLANBGKA_01055,hypothetical protein,794
+NLANBGKA_01056,hypothetical protein,78
+NLANBGKA_01057,putative HTH-type transcriptional regulator,225
+NLANBGKA_01058,hypothetical protein,287
+NLANBGKA_01059,hypothetical protein,120
+NLANBGKA_01060,hypothetical protein,319
+NLANBGKA_01061,hypothetical protein,57
+NLANBGKA_01062,HTH-type transcriptional regulator Xre,115
+NLANBGKA_01063,hypothetical protein,82
+NLANBGKA_01064,hypothetical protein,98
+NLANBGKA_01065,hypothetical protein,151
+NLANBGKA_01066,DNA translocase SpoIIIE,563
+NLANBGKA_01067,hypothetical protein,417
+NLANBGKA_01068,hypothetical protein,93
+NLANBGKA_01069,hypothetical protein,111
+NLANBGKA_01070,hypothetical protein,76
+NLANBGKA_01071,hypothetical protein,183
+NLANBGKA_01072,hypothetical protein,326
+NLANBGKA_01073,hypothetical protein,74
+NLANBGKA_01074,hypothetical protein,140
+NLANBGKA_01075,hypothetical protein,834
+NLANBGKA_01076,hypothetical protein,633
+NLANBGKA_01077,hypothetical protein,75
+NLANBGKA_01078,N-acetylmuramoyl-L-alanine amidase domain-containing protein,370
+NLANBGKA_01079,hypothetical protein,90
+NLANBGKA_01080,Tyrosine recombinase XerC,406
+NLANBGKA_01081,30S ribosomal protein S9,130
+NLANBGKA_01082,50S ribosomal protein L13,148
+NLANBGKA_01083,putative 2-dehydropantoate 2-reductase,318
+NLANBGKA_01084,hypothetical protein,166
+NLANBGKA_01085,Fatty acid-binding protein,286
+NLANBGKA_01086,hypothetical protein,171
+NLANBGKA_01087,Putative TrmH family tRNA/rRNA methyltransferase,247
+NLANBGKA_01088,hypothetical protein,80
+NLANBGKA_01089,hypothetical protein,62
+NLANBGKA_01090,Mini-ribonuclease 3,133
+NLANBGKA_01091,Cysteine--tRNA ligase,447
+NLANBGKA_01092,Serine acetyltransferase,206
+NLANBGKA_01093,hypothetical protein,256
+NLANBGKA_01094,Polyribonucleotide nucleotidyltransferase,741
+NLANBGKA_01095,D-alanyl-D-alanine carboxypeptidase DacA,415
+NLANBGKA_01096,D-alanyl-D-alanine carboxypeptidase DacA,81
+NLANBGKA_01097,D-alanyl-D-alanine carboxypeptidase DacA,312
+NLANBGKA_01098,Negative regulator of genetic competence ClpC/MecB,816
+NLANBGKA_01099,Transcriptional regulator CtsR,151
+NLANBGKA_01100,hypothetical protein,156
+NLANBGKA_01101,Elongation factor Ts,346
+NLANBGKA_01102,30S ribosomal protein S2,255
+NLANBGKA_01104,Microcin C7 self-immunity protein MccF,172
+NLANBGKA_01105,hypothetical protein,146
+NLANBGKA_01106,hypothetical protein,90
+NLANBGKA_01107,"Beta-1,6-galactofuranosyltransferase WbbI",350
+NLANBGKA_01108,Exopolysaccharide phosphotransferase CpsY,297
+NLANBGKA_01109,UDP-galactopyranose mutase,366
+NLANBGKA_01110,Putative O-antigen transporter,471
+NLANBGKA_01111,Tyrosine-protein phosphatase CpsB,162
+NLANBGKA_01112,hypothetical protein,31
+NLANBGKA_01113,Putative glycosyltransferase EpsH,320
+NLANBGKA_01114,hypothetical protein,290
+NLANBGKA_01115,hypothetical protein,383
+NLANBGKA_01116,hypothetical protein,245
+NLANBGKA_01117,hypothetical protein,161
+NLANBGKA_01118,hypothetical protein,149
+NLANBGKA_01119,UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase,135
+NLANBGKA_01120,hypothetical protein,185
+NLANBGKA_01121,hypothetical protein,70
+NLANBGKA_01122,putative sugar transferase EpsL,455
+NLANBGKA_01123,Tyrosine-protein kinase CpsD,246
+NLANBGKA_01124,Capsular polysaccharide type 8 biosynthesis protein cap8A,230
+NLANBGKA_01125,Tyrosine-protein phosphatase CpsB,243
+NLANBGKA_01126,Putative transcriptional regulator YwtF,486
+NLANBGKA_01127,Purine nucleoside phosphorylase DeoD-type,236
+NLANBGKA_01128,hypothetical protein,79
+NLANBGKA_01129,hypothetical protein,158
+NLANBGKA_01130,hypothetical protein,136
+NLANBGKA_01131,Voltage-gated ClC-type chloride channel ClcB,130
+NLANBGKA_01132,Purine nucleoside phosphorylase 1,269
+NLANBGKA_01133,Phosphopentomutase,403
+NLANBGKA_01134,Ribose-5-phosphate isomerase A,226
+NLANBGKA_01135,hypothetical protein,85
+NLANBGKA_01136,hypothetical protein,52
+NLANBGKA_01137,hypothetical protein,104
+NLANBGKA_01138,hypothetical protein,194
+NLANBGKA_01139,Beta-Ala-Xaa dipeptidase,468
+NLANBGKA_01140,2-hydroxymuconate tautomerase,61
+NLANBGKA_01141,hypothetical protein,104
+NLANBGKA_01142,hypothetical protein,69
+NLANBGKA_01143,50S ribosomal protein L20,119
+NLANBGKA_01144,50S ribosomal protein L35,66
+NLANBGKA_01145,Translation initiation factor IF-3,176
+NLANBGKA_01146,Cytidylate kinase,226
+NLANBGKA_01147,hypothetical protein,209
+NLANBGKA_01148,hypothetical protein,166
+NLANBGKA_01149,Peptidase T,407
+NLANBGKA_01150,Signal peptidase IB,185
+NLANBGKA_01151,Beta-barrel assembly-enhancing protease,409
+NLANBGKA_01152,hypothetical protein,392
+NLANBGKA_01153,8-oxo-dGTP diphosphatase,160
+NLANBGKA_01154,Cell division protein FtsX,309
+NLANBGKA_01155,Cell division ATP-binding protein FtsE,230
+NLANBGKA_01156,Peptide chain release factor 2,326
+NLANBGKA_01157,Epoxyqueuosine reductase,363
+NLANBGKA_01158,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",312
+NLANBGKA_01159,NADPH-dependent oxidoreductase,248
+NLANBGKA_01160,Calcium-transporting ATPase 1,894
+NLANBGKA_01161,hypothetical protein,128
+NLANBGKA_01162,Mycothiol acetyltransferase,105
+NLANBGKA_01163,Putative phosphatase,269
+NLANBGKA_01164,Lipid II:glycine glycyltransferase,404
+NLANBGKA_01165,Putative metallo-hydrolase YycJ,270
+NLANBGKA_01166,Sensor histidine kinase WalK,446
+NLANBGKA_01167,Transcriptional regulatory protein WalR,235
+NLANBGKA_01168,Glutamine transport ATP-binding protein GlnQ,255
+NLANBGKA_01169,Major cell-binding factor,277
+NLANBGKA_01170,putative glutamine ABC transporter permease protein GlnM,232
+NLANBGKA_01171,putative glutamine ABC transporter permease protein GlnP,216
+NLANBGKA_01172,DNA-entry nuclease,293
+NLANBGKA_01173,hypothetical protein,62
+NLANBGKA_01174,UDP-N-acetylglucosamine 1-carboxyvinyltransferase 1,423
+NLANBGKA_01175,hypothetical protein,56
+NLANBGKA_01176,UDP-glucose 4-epimerase,337
+NLANBGKA_01177,hypothetical protein,526
+NLANBGKA_01178,hypothetical protein,137
+NLANBGKA_01179,hypothetical protein,126
+NLANBGKA_01180,Inner spore coat protein H,557
+NLANBGKA_01181,hypothetical protein,483
+NLANBGKA_01182,N-acetyl-alpha-D-glucosaminyl L-malate synthase,469
+NLANBGKA_01183,hypothetical protein,608
+NLANBGKA_01184,hypothetical protein,300
+NLANBGKA_01185,hypothetical protein,590
+NLANBGKA_01186,S-adenosylmethionine synthase,397
+NLANBGKA_01187,Bifunctional ligase/repressor BirA,312
+NLANBGKA_01188,DNA polymerase III subunit gamma/tau,550
+NLANBGKA_01189,Free methionine-R-sulfoxide reductase,169
+NLANBGKA_01190,tRNA dimethylallyltransferase,301
+NLANBGKA_01191,hypothetical protein,58
+NLANBGKA_01192,hypothetical protein,168
+NLANBGKA_01194,50S ribosomal protein L19,115
+NLANBGKA_01195,Chloride/fluoride channel protein,408
+NLANBGKA_01196,T-protein,90
+NLANBGKA_01197,H(+)/Cl(-) exchange transporter ClcA,511
+NLANBGKA_01198,Flavodoxin,147
+NLANBGKA_01199,hypothetical protein,75
+NLANBGKA_01200,hypothetical protein,239
+NLANBGKA_01201,Carbohydrate acetyl esterase/feruloyl esterase,260
+NLANBGKA_01202,Ribonuclease J 2,553
+NLANBGKA_01203,Bicarbonate transport ATP-binding protein CmpD,252
+NLANBGKA_01204,Autoinducer 2 import system permease protein LsrC,289
+NLANBGKA_01205,hypothetical protein,333
+NLANBGKA_01206,hypothetical protein,73
+NLANBGKA_01207,hypothetical protein,69
+NLANBGKA_01208,hypothetical protein,159
+NLANBGKA_01209,hypothetical protein,89
+NLANBGKA_01210,hypothetical protein,55
+NLANBGKA_01211,Tyrosine recombinase XerD,276
+NLANBGKA_01212,Fructose-bisphosphate aldolase,293
+NLANBGKA_01214,hypothetical protein,201
+NLANBGKA_01215,hypothetical protein,131
+NLANBGKA_01216,hypothetical protein,58
+NLANBGKA_01217,Copper-exporting P-type ATPase B,638
+NLANBGKA_01218,hypothetical protein,108
+NLANBGKA_01219,putative type I restriction enzymeP M protein,210
+NLANBGKA_01220,Glucose uptake protein GlcU,295
+NLANBGKA_01221,Oleate hydratase,64
+NLANBGKA_01222,hypothetical protein,147
+NLANBGKA_01223,hypothetical protein,166
+NLANBGKA_01224,High-affinity zinc uptake system binding-protein ZnuA,514
+NLANBGKA_01225,hypothetical protein,132
+NLANBGKA_01226,hypothetical protein,99
+NLANBGKA_01227,hypothetical protein,335
+NLANBGKA_01228,N-acetylmuramoyl-L-alanine amidase domain-containing protein,237
+NLANBGKA_01229,hypothetical protein,264
+NLANBGKA_01230,HTH-type transcriptional regulator CysB,302
+NLANBGKA_01231,Glutamine--fructose-6-phosphate aminotransferase [isomerizing],602
+NLANBGKA_01232,hypothetical protein,109
+NLANBGKA_01233,L-cystine transport system permease protein YecS,213
+NLANBGKA_01234,Glutamine transport ATP-binding protein GlnQ,209
+NLANBGKA_01235,Arginine-binding extracellular protein ArtP,283
+NLANBGKA_01236,DNA polymerase IV,145
+NLANBGKA_01237,DNA polymerase IV,217
+NLANBGKA_01238,hypothetical protein,29
+NLANBGKA_01239,Alcohol dehydrogenase 1,114
+NLANBGKA_01240,Alcohol dehydrogenase 1,221
+NLANBGKA_01241,hypothetical protein,40
+NLANBGKA_01242,hypothetical protein,60
+NLANBGKA_01243,hypothetical protein,928
+NLANBGKA_01244,Modification methylase MboII,706
+NLANBGKA_01245,GMP synthase [glutamine-hydrolyzing],520
+NLANBGKA_01246,HTH-type transcriptional repressor YvoA,232
+NLANBGKA_01247,hypothetical protein,110
+NLANBGKA_01248,Signal recognition particle protein,520
+NLANBGKA_01249,Niacin transporter NiaX,175
+NLANBGKA_01250,putative transcription repressor NiaR,171
+NLANBGKA_01251,putative HTH-type transcriptional regulator,229
+NLANBGKA_01252,Ribosome biogenesis GTPase A,284
+NLANBGKA_01253,Ribonuclease HII,255
+NLANBGKA_01254,Beta-glucoside kinase,306
+NLANBGKA_01255,DNA processing protein DprA,279
+NLANBGKA_01256,DNA topoisomerase 1,714
+NLANBGKA_01257,hypothetical protein,274
+NLANBGKA_01258,Response regulator ArlR,219
+NLANBGKA_01259,Sensor kinase CusS,464
+NLANBGKA_01260,Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO,447
+NLANBGKA_01261,hypothetical protein,265
+NLANBGKA_01262,hypothetical protein,51
+NLANBGKA_01263,Nucleoside diphosphate kinase,142
+NLANBGKA_01264,Thiosulfate sulfurtransferase PspE,97
+NLANBGKA_01265,Diacetyl reductase [(S)-acetoin forming],113
+NLANBGKA_01266,Diacetyl reductase [(S)-acetoin forming],48
+NLANBGKA_01267,Elongation factor 4,610
+NLANBGKA_01268,hypothetical protein,285
+NLANBGKA_01269,hypothetical protein,266
+NLANBGKA_01270,hypothetical protein,49
+NLANBGKA_01271,Putative mycofactocin radical SAM maturase MftC,365
+NLANBGKA_01272,N(1)-aminopropylagmatine ureohydrolase,247
+NLANBGKA_01273,hypothetical protein,390
+NLANBGKA_01274,Acetolactate synthase,558
+NLANBGKA_01275,Alpha-acetolactate decarboxylase,239
+NLANBGKA_01276,hypothetical protein,103
+NLANBGKA_01277,Type-1 restriction enzyme R protein,1025
+NLANBGKA_01278,putative type I restriction enzymeP M protein,531
+NLANBGKA_01279,hypothetical protein,407
+NLANBGKA_01280,hypothetical protein,88
+NLANBGKA_01281,hypothetical protein,259
+NLANBGKA_01282,putative cadmium-transporting ATPase,705
+NLANBGKA_01283,Cadmium resistance transcriptional regulatory protein CadC,119
+NLANBGKA_01284,hypothetical protein,98
+NLANBGKA_01285,hypothetical protein,173
+NLANBGKA_01286,hypothetical protein,72
+NLANBGKA_01287,Chromate reductase,183
+NLANBGKA_01288,HTH-type transcriptional regulator MhqR,109
+NLANBGKA_01289,hypothetical protein,76
+NLANBGKA_01290,Aminopeptidase PepS,413
+NLANBGKA_01291,DNA polymerase III PolC-type,1464
+NLANBGKA_01301,2-iminobutanoate/2-iminopropanoate deaminase,126
+NLANBGKA_01302,7-cyano-7-deazaguanine synthase,217
+NLANBGKA_01303,"6-carboxy-5,6,7,8-tetrahydropterin synthase",147
+NLANBGKA_01304,7-carboxy-7-deazaguanine synthase,238
+NLANBGKA_01305,NADPH-dependent 7-cyano-7-deazaguanine reductase,163
+NLANBGKA_01306,hypothetical protein,62
+NLANBGKA_01307,hypothetical protein,256
+NLANBGKA_01308,Nucleotide-binding protein YvcJ,296
+NLANBGKA_01309,Putative gluconeogenesis factor,324
+NLANBGKA_01310,Putative sporulation transcription regulator WhiA,303
+NLANBGKA_01311,Dipeptidase,311
+NLANBGKA_01312,Cold shock-like protein CspLA,66
+NLANBGKA_01313,Cold shock protein 2,91
+NLANBGKA_01314,hypothetical protein,83
+NLANBGKA_01315,hypothetical protein,235
+NLANBGKA_01316,hypothetical protein,313
+NLANBGKA_01317,Modification methylase DpnIIA,290
+NLANBGKA_01318,Type-2 restriction enzyme MboI,304
+NLANBGKA_01319,hypothetical protein,140
+NLANBGKA_01320,hypothetical protein,99
+NLANBGKA_01321,hypothetical protein,165
+NLANBGKA_01322,hypothetical protein,46
+NLANBGKA_01323,CRISPR-associated endonuclease Cas9,1388
+NLANBGKA_01324,CRISPR-associated endonuclease Cas1,273
+NLANBGKA_01325,CRISPR-associated endoribonuclease Cas2,109
+NLANBGKA_01326,CRISPR-associated protein Csn2,219
+NLANBGKA_01327,hypothetical protein,162
+NLANBGKA_01328,hypothetical protein,79
+NLANBGKA_01329,hypothetical protein,296
+NLANBGKA_01330,hypothetical protein,80
+NLANBGKA_01331,hypothetical protein,78
+NLANBGKA_01332,Acyl-coenzyme A thioesterase PaaI,127
+NLANBGKA_01333,hypothetical protein,147
+NLANBGKA_01334,hypothetical protein,77
+NLANBGKA_01335,Ribosomal large subunit pseudouridine synthase B,243
+NLANBGKA_01336,hypothetical protein,42
+NLANBGKA_01337,GTPase Obg,437
+NLANBGKA_01338,hypothetical protein,65
+NLANBGKA_01339,Arginine transport ATP-binding protein ArtM,246
+NLANBGKA_01340,Glutamine transport system permease protein GlnP,736
+NLANBGKA_01341,hypothetical protein,93
+NLANBGKA_01342,hypothetical protein,113
+NLANBGKA_01343,hypothetical protein,155
+NLANBGKA_01344,UvrABC system protein B,663
+NLANBGKA_01345,8-oxo-dGTP diphosphatase,154
+NLANBGKA_01346,Arginine-binding extracellular protein ArtP,276
+NLANBGKA_01347,Arginine-binding extracellular protein ArtP,265
+NLANBGKA_01348,Capreomycidine synthase,369
+NLANBGKA_01349,Arginine-binding extracellular protein ArtP,264
+NLANBGKA_01350,30S ribosomal protein S21,58
+NLANBGKA_01351,DNA primase,603
+NLANBGKA_01352,RNA polymerase sigma factor SigA,369
+NLANBGKA_01353,Iron-sulfur cluster carrier protein,111
+NLANBGKA_01354,Putative glycosyltransferase CsbB,308
+NLANBGKA_01355,hypothetical protein,435
+NLANBGKA_01356,dTDP-4-dehydrorhamnose reductase,283
+NLANBGKA_01357,hypothetical protein,419
+NLANBGKA_01358,putative glycosyltransferase EpsJ,327
+NLANBGKA_01359,putative glycosyltransferase EpsJ,322
+NLANBGKA_01360,Undecaprenyl-phosphate mannosyltransferase,238
+NLANBGKA_01361,hypothetical protein,118
+NLANBGKA_01362,Putative glycosyltransferase EpsH,258
+NLANBGKA_01363,hypothetical protein,382
+NLANBGKA_01364,Putative glycosyltransferase EpsE,313
+NLANBGKA_01365,Teichoic acid translocation permease protein TagG,268
+NLANBGKA_01366,Teichoic acids export ATP-binding protein TagH,400
+NLANBGKA_01367,Glycosyltransferase Gtf1,566
+NLANBGKA_01368,hypothetical protein,581
+NLANBGKA_01369,hypothetical protein,492
+NLANBGKA_01370,hypothetical protein,228
+NLANBGKA_01371,Putative glutamine amidotransferase,231
+NLANBGKA_01372,Redox-sensing transcriptional repressor Rex,222
+NLANBGKA_01373,hypothetical protein,115
+NLANBGKA_01374,Cysteine desulfurase IscS,370
+NLANBGKA_01375,Ribose-phosphate pyrophosphokinase 2,323
+NLANBGKA_01376,Putative triphosphatase YjbK,191
+NLANBGKA_01377,GTP pyrophosphokinase YjbM,224
+NLANBGKA_01378,NAD kinase,278
+NLANBGKA_01379,Ribosomal large subunit pseudouridine synthase D,298
+NLANBGKA_01380,Phosphate acetyltransferase,327
+NLANBGKA_01381,hypothetical protein,45
+NLANBGKA_01385,Cell shape-determining protein MreC,276
+NLANBGKA_01386,hypothetical protein,174
+NLANBGKA_01387,Secreted 45 kDa protein,493
+NLANBGKA_01388,Ribose-phosphate pyrophosphokinase,321
+NLANBGKA_01389,Putative N-acetyl-LL-diaminopimelate aminotransferase,391
+NLANBGKA_01390,DNA repair protein RecO,257
+NLANBGKA_01391,Phosphate acyltransferase,334
+NLANBGKA_01392,Acyl carrier protein,81
+NLANBGKA_01393,Phosphoribosylaminoimidazole-succinocarboxamide synthase,235
+NLANBGKA_01394,Phosphoribosylformylglycinamidine synthase,1241
+NLANBGKA_01395,Amidophosphoribosyltransferase,479
+NLANBGKA_01396,Phosphoribosylformylglycinamidine cyclo-ligase,339
+NLANBGKA_01397,Phosphoribosylglycinamide formyltransferase,184
+NLANBGKA_01398,Bifunctional purine biosynthesis protein PurH,515
+NLANBGKA_01399,hypothetical protein,172
+NLANBGKA_01400,hypothetical protein,228
+NLANBGKA_01401,Signal transduction histidine-protein kinase ArlS,171
+NLANBGKA_01402,hypothetical protein,107
+NLANBGKA_01403,hypothetical protein,99
+NLANBGKA_01404,Response regulator ArlR,224
+NLANBGKA_01405,Formate--tetrahydrofolate ligase 1,556
+NLANBGKA_01406,Coenzyme A biosynthesis bifunctional protein CoaBC,227
+NLANBGKA_01407,Coenzyme A biosynthesis bifunctional protein CoaBC,181
+NLANBGKA_01408,Pantothenic acid transporter PanT,190
+NLANBGKA_01409,Phosphoglucomutase,572
+NLANBGKA_01410,"5,10-methylenetetrahydrofolate reductase",291
+NLANBGKA_01411,5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase,749
+NLANBGKA_01412,hypothetical protein,111
+NLANBGKA_01413,Aminodeoxychorismate synthase component 1,572
+NLANBGKA_01414,Calcium-transporting ATPase,878
+NLANBGKA_01415,hypothetical protein,56
+NLANBGKA_01416,Oligopeptide-binding protein AmiA,657
+NLANBGKA_01417,Oligopeptide transport ATP-binding protein OppF,56
+NLANBGKA_01418,Oligopeptide transport ATP-binding protein OppF,101
+NLANBGKA_01419,putative metal-dependent hydrolase YjjV,83
+NLANBGKA_01420,putative MFS-type transporter YhjX,401
+NLANBGKA_01421,hypothetical protein,202
+NLANBGKA_01422,hypothetical protein,64
+NLANBGKA_01423,hypothetical protein,36
+NLANBGKA_01424,hypothetical protein,116
+NLANBGKA_01425,hypothetical protein,36
+NLANBGKA_01426,GTPase Der,436
+NLANBGKA_01427,Primosomal protein DnaI,300
+NLANBGKA_01428,hypothetical protein,391
+NLANBGKA_01429,Transcriptional repressor NrdR,159
+NLANBGKA_01430,Signal transduction histidine-protein kinase ArlS,505
+NLANBGKA_01431,Response regulator ArlR,229
+NLANBGKA_01432,hypothetical protein,178
+NLANBGKA_01433,Ribosomal RNA small subunit methyltransferase G,237
+NLANBGKA_01434,Ktr system potassium uptake protein B,454
+NLANBGKA_01435,Ktr system potassium uptake protein A,223
+NLANBGKA_01436,putative L-ascorbate-6-phosphate lactonase UlaG,87
+NLANBGKA_01437,Transketolase,658
+NLANBGKA_01438,Energy-coupling factor transporter transmembrane protein EcfT,276
+NLANBGKA_01439,Putative HMP/thiamine import ATP-binding protein YkoD,558
+NLANBGKA_01440,hypothetical protein,181
+NLANBGKA_01441,Adenosyl-chloride synthase,282
+NLANBGKA_01442,Serine/threonine transporter SstT,402
+NLANBGKA_01443,Methionine import system permease protein MetP,230
+NLANBGKA_01444,Methionine import ATP-binding protein MetN,355
+NLANBGKA_01445,N-acetyl-lysine deacetylase,123
+NLANBGKA_01446,hypothetical protein,121
+NLANBGKA_01447,Acetylornithine deacetylase,160
+NLANBGKA_01448,putative D-methionine-binding lipoprotein MetQ,300
+NLANBGKA_01449,putative amino-acid-binding protein YxeM,282
+NLANBGKA_01450,hypothetical protein,402
+NLANBGKA_01451,Adenosylhomocysteinase,548
+NLANBGKA_01452,Linear gramicidin synthase subunit B,963
+NLANBGKA_01453,putative amino-acid-binding protein YxeM,218
+NLANBGKA_01454,hypothetical protein,62
+NLANBGKA_01455,Nickel import ATP-binding protein NikO,237
+NLANBGKA_01456,Energy-coupling factor transporter transmembrane protein EcfT,259
+NLANBGKA_01457,Fused nickel transport protein NikMN,325
+NLANBGKA_01458,Urease accessory protein UreD,279
+NLANBGKA_01459,Urease accessory protein UreG,204
+NLANBGKA_01460,Urease accessory protein UreF,237
+NLANBGKA_01461,Urease accessory protein UreE,150
+NLANBGKA_01462,Urease subunit alpha,572
+NLANBGKA_01463,Urease subunit beta,103
+NLANBGKA_01464,Urease subunit gamma,100
+NLANBGKA_01465,Acid-activated urea channel,171
+NLANBGKA_01466,hypothetical protein,122
+NLANBGKA_01467,hypothetical protein,62
+NLANBGKA_01468,Lipid A export ATP-binding/permease protein MsbA,139
+NLANBGKA_01469,hypothetical protein,64
+NLANBGKA_01470,hypothetical protein,62
+NLANBGKA_01471,Lactococcin-G-processing and transport ATP-binding protein LagD,131
+NLANBGKA_01472,hypothetical protein,79
+NLANBGKA_01473,Lactococcin-G-processing and transport ATP-binding protein LagD,74
+NLANBGKA_01474,hypothetical protein,299
+NLANBGKA_01475,Undecaprenyl-diphosphatase BcrC,216
+NLANBGKA_01476,Riboflavin transporter RibU,185
+NLANBGKA_01477,tRNA (cytidine(34)-2'-O)-methyltransferase,169
+NLANBGKA_01478,Trk system potassium uptake protein TrkA,449
+NLANBGKA_01479,Trk system potassium uptake protein TrkG,479
+NLANBGKA_01480,Putative membrane protein insertion efficiency factor,83
+NLANBGKA_01481,Ribosomal large subunit pseudouridine synthase B,255
+NLANBGKA_01482,Segregation and condensation protein B,193
+NLANBGKA_01483,Segregation and condensation protein A,237
+NLANBGKA_01484,Tyrosine recombinase XerD-like protein,257
+NLANBGKA_01485,CBS domain-containing protein YkuL,160
+NLANBGKA_01486,Phosphodiesterase YfcE,173
+NLANBGKA_01487,dITP/XTP pyrophosphatase,324
+NLANBGKA_01488,Glutamate racemase,271
+NLANBGKA_01489,hypothetical protein,81
+NLANBGKA_01490,hypothetical protein,179
+NLANBGKA_01491,Diaminopimelate decarboxylase,417
+NLANBGKA_01492,hypothetical protein,133
+NLANBGKA_01493,hypothetical protein,71
+NLANBGKA_01494,Inner membrane protein YbhL,229
+NLANBGKA_01495,hypothetical protein,164
+NLANBGKA_01496,Putative TrmH family tRNA/rRNA methyltransferase,245
+NLANBGKA_01497,Acylphosphatase,92
+NLANBGKA_01498,Membrane protein insertase YidC,305
+NLANBGKA_01499,hypothetical protein,113
+NLANBGKA_01500,Transcription elongation factor GreA,160
+NLANBGKA_01501,Endolytic murein transglycosylase,658
+NLANBGKA_01502,hypothetical protein,93
+NLANBGKA_01503,hypothetical protein,55
+NLANBGKA_01504,UDP-N-acetylmuramate--L-alanine ligase,442
+NLANBGKA_01505,hypothetical protein,238
+NLANBGKA_01506,RNA polymerase-associated protein RapA,1031
+NLANBGKA_01507,Mid-cell-anchored protein Z,620
+NLANBGKA_01508,Ribosomal RNA large subunit methyltransferase L,388
+NLANBGKA_01509,Cell cycle protein GpsB,110
+NLANBGKA_01510,hypothetical protein,171
+NLANBGKA_01511,Holliday junction resolvase RecU,198
+NLANBGKA_01512,Penicillin-binding protein 1A,772
+NLANBGKA_01513,Aminopeptidase C,445
+NLANBGKA_01514,Inner membrane protein YhaH,146
+NLANBGKA_01515,NH(3)-dependent NAD(+) synthetase,273
+NLANBGKA_01516,Nicotinate phosphoribosyltransferase pncB2,484
+NLANBGKA_01517,hypothetical protein,122
+NLANBGKA_01518,hypothetical protein,142
+NLANBGKA_01519,hypothetical protein,70
+NLANBGKA_01520,hypothetical protein,103
+NLANBGKA_01521,Leucine--tRNA ligase,833
+NLANBGKA_01522,Glycerol-3-phosphate regulon repressor,102
+NLANBGKA_01523,HTH-type transcriptional repressor GlcR,152
+NLANBGKA_01524,Putative phosphatase,78
+NLANBGKA_01525,Putative phosphatase,113
+NLANBGKA_01526,Undecaprenyl-diphosphatase BcrC,162
+NLANBGKA_01527,Transcription termination/antitermination protein NusG,179
+NLANBGKA_01528,hypothetical protein,58
+NLANBGKA_01529,Penicillin-binding protein 1F,775
+NLANBGKA_01530,Ribosomal large subunit pseudouridine synthase C,290
+NLANBGKA_01531,hypothetical protein,110
+NLANBGKA_01532,hypothetical protein,101
+NLANBGKA_01533,hypothetical protein,33
+NLANBGKA_01534,hypothetical protein,102
+NLANBGKA_01535,hypothetical protein,72
+NLANBGKA_01536,hypothetical protein,247
+NLANBGKA_01537,hypothetical protein,240
+NLANBGKA_01538,hypothetical protein,70
+NLANBGKA_01539,hypothetical protein,179
+NLANBGKA_01540,"Cadmium, cobalt and zinc/H(+)-K(+) antiporter",298
+NLANBGKA_01541,Ferrochelatase,364
+NLANBGKA_01542,Alcohol dehydrogenase,345
+NLANBGKA_01543,hypothetical protein,32
+NLANBGKA_01544,hypothetical protein,47
+NLANBGKA_01545,hypothetical protein,147
+NLANBGKA_01546,hypothetical protein,84
+NLANBGKA_01547,hypothetical protein,107
+NLANBGKA_01548,Purine nucleoside phosphorylase DeoD-type,254
+NLANBGKA_01549,5'-nucleotidase,211
+NLANBGKA_01550,putative ABC transporter solute-binding protein YclQ,83
+NLANBGKA_01551,hypothetical protein,91
+NLANBGKA_01552,hypothetical protein,54
+NLANBGKA_01553,hypothetical protein,552
+NLANBGKA_01554,hypothetical protein,326
+NLANBGKA_01555,hypothetical protein,161
+NLANBGKA_01556,hypothetical protein,63
+NLANBGKA_01557,hypothetical protein,72
+NLANBGKA_01558,hypothetical protein,246
+NLANBGKA_01559,Putative cysteine protease YraA,182
+NLANBGKA_01560,"Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit",267
+NLANBGKA_01561,"Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit",315
+NLANBGKA_01562,CRISPR-associated endonuclease Cas1,334
+NLANBGKA_01563,CRISPR-associated endoribonuclease Cas2,109
+NLANBGKA_01564,CRISPR-associated endoribonuclease Cas6,243
+NLANBGKA_01565,CRISPR-associated protein Cas10/Csm1,756
+NLANBGKA_01566,CRISPR type III-associated protein Csm2,126
+NLANBGKA_01567,CRISPR type III-associated RAMP protein Csm3,220
+NLANBGKA_01568,CRISPR type III-associated RAMP protein Csm4,299
+NLANBGKA_01569,hypothetical protein,357
+NLANBGKA_01570,hypothetical protein,31
+NLANBGKA_01571,hypothetical protein,263
+NLANBGKA_01572,Orotidine 5'-phosphate decarboxylase,231
+NLANBGKA_01573,Orotate phosphoribosyltransferase,209
+NLANBGKA_01574,6-aminohexanoate-cyclic-dimer hydrolase,151
+NLANBGKA_01575,hypothetical protein,41
+NLANBGKA_01576,Di-/tripeptide transporter,483
+NLANBGKA_01577,6-aminohexanoate-cyclic-dimer hydrolase,214
+NLANBGKA_01578,putative ABC transporter extracellular-binding protein YckB,223
+NLANBGKA_01579,L-cystine transport system permease protein YecS,190
+NLANBGKA_01580,hypothetical protein,76
+NLANBGKA_01581,Trifunctional nucleotide phosphoesterase protein YfkN,213
+NLANBGKA_01582,hypothetical protein,95
+NLANBGKA_01583,Right origin-binding protein,196
+NLANBGKA_01584,Glyceraldehyde-3-phosphate dehydrogenase,336
+NLANBGKA_01585,Elongation factor G,693
+NLANBGKA_01586,30S ribosomal protein S7,156
+NLANBGKA_01587,30S ribosomal protein S12,137
+NLANBGKA_01588,Pur operon repressor,274
+NLANBGKA_01589,3'-5' exoribonuclease YhaM,313
+NLANBGKA_01590,hypothetical protein,424
+NLANBGKA_01591,Thiamine pyrophosphokinase,210
+NLANBGKA_01592,Ribulose-phosphate 3-epimerase,219
+NLANBGKA_01593,Small ribosomal subunit biogenesis GTPase RsgA,290
+NLANBGKA_01595,Ribosomal RNA small subunit methyltransferase A,290
+NLANBGKA_01596,Ribonuclease M5,186
+NLANBGKA_01597,D-aminoacyl-tRNA deacylase,258
+NLANBGKA_01598,hypothetical protein,143
+NLANBGKA_01599,Thioredoxin,104
+NLANBGKA_01600,Protein-ADP-ribose hydrolase,260
+NLANBGKA_01601,hypothetical protein,35
+NLANBGKA_01602,hypothetical protein,111
+NLANBGKA_01603,hypothetical protein,167
+NLANBGKA_01604,Oligopeptide-binding protein AmiA,268
+NLANBGKA_01605,Oligopeptide-binding protein AmiA,305
+NLANBGKA_01606,hypothetical protein,116
+NLANBGKA_01607,hypothetical protein,68
+NLANBGKA_01608,Spermidine/putrescine-binding periplasmic protein,356
+NLANBGKA_01609,H(+)/Cl(-) exchange transporter ClcA,512
+NLANBGKA_01610,C5a peptidase,1617
+NLANBGKA_01611,hypothetical protein,64
+NLANBGKA_01612,hypothetical protein,177
+NLANBGKA_01613,hypothetical protein,299
+NLANBGKA_01614,ATP-dependent zinc metalloprotease FtsH,655
+NLANBGKA_01615,Hypoxanthine-guanine phosphoribosyltransferase,180
+NLANBGKA_01616,tRNA(Ile)-lysidine synthase,421
+NLANBGKA_01617,hypothetical protein,430
+NLANBGKA_01618,hypothetical protein,43
+NLANBGKA_01619,hypothetical protein,123
+NLANBGKA_01620,hypothetical protein,91
+NLANBGKA_01621,Transcription-repair-coupling factor,1168
+NLANBGKA_01622,Peptidyl-tRNA hydrolase,189
+NLANBGKA_01623,Ribosome-binding ATPase YchF,371
+NLANBGKA_01624,hypothetical protein,63
+NLANBGKA_01625,DNA polymerase III subunit beta,378
+NLANBGKA_01626,Chromosomal replication initiator protein DnaA,454
+NLANBGKA_01627,putative chromosome-partitioning protein ParB,255
+NLANBGKA_01628,Serine protease Do-like HtrA,411
+NLANBGKA_01629,Ribosomal RNA large subunit methyltransferase H,165
+NLANBGKA_01630,hypothetical protein,227
+NLANBGKA_01634,hypothetical protein,868
+NLANBGKA_01635,putative ABC transporter ATP-binding protein YbiT,540
+NLANBGKA_01636,hypothetical protein,290
+NLANBGKA_01637,Tryptophan--tRNA ligase 2,340
+NLANBGKA_01638,Inosine-5'-monophosphate dehydrogenase,493
+NLANBGKA_01639,DNA replication and repair protein RecF,366
+NLANBGKA_01640,hypothetical protein,125
+NLANBGKA_01641,putative zinc protease,416
+NLANBGKA_01642,Putative zinc protease AlbF,425
+NLANBGKA_01643,hypothetical protein,285
+NLANBGKA_01644,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,180
+NLANBGKA_01645,Energy-coupling factor transporter ATP-binding protein EcfA1,276
+NLANBGKA_01646,Energy-coupling factor transporter ATP-binding protein EcfA2,280
+NLANBGKA_01647,Energy-coupling factor transporter transmembrane protein EcfT,264
+NLANBGKA_01648,N-acetylmuramoyl-L-alanine amidase XlyA,184
+NLANBGKA_01649,putative transglycosylase IsaA,209
+NLANBGKA_01650,hypothetical protein,571
+NLANBGKA_01651,tRNA-specific 2-thiouridylase MnmA,373
+NLANBGKA_01652,hypothetical protein,151
+NLANBGKA_01653,tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,633
+NLANBGKA_01654,Cyclic-di-AMP phosphodiesterase GdpP,654
+NLANBGKA_01655,50S ribosomal protein L9,152
+NLANBGKA_01656,Replicative DNA helicase,453
+NLANBGKA_01657,hypothetical protein,100
+NLANBGKA_01658,30S ribosomal protein S4,203
+NLANBGKA_01659,hypothetical protein,62
+NLANBGKA_01660,hypothetical protein,40
+NLANBGKA_01661,hypothetical protein,179
+NLANBGKA_01662,ESAT-6 secretion accessory factor EsaA,789
+NLANBGKA_01663,hypothetical protein,251
+NLANBGKA_01664,hypothetical protein,112
+NLANBGKA_01665,hypothetical protein,30
+NLANBGKA_01666,hypothetical protein,53
+NLANBGKA_01667,hypothetical protein,50
+NLANBGKA_01668,hypothetical protein,51
+NLANBGKA_01669,hypothetical protein,67
+NLANBGKA_01670,Stress response regulator gls24,185
+NLANBGKA_01671,hypothetical protein,56
+NLANBGKA_01672,hypothetical protein,188
+NLANBGKA_01673,hypothetical protein,79
+NLANBGKA_01674,hypothetical protein,123
+NLANBGKA_01675,hypothetical protein,200
+NLANBGKA_01676,Putative lipid kinase,55
+NLANBGKA_01677,hypothetical protein,184
+NLANBGKA_01678,50S ribosomal protein L33 1,49
+NLANBGKA_01679,50S ribosomal protein L32,60
+NLANBGKA_01680,hypothetical protein,75
+NLANBGKA_01681,hypothetical protein,122
+NLANBGKA_01682,hypothetical protein,105
+NLANBGKA_01683,Histidine--tRNA ligase,426
+NLANBGKA_01684,hypothetical protein,140
+NLANBGKA_01685,Aspartate--tRNA ligase,583
+NLANBGKA_01686,hypothetical protein,313
+NLANBGKA_01687,hypothetical protein,267
+NLANBGKA_01688,Anaerobic ribonucleoside-triphosphate reductase-activating protein,201
+NLANBGKA_01689,hypothetical protein,166
+NLANBGKA_01690,hypothetical protein,43
+NLANBGKA_01691,Anaerobic ribonucleoside-triphosphate reductase,734
+NLANBGKA_01692,hypothetical protein,548
+NLANBGKA_01693,hypothetical protein,101
+NLANBGKA_01694,Putative pre-16S rRNA nuclease,139
+NLANBGKA_01695,hypothetical protein,88
+NLANBGKA_01696,50S ribosomal protein L28,62
+NLANBGKA_01697,putative AAA domain-containing protein,422
+NLANBGKA_01699,Transposase from transposon Tn916,379
+NLANBGKA_01700,hypothetical protein,62
+NLANBGKA_01701,hypothetical protein,205
+NLANBGKA_01702,hypothetical protein,118
+NLANBGKA_01703,hypothetical protein,170
+NLANBGKA_01704,Putative 2-aminoethylphosphonate import ATP-binding protein PhnT,513
+NLANBGKA_01705,hypothetical protein,331
+NLANBGKA_01706,hypothetical protein,44
+NLANBGKA_01707,hypothetical protein,35
+NLANBGKA_01708,hypothetical protein,232
+NLANBGKA_01709,hypothetical protein,171
+NLANBGKA_01710,Adenylosuccinate synthetase,430
+NLANBGKA_01711,Low molecular weight protein-tyrosine-phosphatase PtpA,144
+NLANBGKA_01712,hypothetical protein,136
+NLANBGKA_01713,O-acetyltransferase OatA,607
+NLANBGKA_01714,Holliday junction ATP-dependent DNA helicase RuvB,333
+NLANBGKA_01715,30S ribosomal protein S10,102
+NLANBGKA_01716,50S ribosomal protein L3,208
+NLANBGKA_01717,50S ribosomal protein L4,207
+NLANBGKA_01718,50S ribosomal protein L23,98
+NLANBGKA_01719,50S ribosomal protein L2,277
+NLANBGKA_01720,30S ribosomal protein S19,92
+NLANBGKA_01721,50S ribosomal protein L22,114
+NLANBGKA_01722,30S ribosomal protein S3,217
+NLANBGKA_01723,50S ribosomal protein L16,137
+NLANBGKA_01724,50S ribosomal protein L29,68
+NLANBGKA_01725,30S ribosomal protein S17,86
+NLANBGKA_01726,50S ribosomal protein L14,122
+NLANBGKA_01727,50S ribosomal protein L24,101
+NLANBGKA_01728,50S ribosomal protein L5,180
+NLANBGKA_01729,30S ribosomal protein S14 type Z,61
+NLANBGKA_01730,30S ribosomal protein S8,132
+NLANBGKA_01731,50S ribosomal protein L6,178
+NLANBGKA_01732,50S ribosomal protein L18,118
+NLANBGKA_01733,30S ribosomal protein S5,164
+NLANBGKA_01734,50S ribosomal protein L30,60
+NLANBGKA_01735,50S ribosomal protein L15,146
+NLANBGKA_01736,Protein translocase subunit SecY,431
+NLANBGKA_01737,Adenylate kinase,218
+NLANBGKA_01738,Translation initiation factor IF-1,72
+NLANBGKA_01739,50S ribosomal protein L36,38
+NLANBGKA_01740,30S ribosomal protein S13,121
+NLANBGKA_01741,30S ribosomal protein S11,127
+NLANBGKA_01742,DNA-directed RNA polymerase subunit alpha,312
+NLANBGKA_01743,50S ribosomal protein L17,128
+NLANBGKA_01744,hypothetical protein,224
+NLANBGKA_01745,hypothetical protein,41
+NLANBGKA_01746,hypothetical protein,152
+NLANBGKA_01747,hypothetical protein,117
+NLANBGKA_01748,hypothetical protein,63
+NLANBGKA_01749,Serine--tRNA ligase,425
+NLANBGKA_01750,hypothetical protein,124
+NLANBGKA_01751,PTS system mannose-specific EIID component,303
+NLANBGKA_01752,PTS system mannose-specific EIIC component,275
+NLANBGKA_01753,PTS system mannose-specific EIIAB component,330
+NLANBGKA_01754,Kynurenine formamidase,243
+NLANBGKA_01755,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU,270
+NLANBGKA_01756,Adenine permease AdeQ,473
+NLANBGKA_01757,tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,147
+NLANBGKA_01758,Mycothiol acetyltransferase,173
+NLANBGKA_01759,Biofilm regulatory protein A,408
+NLANBGKA_01760,Ribosome maturation factor RimP,157
+NLANBGKA_01761,Transcription termination/antitermination protein NusA,391
+NLANBGKA_01762,hypothetical protein,98
+NLANBGKA_01763,putative ribosomal protein YlxQ,91
+NLANBGKA_01764,Translation initiation factor IF-2,943
+NLANBGKA_01765,Ribosome-binding factor A,117
+NLANBGKA_01766,LOG family protein YvdD,57
+NLANBGKA_01767,LOG family protein YvdD,89
+NLANBGKA_01768,Aminoacyltransferase FemB,419
+NLANBGKA_01769,UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--L-lysine ligase,481
+NLANBGKA_01770,Lipid II flippase MurJ,524
+NLANBGKA_01771,putative cation-transporting ATPase F,203
+NLANBGKA_01772,Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase,364
+NLANBGKA_01773,Cystathionine beta-lyase PatB,387
+NLANBGKA_01774,hypothetical protein,55
+NLANBGKA_01775,hypothetical protein,91
+NLANBGKA_01776,Uracil phosphoribosyltransferase,209
+NLANBGKA_01777,ATP-dependent Clp protease proteolytic subunit,196
+NLANBGKA_01778,hypothetical protein,149
+NLANBGKA_01779,hypothetical protein,93
+NLANBGKA_01780,Leu/Ile/Val-binding protein,391
+NLANBGKA_01781,High-affinity branched-chain amino acid transport system permease protein LivH,294
+NLANBGKA_01782,hypothetical protein,316
+NLANBGKA_01783,Lipopolysaccharide export system ATP-binding protein LptB,254
+NLANBGKA_01784,High-affinity branched-chain amino acid transport ATP-binding protein LivF,236
+NLANBGKA_01785,Inosine-5'-monophosphate dehydrogenase,139
+NLANBGKA_01786,hypothetical protein,92
+NLANBGKA_01787,Cysteine synthase,308
+NLANBGKA_01788,IMPACT family member YigZ,208
+NLANBGKA_01789,ComF operon protein 1,439
+NLANBGKA_01790,hypothetical protein,220
+NLANBGKA_01791,Ribosome hibernation promotion factor,182
+NLANBGKA_01792,Regulatory protein Spx,132
+NLANBGKA_01793,Protein RecA,379
+NLANBGKA_01794,Putative competence-damage inducible protein,423
+NLANBGKA_01795,DNA-3-methyladenine glycosylase 1,184
+NLANBGKA_01796,Holliday junction ATP-dependent DNA helicase RuvA,196
+NLANBGKA_01797,hypothetical protein,73
+NLANBGKA_01798,DNA mismatch repair protein MutL,647
+NLANBGKA_01799,hypothetical protein,101
+NLANBGKA_01800,putative HTH-type transcriptional regulator,124
+NLANBGKA_01801,hypothetical protein,80
+NLANBGKA_01802,DNA mismatch repair protein MutS,852
+NLANBGKA_01803,hypothetical protein,119
+NLANBGKA_01804,Arginine repressor,141
+NLANBGKA_01805,Arginine--tRNA ligase,563
+NLANBGKA_01806,Adenylosuccinate lyase,432
+NLANBGKA_01807,hypothetical protein,251
+NLANBGKA_01808,N5-carboxyaminoimidazole ribonucleotide synthase,363
+NLANBGKA_01809,N5-carboxyaminoimidazole ribonucleotide mutase,154
+NLANBGKA_01810,Phosphoribosylamine--glycine ligase,420
+NLANBGKA_01811,hypothetical protein,279
+NLANBGKA_01812,hypothetical protein,72
+NLANBGKA_01813,hypothetical protein,83
+NLANBGKA_01814,Asparagine--tRNA ligase,448
+NLANBGKA_01815,Aspartate aminotransferase,393
+NLANBGKA_01816,hypothetical protein,160
+NLANBGKA_01817,putative ATP-dependent helicase DinG,828
+NLANBGKA_01818,putative metallo-hydrolase,211
+NLANBGKA_01819,hypothetical protein,318
+NLANBGKA_01820,Galactoside transport system permease protein MglC,355
+NLANBGKA_01821,Galactose/methyl galactoside import ATP-binding protein MglA,512
+NLANBGKA_01822,Membrane lipoprotein TmpC,356
+NLANBGKA_01823,Cytidine deaminase,132
+NLANBGKA_01824,Deoxyribose-phosphate aldolase,131
+NLANBGKA_01825,Deoxyribose-phosphate aldolase,70
+NLANBGKA_01826,Pyrimidine-nucleoside phosphorylase,266
+NLANBGKA_01827,Pyrimidine-nucleoside phosphorylase,136
+NLANBGKA_01828,Ribosomal RNA small subunit methyltransferase C,196
+NLANBGKA_01829,Pantothenate kinase,306
+NLANBGKA_01830,30S ribosomal protein S20,78
+NLANBGKA_01831,hypothetical protein,191
+NLANBGKA_01832,5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI,190
+NLANBGKA_01833,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",171
+NLANBGKA_01834,hypothetical protein,378
+NLANBGKA_01835,Aryl-phospho-beta-D-glucosidase BglH,49
+NLANBGKA_01836,Aryl-phospho-beta-D-glucosidase BglH,225
+NLANBGKA_01837,hypothetical protein,92
+NLANBGKA_01838,putative protein kinase UbiB,525
+NLANBGKA_01839,N-acylneuraminate cytidylyltransferase,206
+NLANBGKA_01840,hypothetical protein,283
+NLANBGKA_01841,hypothetical protein,159
+NLANBGKA_01842,D-alanyl-D-alanine carboxypeptidase DacA,76
+NLANBGKA_01843,hypothetical protein,62
+NLANBGKA_01844,hypothetical protein,58
+NLANBGKA_01845,Ferrous-iron efflux pump FieF,398
+NLANBGKA_01846,Uracil-DNA glycosylase,217
+NLANBGKA_01847,Dihydroorotase,422
+NLANBGKA_01848,hypothetical protein,147
+NLANBGKA_01849,hypothetical protein,111
+NLANBGKA_01850,"Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha",323
+NLANBGKA_01851,2-oxoisovalerate dehydrogenase subunit beta,332
+NLANBGKA_01852,Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,456
+NLANBGKA_01853,Dihydrolipoyl dehydrogenase,578
+NLANBGKA_01854,hypothetical protein,104
+NLANBGKA_01855,hypothetical protein,159
+NLANBGKA_01856,hypothetical protein,519
+NLANBGKA_01857,hypothetical protein,85
+NLANBGKA_01858,Pullulanase,269
+NLANBGKA_01859,Pullulanase,137
+NLANBGKA_01860,Pullulanase,121
+NLANBGKA_01861,Pullulanase,170
+NLANBGKA_01862,hypothetical protein,101
+NLANBGKA_01863,putative iron uptake system component EfeM,292
+NLANBGKA_01864,putative deferrochelatase/peroxidase EfeN,401
+NLANBGKA_01865,Ferrous iron permease EfeU,561
+NLANBGKA_01866,Sec-independent protein translocase protein TatCd,235
+NLANBGKA_01867,Sec-independent protein translocase protein TatAd,62
+NLANBGKA_01868,hypothetical protein,73
+NLANBGKA_01869,4-alpha-glucanotransferase,502
+NLANBGKA_01870,Glycogen phosphorylase,754
+NLANBGKA_01871,hypothetical protein,146
+NLANBGKA_01872,hypothetical protein,222
+NLANBGKA_01873,Lipoate-protein ligase LplJ,329
+NLANBGKA_01874,Tyrosine recombinase XerS,356
+NLANBGKA_01875,Aminopeptidase N,846
+NLANBGKA_01876,Phosphate-specific transport system accessory protein PhoU,218
+NLANBGKA_01877,Phosphate import ATP-binding protein PstB 3,252
+NLANBGKA_01878,Phosphate import ATP-binding protein PstB 3,267
+NLANBGKA_01879,Phosphate transport system permease protein PstA,294
+NLANBGKA_01880,Phosphate transport system permease protein PstC,304
+NLANBGKA_01881,Phosphate-binding protein PstS 1,291
+NLANBGKA_01882,Ribosomal RNA small subunit methyltransferase F,436
+NLANBGKA_01883,"Fructose-1,6-bisphosphatase/inositol-1-monophosphatase",255
+NLANBGKA_01884,hypothetical protein,93
+NLANBGKA_01885,Regulatory protein Spx,137
+NLANBGKA_01886,Riboflavin biosynthesis protein RibF,306
+NLANBGKA_01887,tRNA pseudouridine synthase B,280
+NLANBGKA_01888,hypothetical protein,101
+NLANBGKA_01889,hypothetical protein,178
+NLANBGKA_01890,hypothetical protein,77
+NLANBGKA_01891,hypothetical protein,206
+NLANBGKA_01892,putative thiol peroxidase,164
+NLANBGKA_01893,hypothetical protein,122
+NLANBGKA_01894,hypothetical protein,77
+NLANBGKA_01895,L-methionine gamma-lyase,426
+NLANBGKA_01896,ATP-dependent DNA helicase PcrA,769
+NLANBGKA_01897,Amino-acid carrier protein AlsT,447
+NLANBGKA_01898,tRNA modification GTPase MnmE,456
+NLANBGKA_01899,Serine acetyltransferase,193
+NLANBGKA_01900,Cystathionine gamma-synthase,394
+NLANBGKA_01901,Cysteine synthase,303
+NLANBGKA_01902,Type-1 restriction enzyme R protein,341
+NLANBGKA_01903,hypothetical protein,60
+NLANBGKA_01904,hypothetical protein,442
+NLANBGKA_01905,Putative hemin import ATP-binding protein HrtA,224
+NLANBGKA_01906,putative ABC transporter permease,348
+NLANBGKA_01907,hypothetical protein,74
+NLANBGKA_01908,hypothetical protein,167
+NLANBGKA_01909,hypothetical protein,68
+NLANBGKA_01910,hypothetical protein,122

@@ -1,0 +1,2319 @@
+OG4650	K01208	cd; cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase [EC:3.2.1.54 3.2.1.133 3.2.1.135]	13	K01226	1
+OG4651					
+OG4652					
+OG4653					
+OG4654			3	K21417	1
+OG4655			35		
+OG4656					
+OG4657			25	K06199	1
+OG4658			45	K00068	7
+OG4659			41	K00662	1
+OG4660			121	K03491	1
+OG4661			23	K16957	1
+OG4662	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	20	K02538	1
+OG4663	K00817	hisC; histidinol-phosphate aminotransferase [EC:2.6.1.9]	84		
+OG4664			3	K20276	
+OG4665	K21449	ata; trimeric autotransporter adhesin	13	K00244	2
+OG4666	K02810	scrA; sucrose PTS system EIIBCA or EIIBC component [EC:2.7.1.211]	30	K02819	14
+OG4667	K02810	scrA; sucrose PTS system EIIBCA or EIIBC component [EC:2.7.1.211]	13	K02803	2
+OG4668	K00020	HIBADH; 3-hydroxyisobutyrate dehydrogenase [EC:1.1.1.31]	37	K00937	1
+OG4669	K00134	GAPDH; glyceraldehyde 3-phosphate dehydrogenase [EC:1.2.1.12]	157		
+OG4670			1	K02746	1
+OG4671					
+OG4672					
+OG4673	K24041	yxeI; penicillin V amidase [EC:3.5.1.11]	23	K01750	1
+OG4674					
+OG4675					
+OG4676					
+OG4677					
+OG4678			260		
+OG4679					
+OG4680					
+OG4681	K21636	nrdD; ribonucleoside-triphosphate reductase (formate) [EC:1.1.98.6]	85	K03529	1
+OG4682			63		
+OG4683			6	K22597	
+OG4684					
+OG4685					
+OG4686			23	K07089	
+OG4687			1	K10778	1
+OG4688					
+OG4689					
+OG4690			45	K14588	1
+OG4691					
+OG4692					
+OG4693			17	K20444	1
+OG4694					
+OG4695	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	125	K01220	24
+OG4696					
+OG4697					
+OG4698	K10804	tesA; acyl-CoA thioesterase I [EC:3.1.2.- 3.1.2.2 3.1.1.2 3.1.1.5]	29		
+OG4699					
+OG4700					
+OG4701	K04096	smf; DNA processing protein	20	K01575	2
+OG4702			2	K01046	1
+OG4703					
+OG4704					
+OG4705					
+OG4706					
+OG4707			23	K01048	1
+OG4708			13	K00459	1
+OG4709			2		
+OG4710					
+OG4711			307	K15655	1
+OG4712			1	K12992	1
+OG4713					
+OG4714			35	K05350	1
+OG4715			32	K09927	1
+OG4716	K04485	radA; DNA repair protein RadA/Sms	88	K20108	1
+OG4717			1		
+OG4718					
+OG4719	K02952	RP-S13; small subunit ribosomal protein S13	15	K02653	1
+OG4720					
+OG4721			17	K22043	1
+OG4722					
+OG4723					
+OG4724			2	K03491	1
+OG4725			24	K09001	
+OG4726			36	K03719	2
+OG4727			3	K16137	1
+OG4728			27	K03656	
+OG4729					
+OG4730					
+OG4731	K20265	gadC; glutamate:GABA antiporter	127	K07301	1
+OG4732			5	K09251	1
+OG4733					
+OG4734					
+OG4735					
+OG4736					
+OG4737			4	K07317	1
+OG4738					
+OG4739	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	25	K00231	1
+OG4740					
+OG4741					
+OG4742					
+OG4743					
+OG4744					
+OG4745	K20345	blpB; membrane fusion protein, peptide pheromone/bacteriocin exporter	19	K20485	1
+OG4746			56		
+OG4747					
+OG4748			6	K01361	
+OG4749			5		
+OG4750					
+OG4751			13	K18704	
+OG4752					
+OG4753			1	K04844	
+OG4754					
+OG4755					
+OG4756					
+OG4757			6	K12264	1
+OG4758			1	K03529	1
+OG4759					
+OG4760					
+OG4761					
+OG4762					
+OG4763			2	K00798	1
+OG4764					
+OG4765					
+OG4766			5	K00558	1
+OG4767					
+OG4768					
+OG4769					
+OG4770	K00852	rbsK; ribokinase [EC:2.7.1.15]	40	K13280	1
+OG4771	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	60		
+OG4772	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	48	K12472	
+OG4773	K00878	thiM; hydroxyethylthiazole kinase [EC:2.7.1.50]	11	K03744	2
+OG4774	K00878	thiM; hydroxyethylthiazole kinase [EC:2.7.1.50]	15	K07149	1
+OG4775					
+OG4776					
+OG4777			29		
+OG4778					
+OG4779					
+OG4780					
+OG4781			11	K02476	
+OG4782			45	K19426	
+OG4783					
+OG4784	K02004	ABC.CD.P; putative ABC transport system permease protein	88	K10547	1
+OG4785			43	K00694	1
+OG4786			11	K01077	1
+OG4787			54	K06400	1
+OG4788			3	K07707	1
+OG4789					
+OG4790	K00793	ribE; riboflavin synthase [EC:2.5.1.9]	43		
+OG4791			1	K08217	1
+OG4792			7		
+OG4793			32	K18908	32
+OG4794					
+OG4795	K06919	putative DNA primase/helicase	41	K02538	1
+OG4796					
+OG4797	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	27	K00018	1
+OG4798					
+OG4799			61	K01042	1
+OG4800			3	K09952	
+OG4801					
+OG4802			1		
+OG4803			6	K19302	1
+OG4804					
+OG4805					
+OG4806					
+OG4807					
+OG4808	K00773	tgt; queuine tRNA-ribosyltransferase [EC:2.4.2.29]	41	K01744	1
+OG4809			16	K20373	1
+OG4810			21	K19426	1
+OG4811					
+OG4812	K08151	tetA; MFS transporter, DHA1 family, tetracycline resistance protein	20	K08168	2
+OG4813	K08151	tetA; MFS transporter, DHA1 family, tetracycline resistance protein	36	K01130	1
+OG4814	K01992	ABC-2.P; ABC-2 type transport system permease protein	67	K03783	1
+OG4815	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	22	K02010	3
+OG4816					
+OG4817			36	K00705	
+OG4818			23	K19425	4
+OG4819					
+OG4820	K12992	rfbN; rhamnosyltransferase [EC:2.4.1.-]	37	K00752	1
+OG4821			7	K03183	1
+OG4822			48	K19424	3
+OG4823	K07271	licD; lipopolysaccharide cholinephosphotransferase [EC:2.7.8.-]	74	K11200	1
+OG4824	K21030	tarI; D-ribitol-5-phosphate cytidylyltransferase [EC:2.7.7.40]	50	K00991	14
+OG4825	K05352	tarJ; ribitol-5-phosphate 2-dehydrogenase (NADP+) [EC:1.1.1.405]	93	K13953	10
+OG4826	K19424	epsF; glycosyltransferase EpsF [EC:2.4.-.-]	15		
+OG4827			20	K19354	3
+OG4828			3		
+OG4829			1	K00537	
+OG4830			7		
+OG4831	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	24	K01599	1
+OG4832					
+OG4833			2		
+OG4834	K01208	cd; cyclomaltodextrinase / maltogenic alpha-amylase / neopullulanase [EC:3.2.1.54 3.2.1.133 3.2.1.135]	13	K01226	1
+OG4835			2		
+OG4836			2		
+OG4837			16	K18704	
+OG4838					
+OG4839			43	K12308	
+OG4840			21	K01712	1
+OG4841	K18908	mepA; multidrug efflux pump	13		
+OG4842	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	14		
+OG4843					
+OG4844			1	K00055	
+OG4845					
+OG4846					
+OG4847					
+OG4848					
+OG4849			1		
+OG4850					
+OG4851					
+OG4852					
+OG4853					
+OG4854					
+OG4855					
+OG4856					
+OG4857					
+OG4858					
+OG4859			30		
+OG4860			10	K06221	1
+OG4861			17	K03828	1
+OG4862			4	K00558	1
+OG4863			8	K00278	1
+OG4864					
+OG4865					
+OG4866					
+OG4867			92		
+OG4868			14	K10530	1
+OG4869					
+OG4870					
+OG4871					
+OG4872			7		
+OG4873					
+OG4874					
+OG4875			1	K20492	1
+OG4876			17	K20444	1
+OG4877			17	K01356	1
+OG4878					
+OG4879					
+OG4880			51		
+OG4881			1		
+OG4882					
+OG4883			2	K21298	
+OG4884					
+OG4885					
+OG4886					
+OG4887					
+OG4888					
+OG4889	K02864	RP-L10; large subunit ribosomal protein L10	23	K10120	1
+OG4890					
+OG4891	K00001	E1.1.1.1; alcohol dehydrogenase [EC:1.1.1.1]	66	K00055	11
+OG4892					
+OG4893					
+OG4894					
+OG4895					
+OG4896	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	42	K10530	1
+OG4897	K02982	RP-S3; small subunit ribosomal protein S3	28		
+OG4898					
+OG4899					
+OG4900					
+OG4901	K01160	rusA; crossover junction endodeoxyribonuclease RusA [EC:3.1.22.4]	87		
+OG4902	K11741	sugE; quaternary ammonium compound-resistance protein SugE	12	K20534	1
+OG4903			1	K07154	1
+OG4904	K09815	znuA; zinc transport system substrate-binding protein	10	K02786	1
+OG4905			1		
+OG4906			10	K20108	1
+OG4907					
+OG4908	K02761	celB; cellobiose PTS system EIIC component	26	K02788	3
+OG4909					
+OG4910					
+OG4911					
+OG4912					
+OG4913			47	K18908	1
+OG4914			2	K01547	1
+OG4915			2	K23257	2
+OG4916	K03070	secA; preprotein translocase subunit SecA [EC:7.4.2.8]	20	K00949	2
+OG4917			21	K03169	
+OG4918	K16786	ecfA1; energy-coupling factor transport system ATP-binding protein [EC:3.6.3.-]	13	K17076	3
+OG4919			2	K10039	1
+OG4920			86		
+OG4921	K12952	ctpE; cation-transporting P-type ATPase E [EC:7.2.2.-]	38	K01547	4
+OG4922	K01635	lacD; tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]	17	K21739	1
+OG4923	K01635	lacD; tagatose 1,6-diphosphate aldolase [EC:4.1.2.40]	17	K21739	1
+OG4924			29		
+OG4925			3	K02773	1
+OG4926			25		
+OG4927			23	K01042	1
+OG4928					
+OG4929					
+OG4930	K14260	alaA; alanine-synthesizing transaminase [EC:2.6.1.66 2.6.1.2]	28	K18907	1
+OG4931			12	K00675	2
+OG4932			2	K16937	2
+OG4933			5	K01081	2
+OG4934	K02988	RP-S5; small subunit ribosomal protein S5	46		
+OG4935			40	K01895	1
+OG4936	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	23	K10804	1
+OG4937					
+OG4938					
+OG4939			27	K20861	5
+OG4940			27	K05362	1
+OG4941			53		
+OG4942			2	K05808	1
+OG4943					
+OG4944					
+OG4945					
+OG4946			10		
+OG4947			47	K18908	1
+OG4948	K03070	secA; preprotein translocase subunit SecA [EC:7.4.2.8]	20	K00949	2
+OG4949			9	K02532	1
+OG4950					
+OG4951					
+OG4952					
+OG4953					
+OG4954			20	K11922	1
+OG4955			1	K09952	
+OG4956					
+OG4957			1		
+OG4958			11	K03183	1
+OG4959					
+OG4960			1	K19504	1
+OG4961					
+OG4962					
+OG4963			1	K21298	1
+OG4964					
+OG4965	K20444	rfbC; O-antigen biosynthesis protein [EC:2.4.1.-]	51	K00703	2
+OG4966					
+OG4967	K08678	UXS1; UDP-glucuronate decarboxylase [EC:4.1.1.35]	16	K08679	7
+OG4968	K00991	ispD; 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase [EC:2.7.7.60]	35	K21030	8
+OG4969	K07271	licD; lipopolysaccharide cholinephosphotransferase [EC:2.7.8.-]	58	K06213	2
+OG4970					
+OG4971			8	K19354	7
+OG4972	K12997	rgpB; rhamnosyltransferase [EC:2.4.1.-]	11	K19425	2
+OG4973			68		
+OG4974					
+OG4975	K00754	bshA; L-malate glycosyltransferase [EC:2.4.1.-]	59	K19424	2
+OG4976			3	K02525	
+OG4977					
+OG4978	K01990	ABC-2.A; ABC-2 type transport system ATP-binding protein	21	K02010	3
+OG4979					
+OG4980					
+OG4981					
+OG4982			32	K22227	1
+OG4983					
+OG4984			1	K23257	1
+OG4985			23	K03498	1
+OG4986					
+OG4987					
+OG4988					
+OG4989	K03299	TC.GNTP; gluconate:H+ symporter, GntP family	29	K05540	1
+OG4990	K03299	TC.GNTP; gluconate:H+ symporter, GntP family	38	K07124	1
+OG4991					
+OG4992			14	K19270	10
+OG4993			10	K19270	8
+OG4994			1		
+OG4995					
+OG4996			1	K12264	1
+OG4997			3	K23779	2
+OG4998	K14155	patB; cysteine-S-conjugate beta-lyase [EC:4.4.1.13]	21	K09758	2
+OG4999			2	K12700	1
+OG5000	K08217	mef; MFS transporter, DHA3 family, macrolide efflux protein	17	K08177	1
+OG5001	K01784	galE; UDP-glucose 4-epimerase [EC:5.1.3.2]	19	K08679	6
+OG5002					
+OG5003					
+OG5004					
+OG5005					
+OG5006					
+OG5007	K20374	rgg3; HTH-type transcriptional regulator, SHP3-responsive repressor	15		
+OG5008					
+OG5009					
+OG5010			2	K01156	
+OG5011			16		
+OG5012			50		
+OG5013	K18104	abcA; ATP-binding cassette, subfamily B, bacterial AbcA/BmrA [EC:7.6.2.2]	16	K18888	1
+OG5014					
+OG5015			40	K07313	1
+OG5016			1	K09951	1
+OG5017					
+OG5018			20	K11922	1
+OG5019			1	K19068	1
+OG5020			2	K00344	1
+OG5021			3	K08678	1
+OG5022			88	K01304	1
+OG5023					
+OG5024					
+OG5025					
+OG5026					
+OG5027					
+OG5028					
+OG5029					
+OG5030					
+OG5031					
+OG5032					
+OG5033					
+OG5034			4	K00259	1
+OG5035					
+OG5036					
+OG5037					
+OG5038					
+OG5039					
+OG5040	K03111	ssb; single-strand DNA-binding protein	12	K03484	1
+OG5041					
+OG5042					
+OG5043			6		
+OG5044					
+OG5045	K07284	srtA; sortase A [EC:3.4.22.70]	14	K02049	1
+OG5046				K20276	
+OG5047			4	K21449	
+OG5048					
+OG5049	K03697	clpE; ATP-dependent Clp protease ATP-binding subunit ClpE	21	K00863	1
+OG5050					
+OG5051	K03169	topB; DNA topoisomerase III [EC:5.6.2.1]	33	K03168	8
+OG5052					
+OG5053	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	28	K03656	5
+OG5054					
+OG5055					
+OG5056					
+OG5057	K03424	tatD; TatD DNase family protein [EC:3.1.21.-]	15	K15655	
+OG5058					
+OG5059					
+OG5060					
+OG5061					
+OG5062			1		
+OG5063					
+OG5064	K15051	endA; DNA-entry nuclease	59		
+OG5065					
+OG5066					
+OG5067			4	K03284	1
+OG5068			1	K15524	1
+OG5069			1	K07473	1
+OG5070			2	K07570	2
+OG5071					
+OG5072			1	K19424	1
+OG5073					
+OG5074			1	K00689	1
+OG5075	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	25	K14540	1
+OG5076	K02027	ABC.MS.S; multiple sugar transport system substrate-binding protein	16	K10120	2
+OG5077	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	111		
+OG5078	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	62		
+OG5079			1	K10548	1
+OG5080					
+OG5081	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	65	K07317	1
+OG5082	K20861	ybjI; FMN hydrolase / 5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase [EC:3.1.3.102 3.1.3.104]	16		
+OG5083					
+OG5084					
+OG5085			121	K03491	1
+OG5086					
+OG5087	K01421	yhgE; putative membrane protein	47	K00012	2
+OG5088					
+OG5089			3	K20486	1
+OG5090			1	K01182	
+OG5091	K03496	parA; chromosome partitioning protein	11	K09817	1
+OG5092					
+OG5093					
+OG5094					
+OG5095	K15580	oppA; oligopeptide transport system substrate-binding protein	14	K10120	1
+OG5096					
+OG5097					
+OG5098			9	K19092	2
+OG5099					
+OG5100					
+OG5101					
+OG5102					
+OG5103	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	12		
+OG5104			8	K13993	1
+OG5105			18	K20534	1
+OG5106			1	K00752	1
+OG5107					
+OG5108			34	K21449	8
+OG5109	K01198	xynB; xylan 1,4-beta-xylosidase [EC:3.2.1.37]	14	K09702	2
+OG5110			4	K07035	1
+OG5111					
+OG5112					
+OG5113			8	K12269	1
+OG5114					
+OG5115					
+OG5116					
+OG5117					
+OG5118					
+OG5119			3	K06956	1
+OG5120			24	K15524	1
+OG5121			3		
+OG5122			4		
+OG5123			2	K00018	1
+OG5124			9		
+OG5125					
+OG5126					
+OG5127			3	K09681	1
+OG5128			1		
+OG5129			2	K08728	1
+OG5130			1	K19338	1
+OG5131					
+OG5132					
+OG5133					
+OG5134					
+OG5135					
+OG5136					
+OG5137					
+OG5138					
+OG5139					
+OG5140			3		
+OG5141					
+OG5142					
+OG5143				K06962	
+OG5144					
+OG5145					
+OG5146					
+OG5147					
+OG5148					
+OG5149					
+OG5150					
+OG5151	K03169	topB; DNA topoisomerase III [EC:5.6.2.1]	31	K03168	15
+OG5152					
+OG5153	K03696	clpC; ATP-dependent Clp protease ATP-binding subunit ClpC	35	K02669	1
+OG5154			2	K20489	1
+OG5155			4		
+OG5156					
+OG5157	K02372	fabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase [EC:4.2.1.59]	16	K01077	1
+OG5158			5	K00986	1
+OG5159	K09458	fabF; 3-oxoacyl-[acyl-carrier-protein] synthase II [EC:2.3.1.179]	15	K15655	3
+OG5160					
+OG5161					
+OG5162					
+OG5163					
+OG5164	K00648	fabH; 3-oxoacyl-[acyl-carrier-protein] synthase III [EC:2.3.1.180]	12	K01548	1
+OG5165					
+OG5166					
+OG5167					
+OG5168					
+OG5169					
+OG5170					
+OG5171			1	K01854	1
+OG5172					
+OG5173					
+OG5174					
+OG5175					
+OG5176					
+OG5177	K20866	yihX; glucose-1-phosphatase [EC:3.1.3.10]	22	K19270	3
+OG5178					
+OG5179			2	K06218	1
+OG5180			2	K01081	2
+OG5181			2	K21449	1
+OG5182					
+OG5183					
+OG5184					
+OG5185					
+OG5186	K03111	ssb; single-strand DNA-binding protein	11	K17716	2
+OG5187					
+OG5188					
+OG5189					
+OG5190					
+OG5191					
+OG5192			4		
+OG5193					
+OG5194			3	K01081	2
+OG5195					
+OG5196					
+OG5197					
+OG5198					
+OG5199			5		
+OG5200					
+OG5201					
+OG5202			12	K10117	1
+OG5203	K07497	putative transposase	20		
+OG5204			1	K13280	1
+OG5205	K07052	uncharacterized protein	195		
+OG5206			3	K06216	2
+OG5207					
+OG5208					
+OG5209			2	K07451	1
+OG5210					
+OG5211			183		
+OG5212					
+OG5213			15	K19092	2
+OG5214					
+OG5215					
+OG5216	K07485	transposase	12		
+OG5217					
+OG5218					
+OG5219					
+OG5220			1	K18704	1
+OG5221	K19424	epsF; glycosyltransferase EpsF [EC:2.4.-.-]	12	K00754	2
+OG5222					
+OG5223					
+OG5224					
+OG5225					
+OG5226	K12996	rgpA; rhamnosyltransferase [EC:2.4.1.-]	62	K07504	1
+OG5227					
+OG5228					
+OG5229			7	K01181	
+OG5230					
+OG5231			18	K03481	1
+OG5232			16	K07407	
+OG5233					
+OG5234			5		
+OG5235			13		
+OG5236					
+OG5237			2		
+OG5238					
+OG5239	K07386	pepO; putative endopeptidase [EC:3.4.24.-]	191	K18332	
+OG5240					
+OG5241					
+OG5242	K07455	recT; recombination protein RecT	14	K15531	1
+OG5243					
+OG5244					
+OG5245					
+OG5246	K10117	msmE; raffinose/stachyose/melibiose transport system substrate-binding protein	17	K15770	2
+OG5247	K10117	msmE; raffinose/stachyose/melibiose transport system substrate-binding protein	56	K16511	3
+OG5248					
+OG5249					
+OG5250			1	K20490	1
+OG5251			6		
+OG5252					
+OG5253			2		
+OG5254					
+OG5255					
+OG5256					
+OG5257					
+OG5258					
+OG5259					
+OG5260					
+OG5261	K03763	polC; DNA polymerase III subunit alpha, Gram-positive type [EC:2.7.7.7]	87	K01524	
+OG5262					
+OG5263			1	K09703	1
+OG5264					
+OG5265			43	K22409	11
+OG5266	K03602	xseB; exodeoxyribonuclease VII small subunit [EC:3.1.11.6]	32		
+OG5267					
+OG5268	K03601	xseA; exodeoxyribonuclease VII large subunit [EC:3.1.11.6]	78	K00752	1
+OG5269					
+OG5270					
+OG5271					
+OG5272					
+OG5273			1	K01649	1
+OG5274			2	K20487	1
+OG5275					
+OG5276	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	72	K03656	1
+OG5277					
+OG5278					
+OG5279					
+OG5280					
+OG5281					
+OG5282			2	K18640	1
+OG5283			2	K01685	1
+OG5284			2	K22441	1
+OG5285			2	K15655	
+OG5286					
+OG5287					
+OG5288			6		
+OG5289					
+OG5290					
+OG5291					
+OG5292					
+OG5293					
+OG5294					
+OG5295			1		
+OG5296			1	K03476	1
+OG5297	K03657	uvrD; DNA helicase II / ATP-dependent DNA helicase PcrA [EC:3.6.4.12]	15	K03656	6
+OG5298			1	K18941	
+OG5299	K02314	dnaB; replicative DNA helicase [EC:3.6.4.12]	16	K10548	1
+OG5300					
+OG5301					
+OG5302			2	K18704	1
+OG5303					
+OG5304					
+OG5305			1	K21449	1
+OG5306	K07272	rgpF; rhamnosyltransferase [EC:2.4.1.-]	92	K07031	1
+OG5307					
+OG5308			20	K19425	4
+OG5309	K07272	rgpF; rhamnosyltransferase [EC:2.4.1.-]	58	K23775	1
+OG5310			11	K19427	1
+OG5311					
+OG5312					
+OG5313					
+OG5314	K12990	rfbF; rhamnosyltransferase [EC:2.4.1.-]	57		
+OG5315	K20444	rfbC; O-antigen biosynthesis protein [EC:2.4.1.-]	122	K19424	3
+OG5316					
+OG5317			3		
+OG5318	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	48		
+OG5319	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	12	K10563	2
+OG5320					
+OG5321			3	K19975	1
+OG5322			11	K21298	1
+OG5323			2	K02103	
+OG5324					
+OG5325					
+OG5326					
+OG5327					
+OG5328			2	K11050	1
+OG5329			1		
+OG5330					
+OG5331			1	K03797	1
+OG5332			1	K02647	1
+OG5333					
+OG5334			1	K09694	1
+OG5335			1	K03476	1
+OG5336					
+OG5337					
+OG5338					
+OG5339					
+OG5340					
+OG5341			3		
+OG5342					
+OG5343					
+OG5344					
+OG5345					
+OG5346			1	K00355	1
+OG5347			1	K00105	1
+OG5348					
+OG5349			1		
+OG5350			1		
+OG5351			3	K01776	1
+OG5352					
+OG5353					
+OG5354					
+OG5355					
+OG5356			21	K10546	1
+OG5357					
+OG5358			16		
+OG5359	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	106		
+OG5360					
+OG5361			1		
+OG5362			1		
+OG5363			2	K01297	1
+OG5364			2	K09022	1
+OG5365					
+OG5366			2	K06211	1
+OG5367					
+OG5368					
+OG5369			1	K01599	1
+OG5370					
+OG5371			9	K19338	1
+OG5372	K01200	pulA; pullulanase [EC:3.2.1.41]	33	K22597	1
+OG5373					
+OG5374	K01200	pulA; pullulanase [EC:3.2.1.41]	19	K01182	2
+OG5375					
+OG5376					
+OG5377			22	K15655	
+OG5378					
+OG5379	K02803	nagEb; N-acetylglucosamine PTS system EIIB component [EC:2.7.1.193]	18	K02757	3
+OG5380			6	K20373	1
+OG5381			11	K16235	1
+OG5382	K02800	mtlA; mannitol PTS system EIICBA or EIICB component [EC:2.7.1.197]	25	K01929	1
+OG5383	K00849	galK; galactokinase [EC:2.7.1.6]	17	K12268	1
+OG5384			1	K12268	1
+OG5385					
+OG5386					
+OG5387			30	K01547	2
+OG5388			117	K01547	7
+OG5389					
+OG5390	K00013	hisD; histidinol dehydrogenase [EC:1.1.1.23]	18	K19338	2
+OG5391			49	K02026	1
+OG5392	K19972	psaC; manganese/zinc transport system permease protein	11	K19976	4
+OG5393	K01520	dut; dUTP pyrophosphatase [EC:3.6.1.23]	24	K01999	1
+OG5394	K07482	transposase	85	K22441	1
+OG5395					
+OG5396	K02004	ABC.CD.P; putative ABC transport system permease protein	53	K01006	1
+OG5397	K02004	ABC.CD.P; putative ABC transport system permease protein	32	K20486	1
+OG5398			1	K01119	1
+OG5399			3	K19285	1
+OG5400			8	K19082	4
+OG5401					
+OG5402					
+OG5403					
+OG5404					
+OG5405			9	K18926	2
+OG5406			4	K04561	1
+OG5407					
+OG5408	K07483	transposase	10	K07979	1
+OG5409					
+OG5410					
+OG5411					
+OG5412					
+OG5413					
+OG5414					
+OG5415			3	K09952	
+OG5416					
+OG5417					
+OG5418					
+OG5419	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	67	K07317	1
+OG5420					
+OG5421			20	K01356	4
+OG5422	K03502	umuC; DNA polymerase V	69	K19591	1
+OG5423			9	K03753	1
+OG5424	K03553	recA; recombination protein RecA	126		
+OG5425					
+OG5426					
+OG5427			8	K03639	1
+OG5428			9	K05362	1
+OG5429	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	27	K01119	1
+OG5430					
+OG5431			13	K07017	1
+OG5432			23	K01156	1
+OG5433			3	K02483	1
+OG5434			14	K18940	1
+OG5435			1	K05342	1
+OG5436			4	K01210	1
+OG5437					
+OG5438			10	K01220	1
+OG5439			13	K10192	1
+OG5440					
+OG5441					
+OG5442					
+OG5443	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	11	K18815	3
+OG5444					
+OG5445			35		
+OG5446	K09693	tagH; teichoic acid transport system ATP-binding protein [EC:7.5.2.4]	26	K20485	2
+OG5447	K20486	nisP; lantibiotic leader peptide-processing serine protease [EC:3.4.21.-]	76	K05363	1
+OG5448	K20489	nisI; lantibiotic immunity protein	59	K02647	2
+OG5449	K20484	nisC; lantibiotic biosynthesis protein	42	K03177	1
+OG5450					
+OG5451					
+OG5452					
+OG5453			1	K03529	1
+OG5454			99	K07498	1
+OG5455					
+OG5456					
+OG5457					
+OG5458					
+OG5459					
+OG5460	K01005	tagT_U_V; polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase [EC:2.7.8.-]	21	K00700	1
+OG5461			3	K06075	1
+OG5462					
+OG5463					
+OG5464	K16566	exoY; exopolysaccharide production protein ExoY	16	K00763	1
+OG5465			1	K01297	1
+OG5466					
+OG5467					
+OG5468					
+OG5469	K19426	epsI; pyruvyl transferase EpsI [EC:2.-.-.-]	20	K00633	1
+OG5470			3		
+OG5471					
+OG5472					
+OG5473					
+OG5474			3	K07149	1
+OG5475					
+OG5476	K03502	umuC; DNA polymerase V	87	K09758	1
+OG5477			24	K07393	1
+OG5478			1	K19424	1
+OG5479			1	K07706	1
+OG5480					
+OG5481			1		
+OG5482					
+OG5483					
+OG5484					
+OG5485					
+OG5486			2	K00940	1
+OG5487					
+OG5488					
+OG5489					
+OG5490					
+OG5491					
+OG5492			4		
+OG5493			21	K02069	2
+OG5494	K00158	E1.2.3.3; pyruvate oxidase [EC:1.2.3.3]	25		
+OG5495	K06217	phoH; phosphate starvation-inducible protein PhoH and related proteins	45	K07133	1
+OG5496	K12999	rgpI; glucosyltransferase [EC:2.4.1.-]	26	K20534	15
+OG5497	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	24	K03284	1
+OG5498					
+OG5499			2		
+OG5500			3	K02011	1
+OG5501					
+OG5502					
+OG5503					
+OG5504					
+OG5505			27	K02011	1
+OG5506	K06200	cstA; carbon starvation protein	89		
+OG5507			37	K18926	10
+OG5508					
+OG5509	K03427	hsdM; type I restriction enzyme M protein [EC:2.1.1.72]	32	K13010	1
+OG5510	K07052	uncharacterized protein	32	K10122	2
+OG5511			50	K16137	1
+OG5512					
+OG5513	K01854	glf; UDP-galactopyranose mutase [EC:5.4.99.9]	13		
+OG5514			85	K01081	2
+OG5515					
+OG5516					
+OG5517	K15580	oppA; oligopeptide transport system substrate-binding protein	26	K10188	2
+OG5518	K15580	oppA; oligopeptide transport system substrate-binding protein	21	K09136	1
+OG5519			1	K18926	1
+OG5520					
+OG5521	K07483	transposase	22	K07979	1
+OG5522	K07497	putative transposase	57	K04096	1
+OG5523					
+OG5524	K07497	putative transposase	58	K04096	1
+OG5525					
+OG5526	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	54	K09988	1
+OG5527	K07493	putative transposase	16	K19591	2
+OG5528	K07493	putative transposase	25	K11196	1
+OG5529			25	K12992	1
+OG5530	K07497	putative transposase	16	K04096	1
+OG5531	K07483	transposase	22	K07979	1
+OG5532					
+OG5533					
+OG5534			1	K11050	1
+OG5535					
+OG5536					
+OG5537	K07497	putative transposase	58	K04096	1
+OG5538			26	K07467	1
+OG5539					
+OG5540					
+OG5541			4	K08978	1
+OG5542					
+OG5543					
+OG5544			4	K02049	1
+OG5545			8	K05363	1
+OG5546					
+OG5547					
+OG5548					
+OG5549					
+OG5550			2	K04844	1
+OG5551	K00874	kdgK; 2-dehydro-3-deoxygluconokinase [EC:2.7.1.45]	10	K00917	2
+OG5552					
+OG5553			34		
+OG5554	K07483	transposase	22	K07979	1
+OG5555	K07493	putative transposase	25	K11196	1
+OG5556	K07493	putative transposase	22	K19591	1
+OG5557					
+OG5558	K05350	bglB; beta-glucosidase [EC:3.2.1.21]	47	K01223	18
+OG5559					
+OG5560					
+OG5561	K07493	putative transposase	25	K11196	1
+OG5562	K07493	putative transposase	22	K19591	1
+OG5563	K03488	licT; beta-glucoside operon transcriptional antiterminator	45	K03491	2
+OG5564			113	K08365	1
+OG5565					
+OG5566	K20373	rgg2; HTH-type transcriptional regulator, SHP2-responsive activator	15		
+OG5567	K07497	putative transposase	57	K04096	1
+OG5568	K07483	transposase	22	K07979	1
+OG5569			4	K20373	3
+OG5570			13	K03492	1
+OG5571					
+OG5572	K01750	E4.3.1.12; ornithine cyclodeaminase [EC:4.3.1.12]	82	K02493	1
+OG5573					
+OG5574	K18907	norG; GntR family transcriptional regulator, regulator for abcA and norABC	10	K00841	2
+OG5575			5	K08302	1
+OG5576			1	K01919	1
+OG5577	K07493	putative transposase	25	K11196	1
+OG5578	K07493	putative transposase	22	K19591	1
+OG5579	K07483	transposase	22	K07979	1
+OG5580					
+OG5581					
+OG5582			11	K08217	1
+OG5583					
+OG5584	K07483	transposase	22	K07979	1
+OG5585	K07497	putative transposase	38	K04096	1
+OG5586					
+OG5587					
+OG5588					
+OG5589	K01649	leuA; 2-isopropylmalate synthase [EC:2.3.3.13]	16	K02020	1
+OG5590					
+OG5591					
+OG5592			3	K03639	1
+OG5593			1	K08174	1
+OG5594			4		
+OG5595					
+OG5596					
+OG5597			3	K00259	1
+OG5598				K20486	
+OG5599			8	K00371	1
+OG5600					
+OG5601					
+OG5602					
+OG5603			1	K01649	
+OG5604					
+OG5605					
+OG5606	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	58	K00016	1
+OG5607					
+OG5608	K07493	putative transposase	12	K19591	2
+OG5609	K07493	putative transposase	44	K11196	2
+OG5610	K07483	transposase	22	K07979	1
+OG5611	K07493	putative transposase	22	K19591	1
+OG5612	K07493	putative transposase	25	K11196	1
+OG5613			5	K03273	1
+OG5614			14	K03315	1
+OG5615			31	K02788	1
+OG5616	K00626	E2.3.1.9; acetyl-CoA C-acetyltransferase [EC:2.3.1.9]	34	K15655	
+OG5617	K02032	ddpF; peptide/nickel transport system ATP-binding protein	23	K10041	8
+OG5618			14	K07317	
+OG5619			17	K01835	1
+OG5620			19	K21900	3
+OG5621	K07493	putative transposase	25	K11196	1
+OG5622	K07493	putative transposase	22	K19591	1
+OG5623			4	K18346	1
+OG5624			1	K00824	1
+OG5625			8	K02744	1
+OG5626					
+OG5627					
+OG5628			1	K06219	1
+OG5629					
+OG5630			12	K18926	1
+OG5631					
+OG5632					
+OG5633			4	K00041	1
+OG5634			31	K16209	1
+OG5635					
+OG5636					
+OG5637			6	K20534	1
+OG5638	K07493	putative transposase	25	K11196	1
+OG5639	K07493	putative transposase	22	K19591	1
+OG5640					
+OG5641					
+OG5642					
+OG5643					
+OG5644					
+OG5645					
+OG5646					
+OG5647			3	K01998	1
+OG5648					
+OG5649					
+OG5650					
+OG5651	K19338	nac; LysR family transcriptional regulator, nitrogen assimilation regulatory protein	15	K21959	5
+OG5652					
+OG5653			12		
+OG5654					
+OG5655					
+OG5656	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	13	K01551	
+OG5657					
+OG5658					
+OG5659			1		
+OG5660	K18704	tarL; CDP-ribitol ribitolphosphotransferase / teichoic acid ribitol-phosphate polymerase [EC:2.7.8.14 2.7.8.47]	15		
+OG5661			1		
+OG5662					
+OG5663					
+OG5664			1	K00231	1
+OG5665	K07441	ALG14; beta-1,4-N-acetylglucosaminyltransferase [EC:2.4.1.141]	22	K06131	1
+OG5666			1	K07317	
+OG5667					
+OG5668			3	K03817	1
+OG5669			19	K01999	1
+OG5670					
+OG5671			85	K01081	2
+OG5672					
+OG5673					
+OG5674					
+OG5675					
+OG5676	K19350	lsa; lincosamide and streptogramin A transport system ATP-binding/permease protein	18	K16960	3
+OG5677					
+OG5678			91		
+OG5679	K03111	ssb; single-strand DNA-binding protein	49	K02476	1
+OG5680					
+OG5681					
+OG5682					
+OG5683					
+OG5684			3	K00131	1
+OG5685					
+OG5686					
+OG5687					
+OG5688			4	K12308	1
+OG5689			2	K02005	1
+OG5690			5	K00105	1
+OG5691	K00847	E2.7.1.4; fructokinase [EC:2.7.1.4]	22	K01304	1
+OG5692					
+OG5693			18	K02428	1
+OG5694			25	K16235	1
+OG5695	K01488	add; adenosine deaminase [EC:3.5.4.4]	16		
+OG5696					
+OG5697			37	K09952	
+OG5698			8	K05363	1
+OG5699					
+OG5700			2	K00259	1
+OG5701			47		
+OG5702					
+OG5703					
+OG5704					
+OG5705			1	K03797	
+OG5706					
+OG5707					
+OG5708			10	K18815	2
+OG5709			14	K19973	1
+OG5710					
+OG5711					
+OG5712			3	K19425	2
+OG5713					
+OG5714	K07271	licD; lipopolysaccharide cholinephosphotransferase [EC:2.7.8.-]	17	K03753	1
+OG5715	K03328	TC.PST; polysaccharide transporter, PST family	54	K16694	51
+OG5716					
+OG5717			4	K14588	1
+OG5718	K06139	pqqE; PqqA peptide cyclase [EC:1.21.98.4]	40		
+OG5719			6	K01547	
+OG5720			6	K21739	1
+OG5721			8		
+OG5722					
+OG5723					
+OG5724					
+OG5725					
+OG5726					
+OG5727			5	K03169	
+OG5728			1	K01613	
+OG5729	K00703	glgA; starch synthase [EC:2.4.1.21]	13	K20444	1
+OG5730			1		
+OG5731					
+OG5732					
+OG5733					
+OG5734					
+OG5735	K00033	PGD; 6-phosphogluconate dehydrogenase [EC:1.1.1.44 1.1.1.343]	23	K19337	1
+OG5736					
+OG5737					
+OG5738					
+OG5739					
+OG5740					
+OG5741					
+OG5742			1	K02371	1
+OG5743					
+OG5744					
+OG5745					
+OG5746					
+OG5747	K03328	TC.PST; polysaccharide transporter, PST family	43	K16694	38
+OG5748	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	75	K00016	1
+OG5749			39		
+OG5750					
+OG5751			6	K20373	1
+OG5752			5	K11616	1
+OG5753			3	K01744	1
+OG5754			44		
+OG5755			7	K01071	1
+OG5756			16	K09758	1
+OG5757					
+OG5758					
+OG5759					
+OG5760			4	K18815	1
+OG5761					
+OG5762					
+OG5763					
+OG5764					
+OG5765			15	K02099	3
+OG5766			74		
+OG5767					
+OG5768					
+OG5769					
+OG5770			2		
+OG5771			66		
+OG5772			25	K07667	1
+OG5773			1	K00259	1
+OG5774					
+OG5775	K03475	ulaA; ascorbate PTS system EIIC component	20	K01756	1
+OG5776			4		
+OG5777			6	K00459	
+OG5778	K01575	alsD; acetolactate decarboxylase [EC:4.1.1.5]	34		
+OG5779					
+OG5780	K03596	lepA; GTP-binding protein LepA	53	K21030	1
+OG5781	K03596	lepA; GTP-binding protein LepA	20	K09136	1
+OG5782					
+OG5783			1		
+OG5784			24	K03492	1
+OG5785					
+OG5786			2		
+OG5787	K17686	copA; P-type Cu+ transporter [EC:7.2.2.8]	38	K01547	9
+OG5788					
+OG5789					
+OG5790	K06200	cstA; carbon starvation protein	306		
+OG5791	K02238	comEC; competence protein ComEC	13	K01226	1
+OG5792					
+OG5793			85	K01081	2
+OG5794					
+OG5795			9	K13927	1
+OG5796					
+OG5797			18	K07317	
+OG5798					
+OG5799					
+OG5800					
+OG5801					
+OG5802					
+OG5803					
+OG5804					
+OG5805					
+OG5806	K07741	antB; anti-repressor protein	20	K07485	1
+OG5807					
+OG5808			6		
+OG5809					
+OG5810					
+OG5811					
+OG5812					
+OG5813			3	K11618	1
+OG5814					
+OG5815			2	K08365	1
+OG5816	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	10	K19973	1
+OG5817			9	K19338	1
+OG5818	K22409	sle1; N-acetylmuramoyl-L-alanine amidase [EC:3.5.1.28]	14		
+OG5819			41	K22409	41
+OG5820			120	K14205	3
+OG5821			48	K14205	1
+OG5822			1		
+OG5823					
+OG5824					
+OG5825					
+OG5826			3		
+OG5827					
+OG5828			12	K03636	2
+OG5829	K07448	mrr; restriction system protein	102	K01154	1
+OG5830			3	K09758	1
+OG5831					
+OG5832					
+OG5833					
+OG5834	K07497	putative transposase	33	K15524	
+OG5835					
+OG5836					
+OG5837					
+OG5838					
+OG5839					
+OG5840					
+OG5841					
+OG5842					
+OG5843			39	K19270	1
+OG5844					
+OG5845			1	K22441	1
+OG5846					
+OG5847					
+OG5848			2	K08310	1
+OG5849					
+OG5850					
+OG5851					
+OG5852					
+OG5853			2	K22441	1
+OG5854					
+OG5855			85	K01081	2
+OG5856			1	K01674	1
+OG5857					
+OG5858			2	K07133	1
+OG5859			2	K08365	1
+OG5860					
+OG5861					
+OG5862			182	K00371	1
+OG5863					
+OG5864					
+OG5865					
+OG5866			2	K00639	2
+OG5867					
+OG5868					
+OG5869					
+OG5870					
+OG5871			2	K10118	1
+OG5872			21	K21298	
+OG5873			1	K12554	1
+OG5874			46	K18704	3
+OG5875	K07467	rstA1; phage replication initiation protein	67		
+OG5876	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	38	K01006	1
+OG5877			23		
+OG5878					
+OG5879					
+OG5880					
+OG5881					
+OG5882					
+OG5883					
+OG5884					
+OG5885					
+OG5886	K00558	DNMT1; DNA (cytosine-5)-methyltransferase 1 [EC:2.1.1.37]	23		
+OG5887					
+OG5888			1	K02525	1
+OG5889			2	K01649	1
+OG5890					
+OG5891					
+OG5892					
+OG5893			1		
+OG5894			8	K23779	1
+OG5895			15		
+OG5896			90		
+OG5897					
+OG5898			182	K00371	1
+OG5899					
+OG5900					
+OG5901					
+OG5902					
+OG5903					
+OG5904			1		
+OG5905	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	16	K17363	1
+OG5906					
+OG5907					
+OG5908			3	K18907	1
+OG5909					
+OG5910					
+OG5911					
+OG5912	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	15	K00104	1
+OG5913			1	K15524	
+OG5914					
+OG5915					
+OG5916			26	K02548	1
+OG5917			1	K07104	1
+OG5918			2	K18940	1
+OG5919					
+OG5920			2	K02803	1
+OG5921					
+OG5922					
+OG5923			2		
+OG5924	K07482	transposase	20	K07485	1
+OG5925					
+OG5926					
+OG5927					
+OG5928					
+OG5929					
+OG5930					
+OG5931			1	K17363	1
+OG5932					
+OG5933			9	K12554	
+OG5934					
+OG5935			21	K06223	2
+OG5936			10	K19425	1
+OG5937			7		
+OG5938	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	33	K12472	
+OG5939					
+OG5940					
+OG5941			4	K04096	1
+OG5942			1		
+OG5943			1	K07313	1
+OG5944					
+OG5945			2		
+OG5946			6	K00091	1
+OG5947			4	K03744	1
+OG5948			13	K01130	1
+OG5949			27	K18888	
+OG5950	K01101	E3.1.3.41; 4-nitrophenyl phosphatase [EC:3.1.3.41]	21	K20885	1
+OG5951					
+OG5952					
+OG5953			85	K01081	2
+OG5954			13	K07448	1
+OG5955	K06885	uncharacterized protein	18	K18331	1
+OG5956	K06885	uncharacterized protein	47	K21298	1
+OG5957					
+OG5958			1		
+OG5959					
+OG5960			16	K00278	1
+OG5961					
+OG5962					
+OG5963			21	K00068	4
+OG5964			11	K00633	7
+OG5965			4	K21745	3
+OG5966			1	K08365	1
+OG5967					
+OG5968	K07497	putative transposase	56	K10117	1
+OG5969					
+OG5970			11	K16326	1
+OG5971			2	K07017	1
+OG5972	K21449	ata; trimeric autotransporter adhesin	160		
+OG5973	K07443	ybaZ; methylated-DNA-protein-cysteine methyltransferase related protein	11		
+OG5974			1		
+OG5975			1	K19302	1
+OG5976					
+OG5977					
+OG5978					
+OG5979					
+OG5980					
+OG5981					
+OG5982					
+OG5983					
+OG5984					
+OG5985			1	K01551	1
+OG5986					
+OG5987			1	K23774	1
+OG5988			1	K04561	1
+OG5989			1		
+OG5990					
+OG5991					
+OG5992					
+OG5993			85	K01081	2
+OG5994					
+OG5995					
+OG5996					
+OG5997					
+OG5998			14	K16214	1
+OG5999			15	K07035	1
+OG6000			2	K07467	1
+OG6001	K08679	E5.1.3.6; UDP-glucuronate 4-epimerase [EC:5.1.3.6]	85	K01784	18
+OG6002					
+OG6003					
+OG6004					
+OG6005					
+OG6006	K00067	rfbD; dTDP-4-dehydrorhamnose reductase [EC:1.1.1.133]	30	K00091	6
+OG6007	K01790	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	10	K02804	1
+OG6008			1	K01524	1
+OG6009					
+OG6010					
+OG6011					
+OG6012			3	K01042	1
+OG6013			6	K23257	1
+OG6014					
+OG6015			14	K01297	14
+OG6016	K01297	ldcA; muramoyltetrapeptide carboxypeptidase [EC:3.4.17.13]	50		
+OG6017			9	K19167	2
+OG6018					
+OG6019			12	K03817	1
+OG6020			14	K00675	1
+OG6021	K07497	putative transposase	29	K07498	1
+OG6022			8	K23978	1
+OG6023			2	K22552	1
+OG6024			4		
+OG6025			29		
+OG6026					
+OG6027	K07192	FLOT; flotillin	15	K07646	1
+OG6028			10	K01998	1
+OG6029					
+OG6030					
+OG6031					
+OG6032					
+OG6033					
+OG6034					
+OG6035					
+OG6036	K06148	ABCC-BAC; ATP-binding cassette, subfamily C, bacterial	19		
+OG6037			1	K07317	
+OG6038	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	39	K07504	1
+OG6039			21		
+OG6040					
+OG6041					
+OG6042					
+OG6043					
+OG6044					
+OG6045			3	K02791	1
+OG6046					
+OG6047					
+OG6048			1	K07481	1
+OG6049					
+OG6050			1	K01749	1
+OG6051			2	K01081	1
+OG6052					
+OG6053			2	K13653	1
+OG6054					
+OG6055					
+OG6056					
+OG6057			2	K00633	1
+OG6058	K02761	celB; cellobiose PTS system EIIC component	22	K02788	3
+OG6059					
+OG6060			11		
+OG6061					
+OG6062					
+OG6063	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	91		
+OG6064			1		
+OG6065			5	K08168	1
+OG6066			1		
+OG6067					
+OG6068			1		
+OG6069			22	K03529	
+OG6070					
+OG6071					
+OG6072					
+OG6073	K07483	transposase	10	K21449	1
+OG6074	K07497	putative transposase	64		
+OG6075			1	K03491	
+OG6076					
+OG6077					
+OG6078	K01580	E4.1.1.15; glutamate decarboxylase [EC:4.1.1.15]	14	K19225	1
+OG6079			68	K01081	2
+OG6080					
+OG6081					
+OG6082	K01361	E3.4.21.96; lactocepin [EC:3.4.21.96]	40	K02335	
+OG6083	K03502	umuC; DNA polymerase V	144		
+OG6084					
+OG6085					
+OG6086					
+OG6087	K03305	TC.POT; proton-dependent oligopeptide transporter, POT family	10	K02082	1
+OG6088			76		
+OG6089					
+OG6090	K02042	phnE; phosphonate transport system permease protein	90		
+OG6091					
+OG6092			18	K01547	1
+OG6093			43	K01547	5
+OG6094			7		
+OG6095					
+OG6096	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	34	K03077	1
+OG6097	K07030	uncharacterized protein	34	K02803	1
+OG6098	K07030	uncharacterized protein	81	K00824	1
+OG6099	K01814	hisA; phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase [EC:5.3.1.16]	42	K03271	1
+OG6100					
+OG6101	K01735	aroB; 3-dehydroquinate synthase [EC:4.2.3.4]	41		
+OG6102	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	54	K01235	1
+OG6103			28	K00558	1
+OG6104			19	K00433	1
+OG6105			15	K02020	1
+OG6106					
+OG6107			1	K02068	1
+OG6108			3	K16235	1
+OG6109					
+OG6110			2	K03484	1
+OG6111			15	K00705	
+OG6112					
+OG6113	K00851	E2.7.1.12; gluconokinase [EC:2.7.1.12]	32	K01156	1
+OG6114					
+OG6115					
+OG6116					
+OG6117			8	K01770	1
+OG6118			5	K07473	1
+OG6119					
+OG6120					
+OG6121			26		
+OG6122					
+OG6123					
+OG6124			1		
+OG6125			5	K19092	1
+OG6126			3	K07667	1
+OG6127			3		
+OG6128	K01126	E3.1.4.46; glycerophosphoryl diester phosphodiesterase [EC:3.1.4.46]	55	K02804	1
+OG6129			8	K15256	1
+OG6130			2	K18940	1
+OG6131					
+OG6132					
+OG6133			23	K10985	2
+OG6134			21	K03491	1
+OG6135			17	K05362	1
+OG6136			21	K00091	1
+OG6137					
+OG6138	K18888	efrB; ATP-binding cassette, subfamily B, multidrug efflux pump	11	K18892	8
+OG6139					
+OG6140			5	K07393	1
+OG6141					
+OG6142					
+OG6143					
+OG6144			11	K21029	1
+OG6145	K01215	dexB; glucan 1,6-alpha-glucosidase [EC:3.2.1.70]	16	K01182	6
+OG6146	K01215	dexB; glucan 1,6-alpha-glucosidase [EC:3.2.1.70]	43	K01182	20
+OG6147					
+OG6148			4		
+OG6149					
+OG6150			8	K21900	1
+OG6151					
+OG6152			1	K18926	1
+OG6153					
+OG6154					
+OG6155			27	K02005	1
+OG6156					
+OG6157			51	K01989	1
+OG6158	K03322	mntH; manganese transport protein	50	K01674	1
+OG6159	K09962	uncharacterized protein	15	K02099	1
+OG6160					
+OG6161					
+OG6162			12	K02371	11
+OG6163					
+OG6164			5	K01524	1
+OG6165					
+OG6166					
+OG6167					
+OG6168					
+OG6169					
+OG6170					
+OG6171			1	K19745	1
+OG6172			27	K19270	3
+OG6173					
+OG6174			1	K03526	1
+OG6175			47		
+OG6176			91	K18926	1
+OG6177			4	K06139	1
+OG6178					
+OG6179	K01210	E3.2.1.58; glucan 1,3-beta-glucosidase [EC:3.2.1.58]	22		
+OG6180	K01210	E3.2.1.58; glucan 1,3-beta-glucosidase [EC:3.2.1.58]	14	K10984	1
+OG6181			3	K21449	1
+OG6182					
+OG6183	K06139	pqqE; PqqA peptide cyclase [EC:1.21.98.4]	13	K22736	1
+OG6184	K11041	eta; exfoliative toxin A/B	63	K20108	1
+OG6185					
+OG6186					
+OG6187			1	K01193	1
+OG6188					
+OG6189					
+OG6190					
+OG6191					
+OG6192					
+OG6193			16		
+OG6194					
+OG6195			6	K03322	1
+OG6196	K00040	uxuB; fructuronate reductase [EC:1.1.1.57]	31	K00041	3
+OG6197	K00854	xylB; xylulokinase [EC:2.7.1.17]	36	K09251	1
+OG6198					
+OG6199			4	K06895	2
+OG6200					
+OG6201					
+OG6202	K01361	E3.4.21.96; lactocepin [EC:3.4.21.96]	10	K03284	1
+OG6203					
+OG6204					
+OG6205			6	K20373	3
+OG6206					
+OG6207					
+OG6208			5	K05350	1
+OG6209					
+OG6210			23	K02082	1
+OG6211			49	K23257	1
+OG6212					
+OG6213					
+OG6214			68	K01081	2
+OG6215	K20265	gadC; glutamate:GABA antiporter	19	K00689	1
+OG6216	K02238	comEC; competence protein ComEC	16	K02653	1
+OG6217			30		
+OG6218			8	K19222	1
+OG6219			2		
+OG6220			38	K01999	1
+OG6221			9	K18331	1
+OG6222					
+OG6223			2	K18331	1
+OG6224	K07504	predicted type IV restriction endonuclease	166		
+OG6225	K01223	E3.2.1.86B; 6-phospho-beta-glucosidase [EC:3.2.1.86]	33	K05350	10
+OG6226			1	K01835	
+OG6227			4	K12554	1
+OG6228					
+OG6229					
+OG6230					
+OG6231					
+OG6232					
+OG6233					
+OG6234					
+OG6235			1	K20484	1
+OG6236					
+OG6237					
+OG6238					
+OG6239					
+OG6240			2		
+OG6241					
+OG6242	K02334	dpo; DNA polymerase bacteriophage-type [EC:2.7.7.7]	68	K02335	4
+OG6243			9	K08678	3
+OG6244			1	K03169	
+OG6245					
+OG6246					
+OG6247					
+OG6248					
+OG6249			6	K03205	2
+OG6250					
+OG6251			5	K16137	1
+OG6252					
+OG6253					
+OG6254					
+OG6255					
+OG6256					
+OG6257					
+OG6258			1		
+OG6259					
+OG6260			42		
+OG6261					
+OG6262			10	K12978	1
+OG6263			15	K22409	1
+OG6264			14		
+OG6265					
+OG6266					
+OG6267			1	K02005	
+OG6268					
+OG6269			19		
+OG6270			1	K03491	1
+OG6271					
+OG6272			3	K21449	1
+OG6273			12	K09773	1
+OG6274			3	K07031	
+OG6275					
+OG6276			5	K18136	1
+OG6277					
+OG6278					
+OG6279					
+OG6280	K06400	spoIVCA; site-specific DNA recombinase	16	K03497	
+OG6281					
+OG6282					
+OG6283					
+OG6284	K00158	E1.2.3.3; pyruvate oxidase [EC:1.2.3.3]	39		
+OG6285					
+OG6286			9	K02788	
+OG6287			1	K03797	1
+OG6288					
+OG6289			1	K08678	1
+OG6290					
+OG6291					
+OG6292			3		
+OG6293			2	K01776	1
+OG6294					
+OG6295					
+OG6296					
+OG6297					
+OG6298					
+OG6299	K09988	lyxA; D-lyxose ketol-isomerase [EC:5.3.1.15]	67		
+OG6300					
+OG6301					
+OG6302	K08302	gatY-kbaY; tagatose 1,6-diphosphate aldolase GatY/KbaY [EC:4.1.2.40]	23	K01624	16
+OG6303					
+OG6304	K02538	manR; activator of the mannose operon, transcriptional antiterminator	82	K03491	6
+OG6305	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	41	K00549	1
+OG6306	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	11	K00016	2
+OG6307			2		
+OG6308					
+OG6309					
+OG6310					
+OG6311					
+OG6312					
+OG6313					
+OG6314					
+OG6315					
+OG6316			1	K05795	
+OG6317					
+OG6318			3	K05350	2
+OG6319					
+OG6320			8	K00633	1
+OG6321			8	K10117	1
+OG6322	K02529	lacI; LacI family transcriptional regulator	19	K02525	12
+OG6323					
+OG6324					
+OG6325					
+OG6326			6	K16137	1
+OG6327			2	K01919	1
+OG6328			11	K03797	1
+OG6329					
+OG6330			2	K01226	1
+OG6331			2		
+OG6332	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	41	K01745	1
+OG6333			1	K07154	1
+OG6334			1	K08217	1
+OG6335	K00694	bcsA; cellulose synthase (UDP-forming) [EC:2.4.1.12]	190	K11936	1
+OG6336					
+OG6337					
+OG6338					
+OG6339			2	K00798	2
+OG6340					
+OG6341			4	K19504	1
+OG6342			51	K01042	1
+OG6343			1		
+OG6344					
+OG6345			3	K18346	1
+OG6346			1	K00041	1
+OG6347					
+OG6348					
+OG6349	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	12	K00344	1
+OG6350			3	K02652	1
+OG6351					
+OG6352			2		
+OG6353					
+OG6354					
+OG6355			1	K01297	1
+OG6356			7	K00705	1
+OG6357			1	K11618	1
+OG6358					
+OG6359			1		
+OG6360			1	K00435	1
+OG6361			4		
+OG6362			5		
+OG6363			3	K22409	1
+OG6364					
+OG6365					
+OG6366			2		
+OG6367					
+OG6368			1		
+OG6369			1	K21416	1
+OG6370	K03205	virD4; type IV secretion system protein VirD4 [EC:7.4.2.8]	34	K00018	1
+OG6371			1	K20484	1
+OG6372					
+OG6373					
+OG6374					
+OG6375					
+OG6376					
+OG6377			1	K07459	1
+OG6378					
+OG6379					
+OG6380	K01153	hsdR; type I restriction enzyme, R subunit [EC:3.1.21.3]	48	K21029	1
+OG6381					
+OG6382					
+OG6383					
+OG6384					
+OG6385	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	11	K07319	1
+OG6386					
+OG6387					
+OG6388					
+OG6389	K07727	putative transcriptional regulator	10	K23779	1
+OG6390					
+OG6391					
+OG6392			1	K03077	1
+OG6393					
+OG6394					
+OG6395				K16937	
+OG6396					
+OG6397					
+OG6398					
+OG6399					
+OG6400					
+OG6401					
+OG6402					
+OG6403					
+OG6404			4		
+OG6405					
+OG6406					
+OG6407			34		
+OG6408	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	17		
+OG6409			1	K01046	1
+OG6410			2	K00104	1
+OG6411	K19426	epsI; pyruvyl transferase EpsI [EC:2.-.-.-]	13	K00547	1
+OG6412			2	K19745	1
+OG6413	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	21	K18332	1
+OG6414	K07498	putative transposase	10	K03783	1
+OG6415					
+OG6416			13	K03284	1
+OG6417	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	38	K01914	2
+OG6418					
+OG6419			2	K23779	2
+OG6420			1		
+OG6421					
+OG6422					
+OG6423					
+OG6424					
+OG6425					
+OG6426					
+OG6427					
+OG6428			1	K01077	1
+OG6429					
+OG6430			85	K01081	2
+OG6431					
+OG6432					
+OG6433			2	K19354	2
+OG6434					
+OG6435					
+OG6436					
+OG6437			3	K12554	1
+OG6438					
+OG6439					
+OG6440					
+OG6441			1	K01996	1
+OG6442	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	37	K19337	1
+OG6443			2	K00798	1
+OG6444					
+OG6445					
+OG6446			1	K10548	1
+OG6447	K01854	glf; UDP-galactopyranose mutase [EC:5.4.99.9]	64		
+OG6448			1		
+OG6449					
+OG6450					
+OG6451			5	K18234	3
+OG6452	K07483	transposase	17	K02334	
+OG6453	K07497	putative transposase	46	K05970	1
+OG6454			2	K09136	1
+OG6455					
+OG6456	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	115		
+OG6457					
+OG6458			10	K09681	3
+OG6459			3	K01835	1
+OG6460	K07106	murQ; N-acetylmuramic acid 6-phosphate etherase [EC:4.2.1.126]	37	K03750	1
+OG6461			45		
+OG6462					
+OG6463			4	K07154	1
+OG6464			3	K03169	1
+OG6465			3	K19427	1
+OG6466			121		
+OG6467			19	K03481	2
+OG6468			20	K03079	1
+OG6469					
+OG6470			5	K00705	1
+OG6471			20	K06221	8
+OG6472			7	K23257	2
+OG6473	K02073	metQ; D-methionine transport system substrate-binding protein	24	K00558	2
+OG6474	K02073	metQ; D-methionine transport system substrate-binding protein	102		
+OG6475			1	K02334	
+OG6476					
+OG6477			119		
+OG6478			53	K21739	5
+OG6479					
+OG6480	K03707	tenA; thiaminase (transcriptional activator TenA) [EC:3.5.99.2]	10	K07481	1
+OG6481					
+OG6482					
+OG6483			7		
+OG6484			2	K21745	1
+OG6485					
+OG6486					
+OG6487					
+OG6488			4	K03481	2
+OG6489					
+OG6490			1	K03656	1
+OG6491					
+OG6492					
+OG6493			70		
+OG6494	K00926	arcC; carbamate kinase [EC:2.7.2.2]	10		
+OG6495			41	K02538	1
+OG6496			65	K01635	1
+OG6497					
+OG6498					
+OG6499	K07474	xtmA; phage terminase small subunit	10	K02334	1
+OG6500			6	K02069	1
+OG6501	K01681	ACO; aconitate hydratase [EC:4.2.1.3]	222		
+OG6502	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	30	K05970	1
+OG6503					
+OG6504			2	K03491	1
+OG6505	K01176	AMY; alpha-amylase [EC:3.2.1.1]	68	K01182	1
+OG6506	K01176	AMY; alpha-amylase [EC:3.2.1.1]	26		
+OG6507			20	K07467	1
+OG6508			19		
+OG6509			213	K21449	1
+OG6510	K06978	uncharacterized protein	62	K12992	1
+OG6511			51	K03496	2
+OG6512	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	23	K07319	1
+OG6513			3	K18926	2
+OG6514			1		
+OG6515					
+OG6516			53	K01048	2
+OG6517			3	K22103	1
+OG6518					
+OG6519			4		
+OG6520					
+OG6521			3	K03491	1
+OG6522			183	K00371	1
+OG6523			33	K10241	1
+OG6524					
+OG6525			4	K00694	
+OG6526					
+OG6527					
+OG6528	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	54	K00752	1
+OG6529	K07646	kdpD; two-component system, OmpR family, sensor histidine kinase KdpD [EC:2.7.13.3]	36		
+OG6530			89	K20486	1
+OG6531					
+OG6532			38	K05349	1
+OG6533					
+OG6534	K02035	ABC.PE.S; peptide/nickel transport system substrate-binding protein	120		
+OG6535			1	K09681	1
+OG6536					
+OG6537					
+OG6538					
+OG6539	K07025	putative hydrolase of the HAD superfamily	15	K01560	1
+OG6540					
+OG6541					
+OG6542	K03486	treR2; GntR family transcriptional regulator, trehalose operon transcriptional repressor	21	K03492	5
+OG6543					
+OG6544	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	21	K19425	1
+OG6545	K03777	dld; D-lactate dehydrogenase (quinone) [EC:1.1.5.12]	23	K05946	1
+OG6546	K03777	dld; D-lactate dehydrogenase (quinone) [EC:1.1.5.12]	45	K01046	1
+OG6547					
+OG6548			1	K00824	1
+OG6549					
+OG6550					
+OG6551			4	K02530	1
+OG6552			20	K00754	1
+OG6553					
+OG6554			25	K02012	1
+OG6555			27	K00373	1
+OG6556					
+OG6557					
+OG6558			14		
+OG6559					
+OG6560					
+OG6561					
+OG6562			4	K01081	4
+OG6563			10	K01081	10
+OG6564			5	K07707	1
+OG6565					
+OG6566					
+OG6567	K00688	PYG; glycogen phosphorylase [EC:2.4.1.1]	43	K00055	1
+OG6568					
+OG6569					
+OG6570					
+OG6571	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	108		
+OG6572	K19265	gpr; L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]	22	K02017	1
+OG6573	K19265	gpr; L-glyceraldehyde 3-phosphate reductase [EC:1.1.1.-]	15	K23257	2
+OG6574			43	K20488	1
+OG6575					
+OG6576					
+OG6577					
+OG6578			16	K07035	1
+OG6579					
+OG6580					
+OG6581			1	K06871	
+OG6582					
+OG6583					
+OG6584					
+OG6585					
+OG6586					
+OG6587			3	K03332	
+OG6588					
+OG6589			6	K01160	1
+OG6590					
+OG6591					
+OG6592					
+OG6593					
+OG6594					
+OG6595					
+OG6596					
+OG6597					
+OG6598					
+OG6599			1		
+OG6600	K12952	ctpE; cation-transporting P-type ATPase E [EC:7.2.2.-]	12	K01547	3
+OG6601					
+OG6602					
+OG6603			33		
+OG6604			4	K02647	1
+OG6605			22	K18967	1
+OG6606			3	K01091	1
+OG6607			3	K14588	
+OG6608					
+OG6609					
+OG6610			30	K18926	6
+OG6611			21	K18926	2
+OG6612	K01512	acyP; acylphosphatase [EC:3.6.1.7]	15	K01091	1
+OG6613			2	K00537	1
+OG6614			11	K02800	1
+OG6615					
+OG6616					
+OG6617					
+OG6618					
+OG6619			3	K13010	1
+OG6620					
+OG6621			9	K03271	2
+OG6622			11	K03481	3
+OG6623			40		
+OG6624			15	K03797	1
+OG6625					
+OG6626					
+OG6627					
+OG6628	K02029	ABC.PA.P; polar amino acid transport system permease protein	17	K10040	2
+OG6629	K02029	ABC.PA.P; polar amino acid transport system permease protein	10	K16958	3
+OG6630	K02113	ATPF1D; F-type H+-transporting ATPase subunit delta	19	K06139	1
+OG6631	K03758	arcD; arginine:ornithine antiporter / lysine permease	36	K16235	3
+OG6632	K03758	arcD; arginine:ornithine antiporter / lysine permease	75	K02548	1
+OG6633			17	K18907	1
+OG6634	K01703	leuC; 3-isopropylmalate/(R)-2-methylmalate dehydratase large subunit [EC:4.2.1.33 4.2.1.35]	15		
+OG6635					
+OG6636			21	K18926	2
+OG6637			16	K18926	4
+OG6638	K02115	ATPF1G; F-type H+-transporting ATPase subunit gamma	17	K03476	1
+OG6639			18	K01547	1
+OG6640					
+OG6641			33	K21029	1
+OG6642			40	K20490	2
+OG6643					
+OG6644	K00700	GBE1; 1,4-alpha-glucan branching enzyme [EC:2.4.1.18]	20	K10985	1
+OG6645					
+OG6646			99	K08177	1
+OG6647			163	K07301	1
+OG6648			47	K19425	3
+OG6649	K07272	rgpF; rhamnosyltransferase [EC:2.4.1.-]	303	K07407	1
+OG6650			258	K18926	1
+OG6651			55	K19424	4
+OG6652	K07271	licD; lipopolysaccharide cholinephosphotransferase [EC:2.7.8.-]	287		
+OG6653			57	K19354	27
+OG6654			49	K19354	2
+OG6655			141	K10190	1
+OG6656			348		
+OG6657			1	K10188	1
+OG6658					
+OG6659					
+OG6660			50	K07126	1
+OG6661					
+OG6662					
+OG6663			45	K16927	2
+OG6664					
+OG6665					
+OG6666			24	K03828	1
+OG6667					
+OG6668			129	K03517	1
+OG6669	K07455	recT; recombination protein RecT	69	K06871	1
+OG6670			90	K18704	1
+OG6671			93	K01551	1
+OG6672			11	K15657	1
+OG6673			44	K01989	1
+OG6674					
+OG6675					
+OG6676					
+OG6677			2	K18136	1
+OG6678					
+OG6679			48	K10548	
+OG6680	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	140	K00373	
+OG6681			28	K09952	
+OG6682			179	K00823	1
+OG6683	K07497	putative transposase	58	K18331	1
+OG6684			65	K08986	1
+OG6685	K07482	transposase	165	K01220	1
+OG6686	K07482	transposase	165	K01220	1
+OG6687	K03529	smc; chromosome segregation protein	13	K01534	1
+OG6688					
+OG6689			6	K03322	1
+OG6690					
+OG6691					
+OG6692			31	K19424	2
+OG6693	K07482	transposase	165	K01220	1
+OG6694			35	K21449	1
+OG6695			93	K01551	1
+OG6696			39	K01770	1
+OG6697			19	K15657	1
+OG6698			277	K07393	
+OG6699			280	K10120	1
+OG6700			68	K01226	
+OG6701			37	K18673	1
+OG6702			39	K03527	1
+OG6703					
+OG6704	K01071	MCH; medium-chain acyl-[acyl-carrier-protein] hydrolase [EC:3.1.2.21]	21		
+OG6705			4		
+OG6706	K12952	ctpE; cation-transporting P-type ATPase E [EC:7.2.2.-]	25	K01547	5
+OG6707			33	K02026	1
+OG6708	K00027	ME2; malate dehydrogenase (oxaloacetate-decarboxylating) [EC:1.1.1.38]	127	K08678	1
+OG6709			3		
+OG6710					
+OG6711					
+OG6712					
+OG6713			160	K10547	1
+OG6714	K01910	citC; [citrate (pro-3S)-lyase] ligase [EC:6.2.1.22]	112	K22719	1
+OG6715	K01646	citD; citrate lyase subunit gamma (acyl carrier protein)	32	K00863	1
+OG6716	K01644	citE; citrate lyase subunit beta / citryl-CoA lyase [EC:4.1.3.34]	307		
+OG6717	K01643	citF; citrate lyase subunit alpha / citrate CoA-transferase [EC:2.8.3.10]	516		
+OG6718			53	K13927	8
+OG6719	K05966	citG; triphosphoribosyl-dephospho-CoA synthase [EC:2.4.2.52]	140	K13927	41
+OG6720			1	K01193	1
+OG6721			4	K01006	1
+OG6722			215		
+OG6723			33	K07313	1
+OG6724					
+OG6725					
+OG6726			382	K01999	1
+OG6727			106	K21449	1
+OG6728			88	K00104	2
+OG6729			111	K05786	1
+OG6730			21	K00798	1
+OG6731	K06219	smtA; S-adenosylmethionine-dependent methyltransferase	19		
+OG6732			119	K03496	2
+OG6733	K04096	smf; DNA processing protein	17	K01586	1
+OG6734	K07482	transposase	165	K01220	1
+OG6735			171	K07133	1
+OG6736	K07482	transposase	165	K01220	1
+OG6737			138	K01046	1
+OG6738			183	K00371	1
+OG6739			406	K07451	
+OG6740			184	K02804	1
+OG6741			606		
+OG6742			60	K01750	1
+OG6743			100	K19973	2
+OG6744			212		
+OG6745			81	K18640	2
+OG6746					
+OG6747					
+OG6748	K07482	transposase	165	K01220	1
+OG6749			41	K23257	1
+OG6750			82	K01952	
+OG6751			72	K21449	
+OG6752			2	K04844	
+OG6753	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	16		
+OG6754	K03183	ubiE; demethylmenaquinone methyltransferase / 2-methoxy-6-polyprenyl-1,4-benzoquinol methylase [EC:2.1.1.163 2.1.1.201]	17		
+OG6755	K07482	transposase	165	K01220	1
+OG6756	K07482	transposase	165	K01220	1
+OG6757					
+OG6758	K07482	transposase	165	K01220	1
+OG6759	K03322	mntH; manganese transport protein	28	K04561	1
+OG6760	K07482	transposase	165	K01220	1
+OG6761			34	K04095	1
+OG6762	K07482	transposase	165	K01220	1
+OG6763			29	K21900	1
+OG6764			11	K16235	1
+OG6765			409		
+OG6766	K07482	transposase	165	K01220	1
+OG6767			12	K21739	2
+OG6768	K07482	transposase	165	K01220	1
+OG6769			1	K20483	1
+OG6770	K07482	transposase	165	K01220	1
+OG6771			37	K10986	1
+OG6772	K03299	TC.GNTP; gluconate:H+ symporter, GntP family	14	K01438	1
+OG6773	K07482	transposase	110	K01220	1
+OG6774			161	K01895	1
+OG6775			165	K01895	1
+OG6776			1	K03092	1
+OG6777					
+OG6778					
+OG6779					
+OG6780	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	55	K01222	1
+OG6781					
+OG6782			38		
+OG6783			12	K15342	1
+OG6784	K11617	liaS; two-component system, NarL family, sensor histidine kinase LiaS [EC:2.7.13.3]	25	K00986	1
+OG6785	K11617	liaS; two-component system, NarL family, sensor histidine kinase LiaS [EC:2.7.13.3]	21	K02026	1
+OG6786			25		
+OG6787					
+OG6788					
+OG6789					
+OG6790			1	K07317	1
+OG6791					
+OG6792			2	K01077	1
+OG6793					
+OG6794					
+OG6795					
+OG6796					
+OG6797					
+OG6798					
+OG6799					
+OG6800					
+OG6801					
+OG6802					
+OG6803					
+OG6804	K03111	ssb; single-strand DNA-binding protein	105		
+OG6805			2	K04095	1
+OG6806					
+OG6807					
+OG6808					
+OG6809					
+OG6810					
+OG6811					
+OG6812					
+OG6813			16	K10117	2
+OG6814					
+OG6815	K02031	ddpD; peptide/nickel transport system ATP-binding protein	17	K02049	5
+OG6816					
+OG6817			4	K03753	1
+OG6818					
+OG6819					
+OG6820	K01652	E2.2.1.6L; acetolactate synthase I/II/III large subunit [EC:2.2.1.6]	11	K10548	1
+OG6821					
+OG6822			1	K21900	1
+OG6823					
+OG6824					
+OG6825					
+OG6826					
+OG6827					
+OG6828					
+OG6829	K01790	rfbC; dTDP-4-dehydrorhamnose 3,5-epimerase [EC:5.1.3.13]	10	K03719	1
+OG6830					
+OG6831					
+OG6832					
+OG6833					
+OG6834					
+OG6835					
+OG6836					
+OG6837					
+OG6838					
+OG6839					
+OG6840					
+OG6841					
+OG6842					
+OG6843					
+OG6844					
+OG6845					
+OG6846					
+OG6847					
+OG6848					
+OG6849					
+OG6850					
+OG6851					
+OG6852					
+OG6853					
+OG6854					
+OG6855					
+OG6856	K20265	gadC; glutamate:GABA antiporter	86		
+OG6857					
+OG6858	K01580	E4.1.1.15; glutamate decarboxylase [EC:4.1.1.15]	28	K00705	1
+OG6859					
+OG6860	K02316	dnaG; DNA primase [EC:2.7.7.101]	22		
+OG6861					
+OG6862					
+OG6863					
+OG6864					
+OG6865					
+OG6866					
+OG6867					
+OG6868					
+OG6869					
+OG6870					
+OG6871					
+OG6872					
+OG6873					
+OG6874					
+OG6875					
+OG6876			6	K08302	1
+OG6877					
+OG6878					
+OG6879	K01421	yhgE; putative membrane protein	142		
+OG6880			10	K18926	1
+OG6881			1	K00259	1
+OG6882			2	K00231	1
+OG6883					
+OG6884					
+OG6885	K02445	glpT; MFS transporter, OPA family, glycerol-3-phosphate transporter	84		
+OG6886			4		
+OG6887	K07316	mod; adenine-specific DNA-methyltransferase [EC:2.1.1.72]	12		
+OG6888	K01156	res; type III restriction enzyme [EC:3.1.21.5]	31	K02552	2
+OG6889					
+OG6890					
+OG6891	K05845	opuC; osmoprotectant transport system substrate-binding protein	17		
+	K05846	opuBD; osmoprotectant transport system permease protein			
+OG6892					
+OG6893	K03524	birA; BirA family transcriptional regulator, biotin operon repressor / biotin---[acetyl-CoA-carboxylase] ligase [EC:6.3.4.15]	15	K09251	1
+OG6894					
+OG6895					
+OG6896					
+OG6897					
+OG6898					
+OG6899					
+OG6900					
+OG6901					
+OG6902			8	K18234	7
+OG6903					
+OG6904					
+OG6905	K16566	exoY; exopolysaccharide production protein ExoY	15	K12978	1
+OG6906					
+OG6907					
+OG6908					
+OG6909					
+OG6910					
+OG6911					
+OG6912					
+OG6913					
+OG6914					
+OG6915			4	K03527	1
+OG6916	K03695	clpB; ATP-dependent Clp protease ATP-binding subunit ClpB	76	K02669	1
+OG6917			13		
+OG6918					
+OG6919					
+OG6920	K07482	transposase	18	K18967	1
+OG6921					
+OG6922			1	K18967	1
+OG6923					
+OG6924	K00689	E2.4.1.5; dextransucrase [EC:2.4.1.5]	13		
+OG6925					
+OG6926					
+OG6927					
+OG6928					
+OG6929			85	K01081	2
+OG6930					
+OG6931	K00012	UGDH; UDPglucose 6-dehydrogenase [EC:1.1.1.22]	65	K00016	2
+OG6932					
+OG6933					
+OG6934					
+OG6935			45	K00012	3
+OG6936	K01154	hsdS; type I restriction enzyme, S subunit [EC:3.1.21.3]	52	K00694	1
+OG6937					
+OG6938			7	K03636	1
+OG6939			1	K23779	1
+OG6940					
+OG6941					
+OG6942					
+OG6943					
+OG6944					
+OG6945			1	K13653	1
+OG6946					
+OG6947	K01785	galM; aldose 1-epimerase [EC:5.1.3.3]	107		
+OG6948			1	K07718	
+OG6949			29	K05832	2
+OG6950			106		
+OG6951	K01534	zntA; Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]	24	K01547	2
+OG6952	K01534	zntA; Zn2+/Cd2+-exporting ATPase [EC:7.2.2.12 7.2.2.21]	23	K01547	4
+OG6953			1	K22409	1
+OG6954	K16169	pbuX; xanthine permease	10	K01185	1
+OG6955			14	K03639	
+OG6956			1	K07443	1
+OG6957					
+OG6958					
+OG6959			32	K18926	4
+OG6960			1	K01524	
+OG6961					
+OG6962					
+OG6963			14		
+OG6964					
+OG6965	K01356	lexA; repressor LexA [EC:3.4.21.88]	17		
+OG6966	K00691	mapA; maltose phosphorylase [EC:2.4.1.8]	17	K04844	2
+OG6967			51		

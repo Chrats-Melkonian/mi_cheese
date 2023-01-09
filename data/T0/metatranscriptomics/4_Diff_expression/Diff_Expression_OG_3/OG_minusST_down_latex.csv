@@ -1,0 +1,21 @@
+"Id","Description","baseMean","log2FoldChange.minusSTvsAll","padj.minusSTvsAll"
+"OG3093","hypothetical protein",20.37,-8.141,0
+"OG4035","putative cadmium-transporting ATPase",15.39,-6.433,0.001
+"OG3087","hypothetical protein",4.89,-4.028,0.008
+"OG1923","hypothetical protein",13.8,-3.696,0
+"OG3252","hypothetical protein",5.03,-3.517,0.003
+"OG3278","hypothetical protein",6.35,-3.37,0.003
+"OG3156","Aryl-phospho-beta-D-glucosidase BglH",12.13,-3.114,0
+"OG3310","hypothetical protein",8.35,-2.751,0.002
+"OG3591","hypothetical protein",12.79,-2.59,0
+"OG5408","IS3 family transposase IS981",8.05,-2.537,0.004
+"OG3200","hypothetical protein",50.89,-2.399,0
+"OG2979","putative cadmium-transporting ATPase",8.22,-2.328,0.003
+"OG86","HTH-type transcriptional activator RhaR",6.61,-2.291,0.01
+"OG3158","hypothetical protein",8.06,-2.186,0.007
+"OG3257","hypothetical protein",7.32,-2.151,0.006
+"OG894","L-arabinose transport system permease protein AraQ",8.56,-2.128,0.008
+"OG5126","hypothetical protein",10.4,-2.031,0.004
+"OG6335","hypothetical protein",4415.39,-2.029,0
+"OG6336","hypothetical protein",19.13,-2.027,0.004
+"OG5160","hypothetical protein",9.12,-2.012,0.007

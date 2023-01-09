@@ -1,0 +1,31 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"122","NLANBGKA_01572","Orotidine 5'-phosphate decarboxylase",147.51,3.921,0
+"61","NLANBGKA_00811","hypothetical protein",7.12,3.404,0
+"121","NLANBGKA_01561","Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit",41.55,3.268,0
+"24","NLANBGKA_00257","Bifunctional protein PyrR",33.75,3.166,0
+"120","NLANBGKA_01560","Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit",29.94,3.087,0
+"30","NLANBGKA_00263","hypothetical protein",4.38,2.772,0.001
+"124","NLANBGKA_01574","6-aminohexanoate-cyclic-dimer hydrolase",5.44,2.742,0.002
+"123","NLANBGKA_01573","Orotate phosphoribosyltransferase",107.82,2.632,0
+"9","NLANBGKA_00055","Oligopeptide-binding protein AmiA",22.94,2.512,0
+"41","NLANBGKA_00388","Membrane lipoprotein TpN32",71.38,2.302,0
+"40","NLANBGKA_00387","Peptide methionine sulfoxide reductase MsrA",21.02,2.202,0
+"29","NLANBGKA_00262","Ribosomal RNA small subunit methyltransferase J",11.6,2.17,0
+"25","NLANBGKA_00258","Uracil permease",277.18,2.149,0
+"27","NLANBGKA_00260","Carbamoyl-phosphate synthase small chain",124.72,2.067,0
+"28","NLANBGKA_00261","Carbamoyl-phosphate synthase large chain",260.97,1.946,0
+"8","NLANBGKA_00054","Oligopeptide transport system permease protein OppB",36.45,1.94,0
+"62","NLANBGKA_00812","Acryloyl-CoA reductase (NADH)",13.05,1.91,0
+"59","NLANBGKA_00766","hypothetical protein",110.7,1.907,0
+"42","NLANBGKA_00389","Isochorismatase family protein YecD",70,1.816,0
+"128","NLANBGKA_01604","Oligopeptide-binding protein AmiA",11.84,1.79,0.006
+"91","NLANBGKA_01192","hypothetical protein",23.15,1.766,0
+"26","NLANBGKA_00259","Aspartate carbamoyltransferase",147.77,1.742,0
+"142","NLANBGKA_01729","30S ribosomal protein S14 type Z",21.95,1.721,0
+"103","NLANBGKA_01336","hypothetical protein",10.88,1.69,0.001
+"100","NLANBGKA_01301","2-iminobutanoate/2-iminopropanoate deaminase",22.11,1.674,0
+"92","NLANBGKA_01194","50S ribosomal protein L19",79.44,1.655,0
+"135","NLANBGKA_01704","Putative 2-aminoethylphosphonate import ATP-binding protein PhnT",549.23,1.635,0
+"43","NLANBGKA_00390","GTP-sensing transcriptional pleiotropic repressor CodY",94.33,1.59,0
+"47","NLANBGKA_00515","Ribonuclease HIII",30.41,1.521,0.002
+"15","NLANBGKA_00129","Aspartokinase 3",34.86,1.507,0

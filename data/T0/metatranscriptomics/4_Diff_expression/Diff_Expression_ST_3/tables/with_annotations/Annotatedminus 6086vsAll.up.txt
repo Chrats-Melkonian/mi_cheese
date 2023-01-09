@@ -1,0 +1,2 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"1","NLANBGKA_01704","Putative 2-aminoethylphosphonate import ATP-binding protein PhnT",549.23,0.774,0

@@ -1,0 +1,4 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"2","NLANBGKA_01446","hypothetical protein",169.29,-0.921,0
+"3","NLANBGKA_01670","Stress response regulator gls24",3734.01,-0.548,0.01
+"1","NLANBGKA_01031","Protein GrpE",1742.19,-0.431,0.009

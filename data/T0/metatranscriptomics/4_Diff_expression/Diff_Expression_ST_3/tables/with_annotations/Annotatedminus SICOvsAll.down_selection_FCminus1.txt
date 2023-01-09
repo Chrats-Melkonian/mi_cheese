@@ -1,0 +1,41 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"34","NLANBGKA_00831","hypothetical protein",138.87,-2.608,0
+"33","NLANBGKA_00830","Glycerate kinase",144.4,-2.172,0
+"43","NLANBGKA_01138","hypothetical protein",65.95,-2.137,0
+"44","NLANBGKA_01159","NADPH-dependent oxidoreductase",42.4,-2.136,0.001
+"57","NLANBGKA_01485","CBS domain-containing protein YkuL",29.57,-2.021,0.009
+"36","NLANBGKA_00957","Dihydroxy-acid dehydratase",56.82,-1.977,0
+"78","NLANBGKA_01839","N-acylneuraminate cytidylyltransferase",57.07,-1.957,0
+"79","NLANBGKA_01840","hypothetical protein",149.89,-1.852,0
+"70","NLANBGKA_01672","hypothetical protein",2158.77,-1.851,0
+"11","NLANBGKA_00484","Mannose-6-phosphate isomerase ManA",33.47,-1.752,0.008
+"24","NLANBGKA_00753","hypothetical protein",148.36,-1.593,0
+"7","NLANBGKA_00229","hypothetical protein",270.45,-1.572,0
+"52","NLANBGKA_01254","Beta-glucoside kinase",44.05,-1.545,0.005
+"69","NLANBGKA_01670","Stress response regulator gls24",3734.01,-1.541,0
+"80","NLANBGKA_01850","Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha",111.72,-1.531,0
+"66","NLANBGKA_01621","Transcription-repair-coupling factor",129.87,-1.491,0
+"77","NLANBGKA_01838","putative protein kinase UbiB",338.45,-1.471,0
+"12","NLANBGKA_00545","Response regulator SaeR",358.86,-1.461,0
+"60","NLANBGKA_01559","Putative cysteine protease YraA",329.71,-1.456,0
+"17","NLANBGKA_00666","10 kDa chaperonin",338.89,-1.446,0
+"58","NLANBGKA_01487","dITP/XTP pyrophosphatase",189.13,-1.443,0
+"32","NLANBGKA_00825","Ribosomal RNA large subunit methyltransferase I",149.09,-1.365,0
+"1","NLANBGKA_00062","Acid sugar phosphatase",84.27,-1.309,0.002
+"68","NLANBGKA_01669","hypothetical protein",2825.85,-1.305,0
+"63","NLANBGKA_01592","Ribulose-phosphate 3-epimerase",103.06,-1.249,0
+"56","NLANBGKA_01484","Tyrosine recombinase XerD-like protein",77.5,-1.247,0.001
+"13","NLANBGKA_00561","Branched-chain amino acid transport system 2 carrier protein",380.4,-1.24,0
+"5","NLANBGKA_00227","Thymidylate kinase",157.13,-1.225,0
+"62","NLANBGKA_01591","Thiamine pyrophosphokinase",62.23,-1.222,0.006
+"55","NLANBGKA_01308","Nucleotide-binding protein YvcJ",110.13,-1.208,0
+"76","NLANBGKA_01837","hypothetical protein",157.7,-1.199,0
+"9","NLANBGKA_00372","hypothetical protein",89.98,-1.167,0.001
+"71","NLANBGKA_01673","hypothetical protein",162.93,-1.142,0
+"23","NLANBGKA_00751","Glucokinase",1406.45,-1.114,0
+"74","NLANBGKA_01815","Aspartate aminotransferase",93.5,-1.098,0.002
+"30","NLANBGKA_00818","L-2-hydroxyisocaproate dehydrogenase",122.85,-1.072,0
+"54","NLANBGKA_01307","hypothetical protein",138.94,-1.039,0.001
+"47","NLANBGKA_01181","hypothetical protein",138.53,-1.032,0
+"6","NLANBGKA_00228","DNA polymerase III subunit delta'",185.61,-1.025,0
+"64","NLANBGKA_01598","hypothetical protein",314.73,-1.024,0
