@@ -1,0 +1,84 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"34","NLANBGKA_00831","hypothetical protein",138.87,-2.608,0
+"33","NLANBGKA_00830","Glycerate kinase",144.4,-2.172,0
+"43","NLANBGKA_01138","hypothetical protein",65.95,-2.137,0
+"44","NLANBGKA_01159","NADPH-dependent oxidoreductase",42.4,-2.136,0.001
+"57","NLANBGKA_01485","CBS domain-containing protein YkuL",29.57,-2.021,0.009
+"36","NLANBGKA_00957","Dihydroxy-acid dehydratase",56.82,-1.977,0
+"78","NLANBGKA_01839","N-acylneuraminate cytidylyltransferase",57.07,-1.957,0
+"79","NLANBGKA_01840","hypothetical protein",149.89,-1.852,0
+"70","NLANBGKA_01672","hypothetical protein",2158.77,-1.851,0
+"11","NLANBGKA_00484","Mannose-6-phosphate isomerase ManA",33.47,-1.752,0.008
+"24","NLANBGKA_00753","hypothetical protein",148.36,-1.593,0
+"7","NLANBGKA_00229","hypothetical protein",270.45,-1.572,0
+"52","NLANBGKA_01254","Beta-glucoside kinase",44.05,-1.545,0.005
+"69","NLANBGKA_01670","Stress response regulator gls24",3734.01,-1.541,0
+"80","NLANBGKA_01850","Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha",111.72,-1.531,0
+"66","NLANBGKA_01621","Transcription-repair-coupling factor",129.87,-1.491,0
+"77","NLANBGKA_01838","putative protein kinase UbiB",338.45,-1.471,0
+"12","NLANBGKA_00545","Response regulator SaeR",358.86,-1.461,0
+"60","NLANBGKA_01559","Putative cysteine protease YraA",329.71,-1.456,0
+"17","NLANBGKA_00666","10 kDa chaperonin",338.89,-1.446,0
+"58","NLANBGKA_01487","dITP/XTP pyrophosphatase",189.13,-1.443,0
+"32","NLANBGKA_00825","Ribosomal RNA large subunit methyltransferase I",149.09,-1.365,0
+"1","NLANBGKA_00062","Acid sugar phosphatase",84.27,-1.309,0.002
+"68","NLANBGKA_01669","hypothetical protein",2825.85,-1.305,0
+"63","NLANBGKA_01592","Ribulose-phosphate 3-epimerase",103.06,-1.249,0
+"56","NLANBGKA_01484","Tyrosine recombinase XerD-like protein",77.5,-1.247,0.001
+"13","NLANBGKA_00561","Branched-chain amino acid transport system 2 carrier protein",380.4,-1.24,0
+"5","NLANBGKA_00227","Thymidylate kinase",157.13,-1.225,0
+"62","NLANBGKA_01591","Thiamine pyrophosphokinase",62.23,-1.222,0.006
+"55","NLANBGKA_01308","Nucleotide-binding protein YvcJ",110.13,-1.208,0
+"76","NLANBGKA_01837","hypothetical protein",157.7,-1.199,0
+"9","NLANBGKA_00372","hypothetical protein",89.98,-1.167,0.001
+"71","NLANBGKA_01673","hypothetical protein",162.93,-1.142,0
+"23","NLANBGKA_00751","Glucokinase",1406.45,-1.114,0
+"74","NLANBGKA_01815","Aspartate aminotransferase",93.5,-1.098,0.002
+"30","NLANBGKA_00818","L-2-hydroxyisocaproate dehydrogenase",122.85,-1.072,0
+"54","NLANBGKA_01307","hypothetical protein",138.94,-1.039,0.001
+"47","NLANBGKA_01181","hypothetical protein",138.53,-1.032,0
+"6","NLANBGKA_00228","DNA polymerase III subunit delta'",185.61,-1.025,0
+"64","NLANBGKA_01598","hypothetical protein",314.73,-1.024,0
+"31","NLANBGKA_00823","Shikimate dehydrogenase (NADP(+))",124.48,-0.993,0.002
+"25","NLANBGKA_00755","UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase",107.05,-0.987,0.002
+"22","NLANBGKA_00749","Peroxide-responsive repressor PerR",324.76,-0.969,0
+"46","NLANBGKA_01177","hypothetical protein",171.32,-0.968,0.001
+"19","NLANBGKA_00672","DNA polymerase III subunit alpha",150.31,-0.952,0.001
+"73","NLANBGKA_01768","Aminoacyltransferase FemB",95.58,-0.946,0.005
+"50","NLANBGKA_01197","H(+)/Cl(-) exchange transporter ClcA",130.85,-0.942,0.002
+"18","NLANBGKA_00667","60 kDa chaperonin",21302.39,-0.918,0
+"67","NLANBGKA_01643","hypothetical protein",222.99,-0.916,0.001
+"28","NLANBGKA_00762","hypothetical protein",177.15,-0.915,0.009
+"75","NLANBGKA_01830","30S ribosomal protein S20",355.75,-0.852,0.001
+"39","NLANBGKA_01030","Chaperone protein DnaK",6935.64,-0.843,0
+"41","NLANBGKA_01032","Heat-inducible transcription repressor HrcA",2588.76,-0.843,0
+"51","NLANBGKA_01220","Glucose uptake protein GlcU",151.71,-0.843,0.009
+"49","NLANBGKA_01185","hypothetical protein",295.02,-0.839,0.001
+"16","NLANBGKA_00658","putative transcriptional regulatory protein",330.28,-0.832,0
+"10","NLANBGKA_00465","hypothetical protein",315.78,-0.814,0
+"29","NLANBGKA_00764","Isoleucine--tRNA ligase",418.92,-0.799,0
+"37","NLANBGKA_00979","hypothetical protein",518.77,-0.789,0
+"45","NLANBGKA_01171","putative glutamine ABC transporter permease protein GlnP",245.74,-0.772,0.002
+"40","NLANBGKA_01031","Protein GrpE",1742.19,-0.763,0
+"42","NLANBGKA_01098","Negative regulator of genetic competence ClpC/MecB",751.03,-0.755,0
+"61","NLANBGKA_01590","hypothetical protein",196.85,-0.734,0.003
+"48","NLANBGKA_01183","hypothetical protein",172.15,-0.725,0.007
+"20","NLANBGKA_00720","hypothetical protein",361.05,-0.71,0.003
+"35","NLANBGKA_00912","putative pyridine nucleotide-disulfide oxidoreductase RclA",3073.32,-0.706,0
+"72","NLANBGKA_01685","Aspartate--tRNA ligase",244,-0.705,0.004
+"81","NLANBGKA_01853","Dihydrolipoyl dehydrogenase",228.39,-0.688,0.004
+"4","NLANBGKA_00213","Flavoredoxin",244.93,-0.674,0.008
+"53","NLANBGKA_01274","Acetolactate synthase",248.37,-0.667,0.006
+"27","NLANBGKA_00758","Cell division protein FtsZ",661.9,-0.665,0.002
+"59","NLANBGKA_01506","RNA polymerase-associated protein RapA",488.25,-0.654,0
+"26","NLANBGKA_00757","Cell division protein FtsA",475.46,-0.603,0.004
+"3","NLANBGKA_00169","hypothetical protein",353.22,-0.588,0.003
+"14","NLANBGKA_00562","Peptide methionine sulfoxide reductase MsrA/MsrB 1",2175.43,-0.587,0.001
+"65","NLANBGKA_01617","hypothetical protein",393.2,-0.577,0.005
+"83","NLANBGKA_01870","Glycogen phosphorylase",1188.92,-0.569,0.001
+"15","NLANBGKA_00610","Bifunctional (p)ppGpp synthase/hydrolase RelA",394.05,-0.567,0.004
+"82","NLANBGKA_01869","4-alpha-glucanotransferase",1011.87,-0.539,0.001
+"2","NLANBGKA_00123","putative manganese-dependent inorganic pyrophosphatase",620.22,-0.534,0.01
+"8","NLANBGKA_00371","putative ATP-dependent Clp protease ATP-binding subunit",5814.39,-0.517,0
+"38","NLANBGKA_01029","Chaperone protein DnaJ",1207.8,-0.445,0.005
+"21","NLANBGKA_00748","DNA protection during starvation protein",980.61,-0.438,0.004

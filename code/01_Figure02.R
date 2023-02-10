@@ -1,6 +1,8 @@
 ################ Author: Chrats Melkonian
 #first set directory to github repository location
 ################
+# Remark: through the analysis or data the follow abbreviation can be used in exchange 10675: LLm1, 6086: LLm2, 5614: LC, SICO: LB.
+################
 setwd("~/Desktop/Git/")
 data <- read.csv("./mi_cheese/data/T1/Biochemical/Cheese Tier 1 biochemical rawdata_v3_14022020.csv")
 data_cnames<-colnames(data)

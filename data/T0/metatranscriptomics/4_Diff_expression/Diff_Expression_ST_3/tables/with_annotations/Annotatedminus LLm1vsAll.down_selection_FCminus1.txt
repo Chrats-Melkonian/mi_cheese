@@ -1,0 +1,27 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"105","NLANBGKA_01540","Cadmium, cobalt and zinc/H(+)-K(+) antiporter",19,-2.437,0
+"121","NLANBGKA_01682","hypothetical protein",13.25,-2.01,0.001
+"91","NLANBGKA_01249","Niacin transporter NiaX",11.89,-1.77,0.004
+"136","NLANBGKA_01856","hypothetical protein",12.99,-1.668,0.001
+"126","NLANBGKA_01773","Cystathionine beta-lyase PatB",56.95,-1.627,0
+"124","NLANBGKA_01768","Aminoacyltransferase FemB",95.58,-1.614,0
+"132","NLANBGKA_01850","Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha",111.72,-1.434,0
+"125","NLANBGKA_01772","Cystathionine gamma-synthase/O-acetylhomoserine (thiol)-lyase",95.48,-1.393,0
+"97","NLANBGKA_01410","5,10-methylenetetrahydrofolate reductase",25.07,-1.233,0.002
+"63","NLANBGKA_00824","3-dehydroquinate dehydratase",28.61,-1.227,0.001
+"110","NLANBGKA_01591","Thiamine pyrophosphokinase",62.23,-1.212,0
+"62","NLANBGKA_00823","Shikimate dehydrogenase (NADP(+))",124.48,-1.186,0
+"45","NLANBGKA_00693","Ultraviolet N-glycosylase/AP lyase",34.09,-1.182,0.001
+"46","NLANBGKA_00695","Homoserine O-succinyltransferase",59.9,-1.17,0
+"73","NLANBGKA_01030","Chaperone protein DnaK",6935.64,-1.149,0
+"133","NLANBGKA_01851","2-oxoisovalerate dehydrogenase subunit beta",101.53,-1.113,0
+"15","NLANBGKA_00373","Glycine/sarcosine N-methyltransferase",42.34,-1.11,0
+"71","NLANBGKA_00957","Dihydroxy-acid dehydratase",56.82,-1.109,0
+"72","NLANBGKA_01029","Chaperone protein DnaJ",1207.8,-1.108,0
+"109","NLANBGKA_01590","hypothetical protein",196.85,-1.088,0
+"85","NLANBGKA_01178","hypothetical protein",20.53,-1.078,0.005
+"22","NLANBGKA_00406","hypothetical protein",25.9,-1.053,0.006
+"23","NLANBGKA_00439","Sensor protein CitS",53.47,-1.052,0
+"89","NLANBGKA_01217","Copper-exporting P-type ATPase B",760.61,-1.048,0
+"75","NLANBGKA_01032","Heat-inducible transcription repressor HrcA",2588.76,-1.046,0
+"32","NLANBGKA_00561","Branched-chain amino acid transport system 2 carrier protein",380.4,-1.039,0

@@ -1,0 +1,100 @@
+"","Id","Description","baseMean","log2FoldChange","padj"
+"58","NLANBGKA_01074","hypothetical protein",96.94,4.515,0
+"61","NLANBGKA_01078","N-acetylmuramoyl-L-alanine amidase domain-containing protein",280.84,3.539,0.002
+"59","NLANBGKA_01075","hypothetical protein",656.73,3.533,0.005
+"18","NLANBGKA_00246","hypothetical protein",30.73,3.169,0.002
+"57","NLANBGKA_01067","hypothetical protein",798.73,3.113,0.01
+"60","NLANBGKA_01076","hypothetical protein",667.99,3.065,0.009
+"66","NLANBGKA_01240","Alcohol dehydrogenase 1",7.64,2.957,0.008
+"79","NLANBGKA_01604","Oligopeptide-binding protein AmiA",11.84,2.906,0
+"55","NLANBGKA_01057","putative HTH-type transcriptional regulator",15.3,2.722,0.003
+"5","NLANBGKA_00055","Oligopeptide-binding protein AmiA",22.94,2.511,0
+"88","NLANBGKA_01732","50S ribosomal protein L18",195.66,2.315,0
+"82","NLANBGKA_01703","hypothetical protein",26.05,2.297,0
+"56","NLANBGKA_01058","hypothetical protein",13.22,2.288,0.008
+"4","NLANBGKA_00054","Oligopeptide transport system permease protein OppB",36.45,2.204,0
+"32","NLANBGKA_00584","putative ABC transporter ATP-binding protein YbhF",9.45,2.126,0.008
+"2","NLANBGKA_00051","Oligopeptide transport ATP-binding protein OppF",27.95,2.028,0
+"64","NLANBGKA_01097","D-alanyl-D-alanine carboxypeptidase DacA",27.83,1.952,0
+"9","NLANBGKA_00129","Aspartokinase 3",34.86,1.929,0
+"3","NLANBGKA_00052","Oligopeptide transport ATP-binding protein OppD",42.38,1.907,0
+"7","NLANBGKA_00108","hypothetical protein",19.85,1.907,0
+"13","NLANBGKA_00162","50S ribosomal protein L27",168.88,1.894,0
+"26","NLANBGKA_00418","putative iron export ATP-binding protein FetA",55.5,1.822,0
+"99","NLANBGKA_01908","hypothetical protein",23.16,1.801,0.002
+"35","NLANBGKA_00766","hypothetical protein",110.7,1.793,0
+"42","NLANBGKA_00959","Acetolactate synthase small subunit",20.96,1.77,0.001
+"31","NLANBGKA_00515","Ribonuclease HIII",30.41,1.703,0.005
+"36","NLANBGKA_00796","hypothetical protein",44.15,1.69,0.002
+"67","NLANBGKA_01301","2-iminobutanoate/2-iminopropanoate deaminase",22.11,1.684,0.002
+"74","NLANBGKA_01477","tRNA (cytidine(34)-2'-O)-methyltransferase",16.92,1.651,0.004
+"53","NLANBGKA_01018","Argininosuccinate synthase",30.15,1.606,0.001
+"84","NLANBGKA_01715","30S ribosomal protein S10",149.15,1.6,0
+"14","NLANBGKA_00180","Ribosome-recycling factor",57.9,1.593,0
+"39","NLANBGKA_00929","S-adenosylmethionine:tRNA ribosyltransferase-isomerase",37.72,1.502,0.006
+"23","NLANBGKA_00344","Tryptophan synthase beta chain",22.66,1.438,0.006
+"97","NLANBGKA_01808","N5-carboxyaminoimidazole ribonucleotide synthase",47.99,1.433,0
+"22","NLANBGKA_00323","ATP-dependent RNA helicase CshA",131.44,1.426,0
+"70","NLANBGKA_01374","Cysteine desulfurase IscS",123.36,1.422,0
+"62","NLANBGKA_01081","30S ribosomal protein S9",239.66,1.39,0
+"85","NLANBGKA_01717","50S ribosomal protein L4",205.36,1.375,0
+"89","NLANBGKA_01733","30S ribosomal protein S5",209.93,1.328,0
+"12","NLANBGKA_00161","50S ribosomal protein L21",385.7,1.312,0
+"47","NLANBGKA_00993","2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase",148.56,1.251,0
+"20","NLANBGKA_00261","Carbamoyl-phosphate synthase large chain",260.97,1.233,0.005
+"63","NLANBGKA_01082","50S ribosomal protein L13",307.78,1.221,0
+"94","NLANBGKA_01784","High-affinity branched-chain amino acid transport ATP-binding protein LivF",47.54,1.221,0.003
+"25","NLANBGKA_00390","GTP-sensing transcriptional pleiotropic repressor CodY",94.33,1.198,0
+"95","NLANBGKA_01792","Regulatory protein Spx",61.15,1.188,0.007
+"19","NLANBGKA_00260","Carbamoyl-phosphate synthase small chain",124.72,1.18,0
+"80","NLANBGKA_01605","Oligopeptide-binding protein AmiA",53.81,1.169,0.009
+"75","NLANBGKA_01498","Membrane protein insertase YidC",49.37,1.14,0.008
+"48","NLANBGKA_00997","UTP--glucose-1-phosphate uridylyltransferase",137.14,1.107,0
+"54","NLANBGKA_01025","Queuine tRNA-ribosyltransferase",47.66,1.103,0.009
+"8","NLANBGKA_00119","Aspartate-semialdehyde dehydrogenase",133.44,1.098,0
+"15","NLANBGKA_00191","Methionine--tRNA ligase",148.31,1.085,0
+"81","NLANBGKA_01658","30S ribosomal protein S4",74.89,1.076,0.003
+"11","NLANBGKA_00146","Ribonuclease Y",114.91,1.046,0
+"41","NLANBGKA_00958","Acetolactate synthase large subunit",191.32,1.031,0
+"96","NLANBGKA_01793","Protein RecA",196.61,1.025,0
+"98","NLANBGKA_01810","Phosphoribosylamine--glycine ligase",58.95,1.025,0.003
+"44","NLANBGKA_00961","Tyrosine--tRNA ligase",54.51,1.014,0.009
+"93","NLANBGKA_01783","Lipopolysaccharide export system ATP-binding protein LptB",92.89,1.014,0
+"27","NLANBGKA_00422","Glycerol facilitator-aquaporin gla",188.58,0.986,0
+"87","NLANBGKA_01730","30S ribosomal protein S8",121.89,0.984,0.003
+"49","NLANBGKA_00998","Glycerol-3-phosphate dehydrogenase [NAD(P)+]",92.39,0.969,0.005
+"90","NLANBGKA_01742","DNA-directed RNA polymerase subunit alpha",900.43,0.969,0
+"38","NLANBGKA_00875","Branched-chain-amino-acid aminotransferase",188.39,0.875,0
+"71","NLANBGKA_01395","Amidophosphoribosyltransferase",76.96,0.861,0.007
+"72","NLANBGKA_01416","Oligopeptide-binding protein AmiA",1648.57,0.861,0
+"77","NLANBGKA_01521","Leucine--tRNA ligase",363.55,0.851,0
+"1","NLANBGKA_00027","Glutathione biosynthesis bifunctional protein GshAB",235.7,0.821,0.002
+"86","NLANBGKA_01719","50S ribosomal protein L2",473.53,0.813,0
+"46","NLANBGKA_00964","DNA-directed RNA polymerase subunit beta'",721.07,0.806,0
+"30","NLANBGKA_00503","Single-stranded DNA-binding protein",210.13,0.798,0.002
+"76","NLANBGKA_01516","Nicotinate phosphoribosyltransferase pncB2",120.97,0.742,0.009
+"43","NLANBGKA_00960","Ketol-acid reductoisomerase (NADP(+))",381.59,0.738,0
+"16","NLANBGKA_00225","Elongation factor Tu",3870.07,0.714,0
+"21","NLANBGKA_00267","50S ribosomal protein L10",368.65,0.71,0
+"51","NLANBGKA_01012","50S ribosomal protein L1",297.85,0.708,0.001
+"68","NLANBGKA_01323","CRISPR-associated endonuclease Cas9",247.78,0.694,0.006
+"29","NLANBGKA_00454","Penicillin-binding protein 2x",146.23,0.692,0.008
+"50","NLANBGKA_01011","50S ribosomal protein L11",274.28,0.687,0.008
+"34","NLANBGKA_00679","2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",1372.34,0.67,0
+"69","NLANBGKA_01337","GTPase Obg",176.77,0.666,0.007
+"52","NLANBGKA_01017","Glutamate--tRNA ligase",351.55,0.629,0.003
+"92","NLANBGKA_01764","Translation initiation factor IF-2",316.64,0.619,0.002
+"91","NLANBGKA_01743","50S ribosomal protein L17",278.8,0.609,0.001
+"28","NLANBGKA_00423","Xaa-Pro dipeptidyl-peptidase",574.63,0.606,0.006
+"33","NLANBGKA_00608","Trifunctional nucleotide phosphoesterase protein YfkN",399.32,0.581,0.004
+"10","NLANBGKA_00133","3-oxoacyl-[acyl-carrier-protein] synthase 3",225.07,0.575,0.004
+"24","NLANBGKA_00360","Dihydroxy-acid dehydratase",889.67,0.571,0
+"65","NLANBGKA_01102","30S ribosomal protein S2",285.17,0.571,0.007
+"83","NLANBGKA_01704","Putative 2-aminoethylphosphonate import ATP-binding protein PhnT",549.23,0.561,0.009
+"17","NLANBGKA_00226","Triosephosphate isomerase",307.19,0.554,0.01
+"73","NLANBGKA_01462","Urease subunit alpha",372.97,0.551,0.002
+"78","NLANBGKA_01585","Elongation factor G",1241.97,0.531,0.001
+"45","NLANBGKA_00963","DNA-directed RNA polymerase subunit beta",776.13,0.514,0
+"40","NLANBGKA_00946","Neutral endopeptidase",515.92,0.509,0.002
+"37","NLANBGKA_00828","Enolase",6143.76,0.477,0.005
+"6","NLANBGKA_00086","NADP-dependent glyceraldehyde-3-phosphate dehydrogenase",1185.58,0.428,0
