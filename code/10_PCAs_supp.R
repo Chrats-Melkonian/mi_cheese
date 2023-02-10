@@ -1,7 +1,8 @@
-setwd("/home/chrats/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_OG_3")
-minus_5614vsAll <- read.csv(file = 'tables/minus 5614vsAll.complete.txt', sep="\t")
+setwd("~/Desktop/Git/")
+library(ggbiplot)
+minus_5614vsAll <- read.csv(file = 'mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_OG_3/tables/minus 5614vsAll.complete.txt', sep="\t")
 
-OG_func_len <- read.csv(file="OG_func_len.csv")
+OG_func_len <- read.csv(file="mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_OG_3/OG_func_len.csv")
 
 median_geneL <- median(OG_func_len[,'Length'])
 
@@ -34,12 +35,11 @@ LL_OG_PCA
 
 ################# S. thermophilus 
 
-####################
-setwd("/home/chrats/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_ST_3")
+#########################
 
-minus_5614vsAll <- read.csv(file = 'tables/minus 5614vsAll.complete.txt', sep="\t")
+minus_5614vsAll <- read.csv(file = 'mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_ST_3/tables//minus 5614vsAll.complete.txt', sep="\t")
 
-ST_func_len <- read.csv(file="ST_func_len.csv")
+ST_func_len <- read.csv(file="mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_ST_3/ST_func_len.csv")
 median_geneL <- median(ST_func_len[,'Length'])
 
 
@@ -68,19 +68,17 @@ ST_OG_PCA<-ggbiplot(pca,var.axes = F,groups=factor(Conditions1),ellipse=T)+
 ST_OG_PCA
 #########################
 
-##########################33 all together 
+########################## all together 
 
-#############################
-#metatranscriptomics
-#####################
-setwd("/home/chrats/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/3_count_tables")
-htseq_count_minusCHCC3053 <- read.csv("~/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/3_count_tables/htseq_count_minusCHCC3053.csv")
-OG_func_len <- read.csv("~/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/3_count_tables/OG_func_len.csv")
-ST_func_len <- read.csv("~/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/3_count_tables/ST_func_len.csv")
-OG_geneid_clean <- read.csv("~/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/3_count_tables/OG_geneid_clean.csv", header=FALSE)
+#########################
+
+htseq_count_minusCHCC3053 <- read.csv("mi_cheese/data/T0/metatranscriptomics/3_count_tables/htseq_count_minus3053.csv")
+OG_func_len <- read.csv("mi_cheese/data/T0/metatranscriptomics/3_count_tables/OG_func_len.csv")
+ST_func_len <- read.csv("mi_cheese/data/T0/metatranscriptomics/3_count_tables/ST_func_len.csv")
+OG_geneid_clean <- read.csv("mi_cheese/data/T0/metatranscriptomics/3_count_tables/OG_geneid_clean.csv", header=FALSE)
 
 library(Biostrings)
-genes<-readDNAStringSet("~/Desktop/Git/cheese-ft/Data/T0/metatranscriptomics/3_count_tables/DB/CDS.fa")
+genes<-readDNAStringSet("mi_cheese/data/T0/metatranscriptomics/3_count_tables/DB/CDS.fa")
 
 
 names_genes<-unlist(lapply(strsplit(names(genes),"ID=|;"), function(x) x[2]))
@@ -165,7 +163,7 @@ st_test<-ggbiplot(pca_ST,var.axes = F,groups=factor(groups),ellipse=T)+
 st_test
 
 
-########################3 CHCC10675 - CHCC6086 CHCC5614
+######################## LC
 
 clean_ids<-gsub("-.*|_.*","", rownames(htseq_count_minusCHCC3053))
 id<-which(clean_ids%in%"CHCC5614"==T)
@@ -191,10 +189,10 @@ colors_t0<-rev(c('#a50026','#1b7837','#abd9e9','#4575b4','#313695'))
 
 cremoris_PCA<-ggbiplot(pca,var.axes = F,groups=factor(groups),ellipse=T)+
   scale_color_manual(values=colors_t0)+ylim(x1,x2)+xlim(x1,x2)+
-  geom_point(aes(colour=factor(groups)), size = 3) + ggtitle(expression(paste(italic("L. lactis subsp. cremoris"), " 5614")))
+  geom_point(aes(colour=factor(groups)), size = 3) + ggtitle(expression(paste(italic("L. lactis subsp. cremoris"), " LC")))
 cremoris_PCA
 
-########################3 CHCC10675 - CHCC6086 CHCC5614
+######################## LLm2
 
 clean_ids<-gsub("-.*|_.*","", rownames(htseq_count_minusCHCC3053))
 id<-which(clean_ids%in%"CHCC6086"==T)
@@ -223,10 +221,10 @@ colors_t0<-rev(c('#a50026','#1b7837','#abd9e9','#313695','#fdae61'))
 
 lactis6_PCA<-ggbiplot(pca,var.axes = F,groups=factor(groups),ellipse=T)+
   scale_color_manual(values=colors_t0)+ylim(x1,x2)+xlim(x1,x2)+
-  geom_point(aes(colour=factor(groups)), size = 3)  + ggtitle(expression(paste(italic("L. lactis subsp. lactis"), " 6086")))
+  geom_point(aes(colour=factor(groups)), size = 3)  + ggtitle(expression(paste(italic("L. lactis subsp. lactis"), " LLm2")))
 lactis6_PCA
 
-########################3 CHCC10675 - CHCC6086 CHCC5614
+######################## LLm1
 
 clean_ids<-gsub("-.*|_.*","", rownames(htseq_count_minusCHCC3053))
 id<-which(clean_ids%in%"CHCC10675"==T)
@@ -255,12 +253,12 @@ colors_t0<-rev(c('#a50026','#1b7837','#abd9e9','#4575b4','#fdae61'))
 
 lactis10_PCA<-ggbiplot(pca,var.axes = F,groups=factor(groups),ellipse=T)+
   scale_color_manual(values=colors_t0)+ylim(x1,x2)+xlim(x1,x2)+
-  geom_point(aes(colour=factor(groups)), size = 3) + ggtitle(expression(paste(italic("L. lactis subsp. lactis"), " 10675")))
+  geom_point(aes(colour=factor(groups)), size = 3) + ggtitle(expression(paste(italic("L. lactis subsp. lactis"), " LLm1")))
 
 lactis10_PCA
 
 
-########################3 CHCC10675 - CHCC6086 CHCC5614
+######################## LB
 
 clean_ids<-gsub("-.*|_.*","", rownames(htseq_count_minusCHCC3053))
 id<-which(clean_ids%in%c("CHCC10675","NLANBGKA","CHCC6086","CHCC5614")==F)
@@ -289,7 +287,7 @@ colors_t0<-rev(c('#a50026','#1b7837','#4575b4','#313695','#fdae61'))
 
 lactis_sico_PCA<-ggbiplot(pca,var.axes = F,groups=factor(groups),ellipse=T)+
   scale_color_manual(values=colors_t0)+ylim(x1,x2)+xlim(x1,x2)+
-  geom_point(aes(colour=factor(groups)), size = 3) + ggtitle(expression(paste(italic("L. lactis"), " mixture of strains (SICO)")))
+  geom_point(aes(colour=factor(groups)), size = 3) + ggtitle(expression(paste(italic("L. lactis"), " blend (LB)")))
 
 lactis_sico_PCA
 
@@ -307,6 +305,6 @@ prow <- plot_grid(all_PCA + theme(legend.position="none"),
                   labels=c("a", "b","c","d","e","f","g",""), ncol = 4, nrow = 2, label_fontface = "bold",label_size=20,align = "hv")
 
 prow
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/SUPP/PCAs.pdf",prow, units="in", width=16, height=8, dpi=600)
+#ggsave("PLOTS/SUPP/PCAs.pdf",prow, units="in", width=16, height=8, dpi=600)
 
 

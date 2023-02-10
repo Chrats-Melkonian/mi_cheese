@@ -1,5 +1,5 @@
 # volcano plots for figure 3 b-e
-
+setwd("~/Desktop/Git/")
 minus.LCvsAll.complete <- read.delim("./mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_ST_3/tables/minus LCvsAll.complete.txt")
 minus.LLm2vsAll.complete <- read.delim("./mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_ST_3/tables/minus LLm2vsAll.complete.txt")
 minus.LLm1vsAll.complete <- read.delim("./mi_cheese/data/T0/metatranscriptomics/4_Diff_expression/Diff_Expression_ST_3/tables/minus LLm1vsAll.complete.txt")

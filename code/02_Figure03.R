@@ -1,7 +1,7 @@
 ################ Author: Chrats Melkonian
 #first set directory to github repository location
 ################
-# setwd("./mi_cheese/data/T1/Biochemical")
+setwd("~/Desktop/Git/")
 data <- read.csv("./mi_cheese/data/T1/Biochemical/Cheese Tier 1 biochemical rawdata_v3_14022020.csv")
 data_cnames<-colnames(data)
 data_cnamesnew<-data[1,]
@@ -303,6 +303,8 @@ boruta.df.ord.c<-boruta.df.ord[boruta.df.ord$decision=="Confirmed",]
 boruta.df.ord.c.h<-boruta.df.ord.c[boruta.df.ord.c$meanImp>mean(boruta.df.ord.c$meanImp),]
 rownames(boruta.df.ord.c.h)<-gsub("^X","",rownames(boruta.df.ord.c.h))
 
+
+
 colnames(data_sub2)<-paste(1:309,colnames(data_sub2),sep = "_")
 select<-match(unlist(lapply(strsplit(rownames(boruta.df.ord.c.h),"_"), function(x) x[1])),unlist(lapply(strsplit(colnames(data_sub2),"_"), function(x) x[1])))
 data_sub2_select<-data_sub2[,select]
@@ -348,7 +350,17 @@ df_bc<-ggplot(data_sub3_select_df_sel, aes(x=value, y=variable))+
         axis.title.y = element_text( size=size_all), 
         legend.title = element_text(size=size_all),
         legend.text = element_text(size=size_all),axis.text.y=element_blank())
+#### one-way ANOVA
+library(rstatix)
+data_sub3_select_df_sel_list<-split(data_sub3_select_df_sel,factor(data_sub3_select_df_sel$variable))
+lapply(data_sub3_select_df_sel_list, function(x) x %>% anova_test(value ~ Condition*Ripening_months))
+mean(c(33.556, 60.853, 63.572 ,66.294 ,137.525 ,886.441))
+sd(c(33.556, 60.853, 63.572 ,66.294 ,137.525 ,886.441))
+mean(c(0.835,0.841,0.847,0.737,0.987,0.920))
+sd(c(0.835,0.841,0.847,0.737,0.987,0.920))
+#F(3, 36) = 208+-334 , p<0.001, eta2[g] = 0.86+-0.08
 
+####
 ggplot(data_sub3_select_df_sel, aes(x=value, y=variable))+ 
   geom_density_ridges(aes(fill=Condition,color=Condition),scale = 1,alpha = .3,jittered_points = TRUE, point_size =2, size = 0.1,
                       rel_min_height = .05, point_alpha = 1)+
