@@ -28,18 +28,18 @@ mi_cheese/
 │   └── 10_PCAs_supp.R
 ├── data
 │   ├── Models
-│   │   ├── CHCC10675.xml
-│   │   ├── CHCC4895.xml
-│   │   ├── CHCC5614.xml
-│   │   ├── CHCC6086.xml
+│   │   ├── LC.xml
+│   │   ├── LLm1.xml
+│   │   ├── LLm2.xml
+│   │   ├── ST.xml
 │   │   ├── curated
 │   │   ├── data
 │   │   └── Escher_maps
 │   ├── ORF_protein
-│   │   ├── CHCC10675.faa
-│   │   ├── CHCC4895.faa
-│   │   ├── CHCC5614.faa
-│   │   └── CHCC6086.faa
+│   │   ├── LC.faa
+│   │   ├── LLm1.faa
+│   │   ├── LLm2.faa
+│   │   └── ST.faa
 │   ├── T0
 │   │   ├── Biochemical
 │   │   ├── metatranscriptomics
