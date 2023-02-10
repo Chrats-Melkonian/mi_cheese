@@ -1,6 +1,6 @@
 Condition vs Ref,Threshold,# discarded,# down,# up,# total
 minus ST vs All,4.36,3530,455,379,834
-minus 5614 vs All,1.04,2784,813,422,1235
-minus 6086 vs All,1.92,3104,427,206,633
-minus 10675 vs All,1.28,2891,746,808,1554
-minus SICO vs All,1.04,2784,573,430,1003
+minus LC vs All,1.04,2784,813,422,1235
+minus LLm2 vs All,1.92,3104,427,206,633
+minus LLm1 vs All,1.28,2891,746,808,1554
+minus LB vs All,1.04,2784,573,430,1003
