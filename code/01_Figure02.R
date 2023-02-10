@@ -1,7 +1,7 @@
-################
+################ Author: Chrats Melkonian
 #first set directory to github repository location
 ################
-# setwd("~/Desktop/Git/")
+setwd("~/Desktop/Git/")
 data <- read.csv("./mi_cheese/data/T1/Biochemical/Cheese Tier 1 biochemical rawdata_v3_14022020.csv")
 data_cnames<-colnames(data)
 data_cnamesnew<-data[1,]

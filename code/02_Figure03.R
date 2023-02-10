@@ -1,10 +1,12 @@
-setwd("./mi_cheese/data/T1/Biochemical")
+################ Author: Chrats Melkonian
+#first set directory to github repository location
+################
+# setwd("./mi_cheese/data/T1/Biochemical")
 data <- read.csv("./mi_cheese/data/T1/Biochemical/Cheese Tier 1 biochemical rawdata_v3_14022020.csv")
 data_cnames<-colnames(data)
 data_cnamesnew<-data[1,]
 data<-data[-1,]
 colnames(data)<-data_cnamesnew
-
 
 data_sub<-as.data.frame(data[,c(16:55,59:ncol(data))])
 data_meta<-data[,c(1:4)]
@@ -25,7 +27,6 @@ for (i in 1:nrow(data_sub_umap)){
   x<-data_sub_umap[,i]
   ifelse(length(table(is.na(x)))==2, data_sub_umap[is.na(x),i]<-mean(x, na.rm = T) ,x)
 }
-
 
 library(uwot)
 embedding<-umap(data_sub_umap,n_neighbors=23)
@@ -98,23 +99,41 @@ apres@clusters[[1]]
 temp_scluster<-data_sub_umap[,apres@clusters[[1]]]
 
 temp_scluster<-cbind(df_out$Culture,temp_scluster)
-################ realtive change between times
+
+################
+
+cor(datac_avg_time_nm)
+pca_res <- prcomp(data_sub_umap, scale. = TRUE,center = T)
+library(ggfortify)
+autoplot(pca_res, data=df_out,colour="Ripening_months",frame = TRUE,frame.type = 'norm',shape="Culture")
+
+data_sub_umap_scale<-apply(data_sub_umap, 2, function(x) rescale(x, to = c(0, 1)))
+pca_res2 <- prcomp(t(data_sub_umap), scale. = TRUE,center = T)
+Class_PCA<-c(
+  rep("Acids",30),
+  rep("Carbohydrates",31),
+  rep("Peptides",248))
+df<-data.frame(1:309)
+df$Class_PCA<-Class_PCA
+autoplot(pca_res2,df, colour="Class_PCA",label = TRUE, label.size = 3)
+
+################
+################ relative change between times figure 2 f
+################
+
 data_sub
 datac<-cbind(data_meta,data_sub)
 colnames(datac)[2]<-"Culture"
 colnames(datac)[3]<-"Ripening_time"
 colnames(datac)[4]<-"Ripening_months"
 library(dplyr)
-datac_avg<-datac %>%                                        # Specify data frame
-  dplyr::group_by(across(all_of(c("Culture","Ripening_months")))) %>%                         # Specify group indicator             # Specify function
-  dplyr::summarise(across(everything(), list(mean)))
 
 datac_avg_time<-datac %>%                                        # Specify data frame
   dplyr::group_by(across(all_of(c("Ripening_months")))) %>%                         # Specify group indicator             # Specify function
   dplyr::summarise(across(everything(), list(mean)))
 datac_avg_time<-datac_avg_time[,-c(2,3,4)]
 datac_avg_time<-datac_avg_time[c(1,3,4,5,2),]
-
+datac_avg_time<-datac_avg_time[,!apply(datac_avg_time, 2, function(x) all(is.na(x)))]
 
 library(scales)
 library(reshape2)
@@ -129,23 +148,6 @@ data_rc_time<-rbind(rm_05_3,rm_3_6,rm_6_9,rm_9_12)
 rownames(data_rc_time)<-c("05_3","3_6","6_9","9_12")
 data_rc_time_df<-melt(data_rc_time)
 
-#######################
-cor(datac_avg_time_nm)
-pca_res <- prcomp(data_sub_umap, scale. = TRUE,center = T)
-library(ggfortify)
-autoplot(pca_res, data=df_out,colour="Ripening_months",frame = TRUE,frame.type = 'norm',shape="Culture")
-
-data_sub_umap_scale<-apply(data_sub_umap, 2, function(x) rescale(x, to = c(0, 1)))
-pca_res2 <- prcomp(t(data_sub_umap), scale. = TRUE,center = T)
-Class_PCA<-c(
-  rep("Acids",30),
- rep("Carbohydrates",31),
-  rep("Peptides",248))
-df<-data.frame(1:309)
-df$Class_PCA<-Class_PCA
-autoplot(pca_res2,df, colour="Class_PCA",label = TRUE, label.size = 3)
-################################
-
 Class<-c(
 rep(rep("Acids",30),4),
 rep(rep("Sugars",3),4),
@@ -156,7 +158,7 @@ data_rc_time_df_noS<-data_rc_time_df[!data_rc_time_df$Class=="Sugars",]
 
 data_rc_time_df_noS$value[is.infinite(data_rc_time_df_noS$value)]<-NA
 
-#############
+################ 
 color_met<-c("#d6604d", "#878787","#4393c3" )
 data_rc_time_df_noS$value_log<-log10(data_rc_time_df_noS$value)
 data_rc_time_df_noS$value_log[is.infinite(data_rc_time_df_noS$value_log)]<-NA
@@ -182,12 +184,12 @@ subset(data_rc_time_df_noS,Class=="Flavor-related compounds")
 subset(data_rc_time_df_noS,Class=="Peptides")
 
 
-#########################
+################ Supplementary
 
 data_meta<-data[,c(1:4)]
 
 data_sub
-##########
+################ 
 Conf_level<-0.95
 size_all<-15
 h<-1
@@ -262,42 +264,10 @@ prow_carb <- plot_grid(plot$`2-Heptanone` + theme(legend.position="none"),
                         labels=c("a", "b","c","d","e",""), ncol = 2, nrow = 3, label_fontface = "bold",label_size=25,align = "hv")
 prow_carb2<- plot_grid(prow_carb,legend1,ncol = 1, nrow = 2,rel_heights=c(2,0.2),rel_widths =c(1,0.5))
 prow_carb2
-#ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/SUPP/CARB_RC_supp.pdf",prow_carb2, units="in", width=10, height=15, dpi=600)
+#ggsave("Git/cheese-ft/PLOTS/SUPP/CARB_RC_supp.pdf",prow_carb2, units="in", width=10, height=15, dpi=600)
 
 
-#############################
-library(viridis)
-data_rc_time_df_h<-data_rc_time_df
-data_rc_time_df_h<-data_rc_time_df_h[which(data_rc_time_df_h$value>2600),]
-data_rc_time_df_h$value<-as.character(data_rc_time_df_h$value)
-rc_m_single<-ggplot(data_rc_time_df_h, aes(Var1, value,  fill = Class, shape = Class)) +
-  geom_point( alpha = 0.8, size = 3,show.legend = FALSE) +
-  scale_fill_manual(values='#4393c3') +
-  scale_shape_manual(values= c(25)) +
-  theme_bw()+labs(shape="Class",x="",y="")+
-  theme(text = element_text(size=size_all),
-        plot.title = element_text(size=size_all),
-        axis.title.x = element_text(size=size_all),
-        axis.title.y = element_text( size=size_all), 
-        legend.title = element_text(size=size_all),
-        legend.text = element_text(size=size_all))+theme_bw()
-
-rc_m_single
-rc_m_final<-rc_m+ annotation_custom(ggplotGrob(rc_m_single),xmin = 2,xmax = 4,ymin = 75,ymax = 125)
-data_rc_time_df_rm %>%
-  ggplot( aes(x=Var1, y=value)) +
-  scale_fill_viridis(discrete = TRUE, alpha=0.6) +
-  geom_jitter(color="black", size=0.4, alpha=0.9) +
-  theme(
-    legend.position="none",
-    plot.title = element_text(size=11)
-  ) +
-  ggtitle("A boxplot with jitter") +
-  xlab("")
-
-
-
-####################### feature selection 
+################ feature selection figure 2g
 
 #############################################
 index<-data_meta$`Ripening months`%in%c("0.5","3")
@@ -399,35 +369,6 @@ df_bc_final<-df_bc + annotate("text", x = 1.5, y = 6, label = "bold(Galactose)",
   annotate(geom = "point", x = 1.5, y = 6-4,shape=25,color="#4393c3" ,fill="#4393c3",size=3)+
   annotate(geom = "point", x = 1.5, y = 6-5,shape=25,color="#4393c3" ,fill="#4393c3",size=3)
 
-
-  
-  
-df_bc_final<-df_bc + annotate("text", x = 1.3, y = 24 -.5, label = "bold(Galactose)",color="#878787",parse=T)+
-  annotate(geom = "point", x = 1.3, y = 24-1,shape=24,color="#878787",fill="#878787")+
-  annotate("text", x = 1.3, y = 24-17.5, label = "bold(Lactose)",color="#878787",parse=T)+
-  annotate(geom = "point", x = 1.3, y = 24-18,shape=24,color="#878787",fill="#878787")+
-  annotate("text", x = 1.3, y = 24-18.5, label = "bold(Lactic_acid)",color="#d6604d",parse=T,fontface='bold')+
-  annotate(geom = "point", x = 1.3, y = 24-19,shape=23,color="#d6604d",fill="#d6604d")+
-  annotate(geom = "point", x = 1.3, y = 4,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 2,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 3,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 18,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 7,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 8,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 9,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 10,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 11,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 12,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 13,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 14,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 15,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 16,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 17,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 19,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 20,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 21,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 22,shape=25,color="#4393c3",fill="#4393c3")+
-  annotate(geom = "point", x = 1.3, y = 1,shape=25,color="#4393c3",fill="#4393c3")
 df_bc_final
 
 color_met
@@ -444,10 +385,10 @@ prow <- plot_grid(umap1 + theme(legend.position="none"),
 legend_row2<-plot_grid(legend1,legend2,nrow =2,ncol = 1,align = "hv")
 
 final<-plot_grid(prow,legend,ncol=2,rel_widths = c(2,0.5),align = "hv")
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/figure2.1.pdf",final, units="in", width=14, height=11, dpi=600)
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/figure2.1.png",final, units="in", width=14, height=11, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/figure2.1.pdf",final, units="in", width=14, height=11, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/figure2.1.png",final, units="in", width=14, height=11, dpi=600)
 plot(prow)
-#alternative
+#alternative supplementary
 
 unique(data_sub3_select_df$variable)
 legend1 <- get_legend(plot$`Acetic acid`)
@@ -460,7 +401,7 @@ prow_pep <- plot_grid(plot$`EEEKNRLNF_α-S2_170-178` + theme(legend.position="no
                        labels=c("a", "b","c","d","e","f"), ncol = 2, nrow = 3, label_fontface = "bold",label_size=25,align = "hv")
 prow_pep<- plot_grid(prow_pep,legend1,ncol = 1, nrow = 2,rel_heights=c(2,0.2),rel_widths =c(1,0.5))
 prow_pep
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/SUPP/PEP_cond_supp.pdf",prow_pep, units="in", width=10, height=15, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/SUPP/PEP_cond_supp.pdf",prow_pep, units="in", width=10, height=15, dpi=600)
 
 
 library(patchwork)
@@ -474,11 +415,11 @@ patchwork<- (m + theme(legend.position="none")|
                  plot[[32]] + theme(legend.position="none"))
 patchworkf<-patchwork+plot_annotation(tag_levels = 'a')
 patchworkf
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/FINAL_4main/figure1_05082022.pdf",patchworkf, units="in", width=24, height=12, dpi=600)
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/FINAL_4main/figure1_05082022.png", units="in", width=24, height=12, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/FINAL_4main/figure1_05082022.pdf",patchworkf, units="in", width=24, height=12, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/FINAL_4main/figure1_05082022.png", units="in", width=24, height=12, dpi=600)
 
 legend_row1<-plot_grid(legend,nrow = 1,ncol = 1,align = "hv")
 legend_row1
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/FINAL_4main/figure1_legenedr1.pdf", units="in", width=24, height=12, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/FINAL_4main/figure1_legenedr1.pdf", units="in", width=24, height=12, dpi=600)
 legend_row2
-ggsave("/home/chrats/Desktop/Git/cheese-ft/PLOTS/FINAL_4main/figure1_legenedr2.pdf", units="in", width=24, height=12, dpi=600)
+# ggsave("Git/cheese-ft/PLOTS/FINAL_4main/figure1_legenedr2.pdf", units="in", width=24, height=12, dpi=600)
