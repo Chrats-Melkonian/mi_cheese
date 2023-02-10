@@ -1,0 +1,78 @@
+media	species	rxn	name	rev
+mm_aer	CHCC4895	R_CHRPL	Chorismate pyruvate lyase	false
+mm_aer	CHCC4895	R_TALA	Transaldolase	true
+mm_aer	CHCC4895	R_XAND	Xanthine dehydrogenase	false
+mm_aer	CHCC5614	R_ASPO4	L-aspartate oxidase	false
+mm_aer	CHCC5614	R_DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	false
+mm_aer	CHCC5614	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+mm_aer	CHCC5614	R_QULNS	Quinolinate synthase	false
+mm_aer	CHCC10675	R_APATr	APATr	true
+mm_aer	CHCC10675	R_ASPO5	L-aspartate oxidase	false
+mm_aer	CHCC10675	R_DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	false
+mm_aer	CHCC10675	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+mm_aer	CHCC10675	R_QULNS	Quinolinate synthase	false
+mm_aer	CHCC6086	R_ASPO4	L-aspartate oxidase	false
+mm_aer	CHCC6086	R_DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	false
+mm_aer	CHCC6086	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+mm_aer	CHCC6086	R_QULNS	Quinolinate synthase	false
+milk_ana	CHCC4895	R_CHRPL	Chorismate pyruvate lyase	false
+milk_ana	CHCC4895	R_TALA	Transaldolase	true
+milk_ana	CHCC5614	R_ASPO4	L-aspartate oxidase	false
+milk_ana	CHCC5614	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+milk_ana	CHCC5614	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+milk_ana	CHCC5614	R_QULNS	Quinolinate synthase	false
+milk_ana	CHCC10675	R_APATr	APATr	true
+milk_ana	CHCC10675	R_ASPO5	L-aspartate oxidase	false
+milk_ana	CHCC10675	R_Cuabc	Cuabc	false
+milk_ana	CHCC10675	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+milk_ana	CHCC10675	R_QULNS	Quinolinate synthase	false
+milk_ana	CHCC6086	R_AHMMPS_1	4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase	false
+milk_ana	CHCC6086	R_ASPO3	L-aspartate oxidase	false
+milk_ana	CHCC6086	R_ASPO4	L-aspartate oxidase	false
+milk_ana	CHCC6086	R_Cuabc	Cuabc	false
+milk_ana	CHCC6086	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+milk_ana	CHCC6086	R_QULNS	Quinolinate synthase	false
+milk_ana	CHCC6086	R_SSCOARy	Succinyl-coA reductase (NADPH)	true
+milk_ana	CHCC6086	R_SUCFUMt	SUCFUMt	true
+milk_ana	CHCC6086	R_EX_succ_e	R_EX_succ_e	false
+milk_aer	CHCC4895	R_CHRPL	Chorismate pyruvate lyase	false
+milk_aer	CHCC4895	R_TALA	Transaldolase	true
+milk_aer	CHCC5614	R_ASPO5	L-aspartate oxidase	false
+milk_aer	CHCC5614	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+milk_aer	CHCC5614	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+milk_aer	CHCC5614	R_QULNS	Quinolinate synthase	false
+milk_aer	CHCC10675	R_APATr	APATr	true
+milk_aer	CHCC10675	R_ASPO4	L-aspartate oxidase	false
+milk_aer	CHCC10675	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+milk_aer	CHCC10675	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+milk_aer	CHCC10675	R_QULNS	Quinolinate synthase	false
+milk_aer	CHCC6086	R_ASPO3	L-aspartate oxidase	false
+milk_aer	CHCC6086	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+milk_aer	CHCC6086	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+milk_aer	CHCC6086	R_QULNS	Quinolinate synthase	false
+mm_ana	CHCC4895	R_CHRPL	Chorismate pyruvate lyase	false
+mm_ana	CHCC4895	R_HYXNt	HYXNt	true
+mm_ana	CHCC4895	R_TALA	Transaldolase	true
+mm_ana	CHCC5614	R_ASPO4	L-aspartate oxidase	false
+mm_ana	CHCC5614	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+mm_ana	CHCC5614	R_DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	false
+mm_ana	CHCC5614	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+mm_ana	CHCC5614	R_QULNS	Quinolinate synthase	false
+mm_ana	CHCC10675	R_AHMMPS_1	4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase	false
+mm_ana	CHCC10675	R_ASP1DC	Aspartate 1-decarboxylase	false
+mm_ana	CHCC10675	R_ASPO5	L-aspartate oxidase	false
+mm_ana	CHCC10675	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+mm_ana	CHCC10675	R_IBTMr	Isobutyryl-CoA mutase	true
+mm_ana	CHCC10675	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+mm_ana	CHCC10675	R_QULNS	Quinolinate synthase	false
+mm_ana	CHCC6086	R_AHMMPS_1	4 amino 5 hydroxymethyl 2 methylpyrimidine synthetase	false
+mm_ana	CHCC6086	R_ASPO3	L-aspartate oxidase	false
+mm_ana	CHCC6086	R_ASPO4	L-aspartate oxidase	false
+mm_ana	CHCC6086	R_ASPO5	L-aspartate oxidase	false
+mm_ana	CHCC6086	R_CU2tex	Copper (Cu+2) transport via diffusion (extracellular to periplasm)	true
+mm_ana	CHCC6086	R_DHAD1	Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylbutanoate)	false
+mm_ana	CHCC6086	R_NNDPR	Nicotinate-nucleotide diphosphorylase (carboxylating)	false
+mm_ana	CHCC6086	R_QULNS	Quinolinate synthase	false
+mm_ana	CHCC6086	R_SSCOARy	Succinyl-coA reductase (NADPH)	true
+mm_ana	CHCC6086	R_SUCCt2b	Succinate efflux via proton symport	false
+mm_ana	CHCC6086	R_EX_succ_e	R_EX_succ_e	false

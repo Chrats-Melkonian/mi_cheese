@@ -1,0 +1,177 @@
+species	gapfill	item	value
+CHCC10675	no_gf	cytosolic metabolites	681
+CHCC10675	no_gf	periplasmic metabolites	121
+CHCC10675	no_gf	extracellular metabolites	160
+CHCC10675	no_gf	enzymatic reactions	719
+CHCC10675	no_gf	transport reactions	338
+CHCC10675	no_gf	exchange reactions	161
+CHCC10675	no_gf	sink	0
+CHCC10675	no_gf	other reactions	188
+CHCC6086	no_gf	cytosolic metabolites	687
+CHCC6086	no_gf	periplasmic metabolites	115
+CHCC6086	no_gf	extracellular metabolites	155
+CHCC6086	no_gf	enzymatic reactions	725
+CHCC6086	no_gf	transport reactions	336
+CHCC6086	no_gf	exchange reactions	157
+CHCC6086	no_gf	sink	0
+CHCC6086	no_gf	other reactions	182
+CHCC5614	no_gf	cytosolic metabolites	797
+CHCC5614	no_gf	periplasmic metabolites	170
+CHCC5614	no_gf	extracellular metabolites	172
+CHCC5614	no_gf	enzymatic reactions	765
+CHCC5614	no_gf	transport reactions	394
+CHCC5614	no_gf	exchange reactions	171
+CHCC5614	no_gf	sink	0
+CHCC5614	no_gf	other reactions	259
+CHCC4895	no_gf	cytosolic metabolites	616
+CHCC4895	no_gf	periplasmic metabolites	132
+CHCC4895	no_gf	extracellular metabolites	137
+CHCC4895	no_gf	enzymatic reactions	646
+CHCC4895	no_gf	transport reactions	317
+CHCC4895	no_gf	exchange reactions	140
+CHCC4895	no_gf	sink	0
+CHCC4895	no_gf	other reactions	166
+CHCC10675	mm_aer	cytosolic metabolites	683
+CHCC10675	mm_aer	periplasmic metabolites	121
+CHCC10675	mm_aer	extracellular metabolites	160
+CHCC10675	mm_aer	enzymatic reactions	719
+CHCC10675	mm_aer	transport reactions	338
+CHCC10675	mm_aer	exchange reactions	161
+CHCC10675	mm_aer	sink	0
+CHCC10675	mm_aer	other reactions	193
+CHCC6086	mm_aer	cytosolic metabolites	689
+CHCC6086	mm_aer	periplasmic metabolites	115
+CHCC6086	mm_aer	extracellular metabolites	155
+CHCC6086	mm_aer	enzymatic reactions	725
+CHCC6086	mm_aer	transport reactions	336
+CHCC6086	mm_aer	exchange reactions	157
+CHCC6086	mm_aer	sink	0
+CHCC6086	mm_aer	other reactions	186
+CHCC5614	mm_aer	cytosolic metabolites	799
+CHCC5614	mm_aer	periplasmic metabolites	170
+CHCC5614	mm_aer	extracellular metabolites	172
+CHCC5614	mm_aer	enzymatic reactions	765
+CHCC5614	mm_aer	transport reactions	394
+CHCC5614	mm_aer	exchange reactions	171
+CHCC5614	mm_aer	sink	0
+CHCC5614	mm_aer	other reactions	263
+CHCC4895	mm_aer	cytosolic metabolites	616
+CHCC4895	mm_aer	periplasmic metabolites	132
+CHCC4895	mm_aer	extracellular metabolites	137
+CHCC4895	mm_aer	enzymatic reactions	646
+CHCC4895	mm_aer	transport reactions	317
+CHCC4895	mm_aer	exchange reactions	140
+CHCC4895	mm_aer	sink	0
+CHCC4895	mm_aer	other reactions	169
+CHCC10675	milk_ana	cytosolic metabolites	683
+CHCC10675	milk_ana	periplasmic metabolites	121
+CHCC10675	milk_ana	extracellular metabolites	160
+CHCC10675	milk_ana	enzymatic reactions	719
+CHCC10675	milk_ana	transport reactions	339
+CHCC10675	milk_ana	exchange reactions	161
+CHCC10675	milk_ana	sink	0
+CHCC10675	milk_ana	other reactions	192
+CHCC6086	milk_ana	cytosolic metabolites	689
+CHCC6086	milk_ana	periplasmic metabolites	115
+CHCC6086	milk_ana	extracellular metabolites	156
+CHCC6086	milk_ana	enzymatic reactions	725
+CHCC6086	milk_ana	transport reactions	338
+CHCC6086	milk_ana	exchange reactions	158
+CHCC6086	milk_ana	sink	0
+CHCC6086	milk_ana	other reactions	188
+CHCC5614	milk_ana	cytosolic metabolites	799
+CHCC5614	milk_ana	periplasmic metabolites	170
+CHCC5614	milk_ana	extracellular metabolites	172
+CHCC5614	milk_ana	enzymatic reactions	765
+CHCC5614	milk_ana	transport reactions	395
+CHCC5614	milk_ana	exchange reactions	171
+CHCC5614	milk_ana	sink	0
+CHCC5614	milk_ana	other reactions	262
+CHCC4895	milk_ana	cytosolic metabolites	616
+CHCC4895	milk_ana	periplasmic metabolites	132
+CHCC4895	milk_ana	extracellular metabolites	137
+CHCC4895	milk_ana	enzymatic reactions	646
+CHCC4895	milk_ana	transport reactions	317
+CHCC4895	milk_ana	exchange reactions	140
+CHCC4895	milk_ana	sink	0
+CHCC4895	milk_ana	other reactions	168
+CHCC10675	milk_aer	cytosolic metabolites	683
+CHCC10675	milk_aer	periplasmic metabolites	121
+CHCC10675	milk_aer	extracellular metabolites	160
+CHCC10675	milk_aer	enzymatic reactions	719
+CHCC10675	milk_aer	transport reactions	339
+CHCC10675	milk_aer	exchange reactions	161
+CHCC10675	milk_aer	sink	0
+CHCC10675	milk_aer	other reactions	192
+CHCC6086	milk_aer	cytosolic metabolites	689
+CHCC6086	milk_aer	periplasmic metabolites	115
+CHCC6086	milk_aer	extracellular metabolites	155
+CHCC6086	milk_aer	enzymatic reactions	725
+CHCC6086	milk_aer	transport reactions	337
+CHCC6086	milk_aer	exchange reactions	157
+CHCC6086	milk_aer	sink	0
+CHCC6086	milk_aer	other reactions	185
+CHCC5614	milk_aer	cytosolic metabolites	799
+CHCC5614	milk_aer	periplasmic metabolites	170
+CHCC5614	milk_aer	extracellular metabolites	172
+CHCC5614	milk_aer	enzymatic reactions	765
+CHCC5614	milk_aer	transport reactions	395
+CHCC5614	milk_aer	exchange reactions	171
+CHCC5614	milk_aer	sink	0
+CHCC5614	milk_aer	other reactions	262
+CHCC4895	milk_aer	cytosolic metabolites	616
+CHCC4895	milk_aer	periplasmic metabolites	132
+CHCC4895	milk_aer	extracellular metabolites	137
+CHCC4895	milk_aer	enzymatic reactions	646
+CHCC4895	milk_aer	transport reactions	317
+CHCC4895	milk_aer	exchange reactions	140
+CHCC4895	milk_aer	sink	0
+CHCC4895	milk_aer	other reactions	168
+CHCC10675	mm_ana	cytosolic metabolites	683
+CHCC10675	mm_ana	periplasmic metabolites	121
+CHCC10675	mm_ana	extracellular metabolites	160
+CHCC10675	mm_ana	enzymatic reactions	719
+CHCC10675	mm_ana	transport reactions	339
+CHCC10675	mm_ana	exchange reactions	161
+CHCC10675	mm_ana	sink	0
+CHCC10675	mm_ana	other reactions	194
+CHCC6086	mm_ana	cytosolic metabolites	689
+CHCC6086	mm_ana	periplasmic metabolites	115
+CHCC6086	mm_ana	extracellular metabolites	156
+CHCC6086	mm_ana	enzymatic reactions	725
+CHCC6086	mm_ana	transport reactions	338
+CHCC6086	mm_ana	exchange reactions	158
+CHCC6086	mm_ana	sink	0
+CHCC6086	mm_ana	other reactions	190
+CHCC5614	mm_ana	cytosolic metabolites	799
+CHCC5614	mm_ana	periplasmic metabolites	170
+CHCC5614	mm_ana	extracellular metabolites	172
+CHCC5614	mm_ana	enzymatic reactions	765
+CHCC5614	mm_ana	transport reactions	395
+CHCC5614	mm_ana	exchange reactions	171
+CHCC5614	mm_ana	sink	0
+CHCC5614	mm_ana	other reactions	263
+CHCC4895	mm_ana	cytosolic metabolites	616
+CHCC4895	mm_ana	periplasmic metabolites	132
+CHCC4895	mm_ana	extracellular metabolites	137
+CHCC4895	mm_ana	enzymatic reactions	646
+CHCC4895	mm_ana	transport reactions	318
+CHCC4895	mm_ana	exchange reactions	140
+CHCC4895	mm_ana	sink	0
+CHCC4895	mm_ana	other reactions	168
+CHCC10675	milk_aer	gapfilled reactions (media)	5
+CHCC4895	milk_aer	gapfilled reactions (media)	2
+CHCC5614	milk_aer	gapfilled reactions (media)	4
+CHCC6086	milk_aer	gapfilled reactions (media)	4
+CHCC10675	milk_ana	gapfilled reactions (media)	5
+CHCC4895	milk_ana	gapfilled reactions (media)	2
+CHCC5614	milk_ana	gapfilled reactions (media)	4
+CHCC6086	milk_ana	gapfilled reactions (media)	9
+CHCC10675	mm_aer	gapfilled reactions (media)	5
+CHCC4895	mm_aer	gapfilled reactions (media)	3
+CHCC5614	mm_aer	gapfilled reactions (media)	4
+CHCC6086	mm_aer	gapfilled reactions (media)	4
+CHCC10675	mm_ana	gapfilled reactions (media)	7
+CHCC4895	mm_ana	gapfilled reactions (media)	3
+CHCC5614	mm_ana	gapfilled reactions (media)	5
+CHCC6086	mm_ana	gapfilled reactions (media)	11
