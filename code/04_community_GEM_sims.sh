@@ -30,6 +30,6 @@
 
 while read modelSet;do
     while read simMedia;do
-        echo smetana --verbose --detailed -o ${simMedia}_${modelSet} --mediadb media_db.tsv -m $simMedia models/$modelSet/*.xml;
+        smetana --verbose --detailed -o ${simMedia}_${modelSet} --mediadb media_db.tsv -m $simMedia models/$modelSet/*.xml;
     done< <(less media_db.tsv |cut -f1|tail -n +2|sort|uniq)
 done< <(ls models/)
