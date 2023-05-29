@@ -36,6 +36,7 @@ df_out<-cbind(df_out,data_meta)
 colors_same<-c('black','#005824','#238b45','#41ae76','#66c2a4')
 library(ggplot2)
 library(ggrepel)
+library(scales)
 #
 colnames(df_out)[4]<-"Culture"
 colnames(df_out)[5]<-"Ripening_time"
@@ -102,7 +103,7 @@ temp_scluster<-cbind(df_out$Culture,temp_scluster)
 
 ################
 
-cor(datac_avg_time_nm)
+
 pca_res <- prcomp(data_sub_umap, scale. = TRUE,center = T)
 library(ggfortify)
 autoplot(pca_res, data=df_out,colour="Ripening_months",frame = TRUE,frame.type = 'norm',shape="Culture")
@@ -350,7 +351,21 @@ df_bc<-ggplot(data_sub3_select_df_sel, aes(x=value, y=variable))+
         axis.title.y = element_text( size=size_all), 
         legend.title = element_text(size=size_all),
         legend.text = element_text(size=size_all),axis.text.y=element_blank())
+
+#selected peptides ELSKDIGSESTE , VNELSKD, EEEKNRLNF
+
+#sub select original peptide data
+data_pep<-cbind(data[,c(2:4)],apply(data[,87:334], 2, function(x) rescale(as.integer(x))))
+data_pep_melt<-melt(data_pep, id=c("Culture ", "Ripening time","Ripening months"))
+temp_size<-unlist(lapply(strsplit(as.character(data_pep_melt$variable),'_'), function(x) x[length(x)]))
+temp_seq<-unlist(lapply(strsplit(as.character(data_pep_melt$variable),'_'), function(x) x[1]))
+data_pep_melt$seq<-gsub("[(].*[)]","",temp_seq)
+data_pep_melt$pep_size<-nchar(data_pep_melt$seq)
+data_pep_melt$value<-as.numeric(data_pep_melt$value)
+ggplot(data_pep_melt,aes(value,pep_size))+geom_point()+facet_wrap(~`Ripening time`)
 #### one-way ANOVA
+
+
 library(rstatix)
 data_sub3_select_df_sel_list<-split(data_sub3_select_df_sel,factor(data_sub3_select_df_sel$variable))
 lapply(data_sub3_select_df_sel_list, function(x) x %>% anova_test(value ~ Condition*Ripening_months))
