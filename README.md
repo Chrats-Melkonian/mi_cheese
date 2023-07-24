@@ -50,3 +50,5 @@ mi_cheese/
 └── README.md
 
 ```
+
+[![DOI](https://zenodo.org/badge/586860014.svg)](https://zenodo.org/badge/latestdoi/586860014)
