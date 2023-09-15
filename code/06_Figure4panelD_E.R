@@ -43,6 +43,15 @@ htseq_count_TPM<-htseq_count
 for (i in 1:ncol(htseq_count)){
   htseq_count_TPM[,i]<-htseq_count_TPM[,i]/w_genes_ord/htseq_count_scalingFactor[i]
 }
+# Alternative scaling factor based on RPK
+# htseq_count_TPM<-htseq_count
+# for (i in 1:ncol(htseq_count)){
+#   htseq_count_TPM[,i]<-htseq_count_TPM[,i]/w_genes_ord
+# }
+# htseq_count_scalingFactor <- apply(htseq_count_TPM, 2, function(x)sum(x,na.rm = T)/1000000)
+# for (i in 1:ncol(htseq_count_TPM)){
+#   htseq_count_TPM[,i]<-htseq_count_TPM[,i]/htseq_count_scalingFactor[i]
+# }
 ################################
 
 
