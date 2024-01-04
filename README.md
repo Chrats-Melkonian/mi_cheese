@@ -17,9 +17,14 @@ $ tree mi_cheese/ -L 3
 mi_cheese/
 ├── code
 │   ├── 01_Figure02.R
-│   ├── 02_Figure03.R
+│   ├── 02_Figure02.R
 │   ├── 03_Figure3panelB_E.R
+│   ├── 04_community_GEM_sims.sh
 │   ├── 04_figure4panelB.R
+│   ├── 04_gf_rxns_compile.sh
+│   ├── 04_individual_GEM_sims.py
+│   ├── 04_model_summary_compile.sh
+│   ├── 04_model_summary_generate.py
 │   ├── 05_Figure4panelC.R
 │   ├── 06_Figure4panelD_E.R
 │   ├── 07_Figure5panelA_C.R
@@ -28,13 +33,10 @@ mi_cheese/
 │   └── 10_PCAs_supp.R
 ├── data
 │   ├── Models
-│   │   ├── LC.xml
-│   │   ├── LLm1.xml
-│   │   ├── LLm2.xml
-│   │   ├── ST.xml
 │   │   ├── curated
 │   │   ├── data
-│   │   └── Escher_maps
+│   │   ├── Escher_maps
+│   │   └── gapfilled
 │   ├── ORF_protein
 │   │   ├── LC.faa
 │   │   ├── LLm1.faa
